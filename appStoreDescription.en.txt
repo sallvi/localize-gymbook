@@ -1,0 +1,61 @@
+Here is GymBook, your fitness app to efficiently create, log and analyze your workouts at the gym - all in a beautiful and innovative user interface.
+
+MANAGE YOUR WORKOUTS
+● Create your workout with your own exercises or choose from the 50 simple, basic exercises
+● Group and sort your exercises within a workout
+● Define the sets, weight and reps you want to perform for each exercise.
+● Define different settings for your sets of an exercise (e.g. for warm up sets or pyramid training)
+
+MANAGE YOUR EXERCISES
+● Edit the preloaded basic exercises
+● Create your own exercises (cardio exercises also supported)
+● Assign a region, a primary and secondary muscle group and write down notes for your exercises
+
+WORK OUT!
+● Efficient workout execution view for fast logging and tracking of your workout
+● Immediately see how you did last time
+● Use the beautiful, pre-filled picker views for fast logging
+● Use Quick-Log for super fast logging
+● Quickly go to all logs of the current exercise, of the current workout and of the previous workout, including the graphical statistics
+● Change to a different workout date (if you want to log previous workouts)
+● See your exercise statistics in a configurable, clear line graph 
+● Move automatically to the next exercise of your workout after saving a log (configurable)
+● The workout screen immediately shows a detailed overview about today's workout
+● The innovative "Workout Matrix" gives you always a detailed overview about your current workout
+● A progress bar lets you always know your overall workout progress
+
+TIME YOUR RESTS
+● Choose between a classic or a graphical timer
+● Configure your preferred timer duration
+● Configure different durations for the primary and secondary timer
+● Enable auto start
+● Choose from different timer sounds
+● Have your rest timer work even if you set your iPhone to sleep or close your app (“Notifications” have to be enabled)
+● Hint: Adapt the general “Notifications” settings to customize the rest timer to suit your needs even more
+
+REVIEW YOUR PERFORMANCE
+● View your logs by workout, by exercise, by date, by target or by muscle group
+● View statistics about average, total, maximum and minimum weight and reps - all in a clear interactive line graph and/or pie chart
+● Export your logs as XML and CSV file
+
+CONTROL YOUR BODY WEIGHT
+● Track your body weight
+● Calculate your BMI
+● Analyze your body weight and BMI statistics in an interactive line graph
+
+DESIGNS
+● Change the appearance of GymBook
+● Choose from one of three great designs
+
+*Some special functions can be purchased via in-app purchases.
+
+SUPPORT: GymBook supports iPhone 4 and higher and is optimized for iPhone 5. Supports metric (kilograms, meters) and imperial (pounds, feet) system of units.
+
+LOCALIZATION: Multiple language support is currently added for English, German, Italian and Russian. 
+?!?!?! You want the app in your own language? We have created the open source project https://github.com/sallvi/localize-gymbook. If your language is not supported (or you see errors and/or missing translations in one of the supported languages), you can make your contribution and we will integrate it as soon as possible. ?!?!?!
+
+NOTE: GymBook is developed by gym experts, for gym experts. Therefore it focuses on YOUR exercises and YOUR workouts and provides only basic exercises for better orientation and no predefined workouts.
+
+!!!!!! VERY IMPORTANT: The basic exercises provided by GymBook are intended as orientation help and do not show in detail how to correctly execute an exercise. Professional consultation is still highly recommended before performing your training. !!!!!!
+
+ACKNOWLEDGMENTS: Many, many thanks go to Everkinetic (http://everkinetic.com) for their beautiful exercise images.

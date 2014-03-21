@@ -1,0 +1,386 @@
+/*
+ GymBook.strings
+ GymBook
+ 
+ Created by Salvatore Rocca on 7/29/12.
+ Copyright (c) 2012 Salvatore Rocca. All rights reserved.
+ */
+
+/* Navigation */
+"navigation.exercises" = "Упражнения";
+"navigation.workouts" = "Тренировки";
+"navigation.logs" = "Журнал";
+"navigation.bodyweight" = "Вес";
+"navigation.settings" = "Настройки";
+
+/* Titles */
+"title.exercises" = "Упражнения";
+"title.workouts" = "Тренировки";
+"title.newExercise" = "Новое Упражнение";
+"title.editExercise" = "Изменить упражнение";
+"title.addExercise" = "Новое упражнение";
+"title.logs" = "Журнал";
+"title.settings" = "Настройки";
+"title.store" = "Магазин";
+"title.bodyweight" = "Вес";
+"title.bodyweights" = "Веса";
+//
+"title.subject.export" = "%@ Журнал";
+"title.subject.feedback" = "%@ Обратная связь";
+
+/* Buttons */
+"button.menu" = "Меню";
+"button.cancel" = "Отмена";
+"button.ok" = "Ok";
+"button.continue" = "Продолжить";
+"button.remove" = "Удалить";
+"button.deleteExercise" = "Удалить упражнение";
+"button.removeExercise" = "Стереть упражнение";
+"button.deleteWorkout" = "Удалить тренировку";
+"button.deleteExercises.all" = "Удалить всё";
+"button.deleteExercises.unused" = "Удалить неиспользованные";
+"button.addLog" = "Сохранить";
+"button.updateLog" = "Обновить";
+"button.deleteLog" = "Удалить";
+"button.set" = "Подход";
+"button.setDate" = "Установить";
+"button.setDateToday" = "Сегодня";
+"button.timer" = "Таймер";
+"button.more" = "Ещё";
+"button.addBodyweightLog" = "Сохранить";
+"button.updateBodyweightLog" = "Обновить";
+"button.deleteBodyweightLog" = "Удалить";
+"button.bodyweights" = "Все веса";
+"button.save" = "Сохранить";
+"button.buy" = "Купить %@ (%@)";
+"button.strength" = "Прочность";
+"button.cardio" = "Кардио";
+
+/* Labels */
+"label.none" = "Нет";
+"label.name" = "Имя";
+"label.targetRegion" = "Часть тела";
+"label.targetMuscle" = "Мышечная группа";
+"label.targetMuscle.primary" = "Первая группа мышц";
+"label.targetMuscle.secondary" = "Вторая группа мышц";
+"label.notes" = "Заметки";
+"label.exercise" = "Упражнение";
+"label.logs" = "Журнал";
+"label.group" = "Группа";
+"label.set" = "Подход";
+"label.addSet" = "Добавить подход";
+"label.reps" = "Повторы";
+"label.weight" = "Вес";
+"label.picker.sets" = "Подходы";
+"label.picker.reps" = "Повторы";
+"label.today" = "Сегодня";
+"label.date" = "Дата";
+"label.time" = "Время";
+"label.no" = "Нет";
+"label.yes" = "Да";
+"label.notAvailable" = "-";
+"label.pageXOfY" = "%i из %i";
+"label.all" = "Все";
+"label.image" = "Изображение"; //own translation
+//
+"label.store.discount" = "-%@%%";
+"label.store.active" = "Активные";
+"label.store.package" = "Пакет";
+"label.store.packages" = "Пакеты";
+"label.store.feature" = "Функция";
+"label.store.features" = "Функции";
+//
+"label.showLogs.exercise" = "Упражнение";
+"label.showLogs.lastTime" = "В последнее время";
+"label.showLogs.previousTime" = "В прошлый раз";
+"label.showLogs.today" = "Сегодня";
+"label.showLogs.workout" = "Тренировка";
+//
+"label.logsByExercise" = "По упражнениям";
+"label.logsByDate" = "По дате";
+"label.logsByTargetRegion" = "По частям тела";
+"label.logsByTargetMuscle" = "По мышечным группам";
+"label.logsByTargetMuscle.primary" = "Первая группа";
+"label.logsByTargetMuscle.secondary" = "Вторая группа";
+"label.logsByTargetMuscle.all" = "Все группы мышц";
+"label.logsByTargetMusclePrimary" = "По первой группе мышц";
+"label.logsByTargetMuscleSecondary" = "По второй группе мышц";
+"label.logsByWorkout" = "По тренировкам";
+"label.allLogs" = "Все";
+"label.logsExport" = "Экспорт";
+//
+"label.restorePurchases" = "Восстановить покупки";
+//regions
+"label.region.010.shoulders" = "Плечи";
+"label.region.020.chest" = "Грудь";
+"label.region.030.back" = "Спина";
+"label.region.040.arms" = "Руки";
+"label.region.050.abdomen" = "Брюшная полость";
+"label.region.060.buttocks" = "Ягодицы";
+"label.region.070.legs" = "Ноги";
+"label.region.090.cardio" = "Кардио";
+//muscles - abdomen
+"label.muscle.abdominals" = "Пресс";
+//muscles - arms
+"label.muscle.armExtensors" = "Разгибающие мышцы рук";
+"label.muscle.armFlexors" = "Сгибающие мышцы рук";
+"label.muscle.wristExtensors" = "Разгибающие запястье";
+"label.muscle.wristFlexors" = "Сгибатели запястья";
+//muscles - back
+"label.muscle.trapezius" = "Трапеция";
+"label.muscle.dorsalMuscles" = "Мышцы спины";
+"label.muscle.lumbarMuscles" = "Поясничные мышцы";
+//muscles - buttocks
+"label.muscle.glutes" = "Ягодицы";
+//muscles - chest
+"label.muscle.pectorals" = "Грудные";
+//muscles - legs
+"label.muscle.adductors" = "Приводящие мышцы";
+"label.muscle.calves" = "Голень";
+"label.muscle.quadriceps" = "Четырехглавая мышца";
+"label.muscle.thighFlexors" = "Сгибающая мышца бедра";
+//muscles - shoulders
+"label.muscle.shoulders" = "Плечи";
+//
+"label.graph.logs.average" = "Среднее";
+"label.graph.logs.total" = "Суммарно";
+"label.graph.logs.max" = "Максимум";
+"label.graph.logs.min" = "Минимум";
+//
+"label.linegraph.period.0" = "5Лет";
+"label.linegraph.period.1" = "2Года";
+"label.linegraph.period.2" = "1Год";
+"label.linegraph.period.3" = "6Мес";
+"label.linegraph.period.4" = "3Mес";
+"label.linegraph.period.5" = "1Mес";
+"label.linegraph.overview.allTime" = "За все время";
+"label.linegraph.overview.sinceDate" = "Последние %i дней";
+//
+"label.bodyweight.bmi.today" = "Ваш BMI сегодня: %.1lf (%@)";
+"label.bodyweight.bmi.date" = "Ваш BMI на %@: %.1lf (%@)";
+"label.bodyweight.bmi.na" = "Введите ваш вес, чтобы рассчитать BMI";
+"label.bodyweight.bmi.category.underweight" = "Недовес";
+"label.bodyweight.bmi.category.normal" = "Нормальный";
+"label.bodyweight.bmi.category.overweight" = "Избыточен";
+"label.bodyweight.bmi.category.obese" = "Ожирение";
+//
+"label.settings.general.defaultUnitSystem" = "Единицы измерения";
+"label.settings.general.theme" = "Тема";
+"label.settings.general.theme.default" = "По умолчанию";
+"label.settings.general.theme.blue" = "Голубая";
+"label.settings.general.theme.red" = "Красная";
+"label.settings.general.theme.random" = "Случайная";
+"label.settings.timer" = "Таймер";
+"label.settings.timer.duration" = "Продолжительность";
+"label.settings.timer.durationSecondary" = "Продолжительность (вторая)";
+"label.settings.timer.duration.seconds" = "секунд";
+"label.settings.timer.autostart" = "Автостарт";
+"label.settings.timer.graphical" = "Графический";
+"label.settings.timer.sound" = "Звук";
+"label.settings.timer.sound.timerAlertBoxingBell.wav" = "Бокс";
+"label.settings.timer.sound.timerAlertTriTone.caf" = "Трезвучие";
+"label.settings.timer.sound.timerAlertReminder.caf" = "Напоминание";
+"label.settings.timer.sound.timerAlertGlass.caf" = "Стекло";
+"label.settings.timer.sound.timerAlertHorn.caf" = "Рог";
+"label.settings.workout" = "Тренировка";
+"label.settings.workout.graphType" = "Вид графика";
+"label.settings.workout.graphType.0" = "Среднее";
+"label.settings.workout.graphType.description.0" = "Среднее кол-во повторений и средний вес";
+"label.settings.workout.graphType.1" = "Общее";
+"label.settings.workout.graphType.description.1" = "Общее кол-во повторений и общий вес";
+"label.settings.workout.graphType.2" = "Маскимум";
+"label.settings.workout.graphType.description.2" = "Максимум повторений и максимальный вес";
+"label.settings.workout.graphType.3" = "Минимум";
+"label.settings.workout.graphType.description.3" = "Минимальное кол-во повторений и минимальный вес";
+"label.settings.workout.moveToNextExercise" = "К след упражнению";
+"label.settings.workout.moveToNextExercise.manually" = "Вручную";
+"label.settings.workout.moveToNextExercise.assisted" = "Автоматически";
+"label.settings.basicInformation" = "Основная информация";
+"label.settings.basicInformation.bodyHeight" = "Рост";
+"label.settings.basicInformation.sex" = "Пол";
+"label.settings.basicInformation.sex.male" = "Мужской";
+"label.settings.basicInformation.sex.female" = "Женский";
+"label.settings.basicInformation.birthday" = "Дата рождения";
+"label.settings.applicationInformation.store" = "Магазин";
+"label.settings.applicationInformation.rate" = "Оценить приложение";
+"label.settings.applicationInformation.feedback" = "Оставить отзыв";
+"label.settings.applicationInformation.feedback.subtitle" = "Написать пожелание или сообщить об ошибке";
+"label.settings.applicationInformation.recommend" = "Рекомендовать приложение";
+"label.settings.applicationInformation.recommend.sms" = "Рекомендовать по SMS";
+"label.settings.applicationInformation.recommend.email" = "Рекомендовать по e-mail";
+"label.settings.applicationInformation.recommend.whatsapp" = "Рекомендовать по WhatsApp";
+"label.settings.applicationInformation.version" = "Версия";
+
+/* Texts */
+"text.placeholder.addWorkout" = "Добавить новую тренировку...";
+"text.placeholder.textInput" = "Введите %@ сюда.";
+"text.placeholder.addBodyweightLog.today" = "Ваш вес сегодня...";
+"text.placeholder.addBodyweightLog.date" = "Ваш вес на %@...";
+"text.description.workoutExerciseSets.strength" = "%i подоход из %@ подход %@ %@";
+"text.description.workoutExerciseSets.cardio" = "%i подход из %@ %@ за %@ минут";
+"text.description.exerciseLog.strength" = "%i x %.2lf %@";
+"text.description.exerciseLog.cardio" = "%i', %.2lf %@";
+"text.description.footer.logsExport" = "Экспортировать журнал на email. Журнал будет экспортировать в формат XML и CSV.";
+"text.description.footer.exercise.workoutsCount" = "Это приложение было использовано в %i тренировках.";
+"text.description.footer.exercise.workoutsCount.singular" = "This exercise is being used inside %i workout."; //TODO
+"text.description.footer.exercise.logsCount" = "Здесь %i журналов для этого упражнения.";
+"text.description.footer.exercise.logsCount.singular" = "There is %i log for this exercise."; //TODO
+"text.description.mail.logsExport" = "Автоматически сгенерированное письмо содержит файл в формате XML и CSV.";
+"text.description.timerDismissAndStop" = "Свайп вниз чтобы закрыть таймер и остановить его";
+"text.description.timerDismissAndContinue" = "Свайп вверх чтобы закрыть таймер, но не останавливать его";
+"text.description.timerCompleted" = "%@ таймер завершен";
+"text.description.missingDataForLineGraph" = "Линия графика появится здесь после достаточного кличества данных.";
+"text.description.missingDataForPieChart" = "Круговая диаграмма появится здесь после достаточного кличества данных.";
+"text.description.graph.logs.average.reps" = "Среднее количество повторений";
+"text.description.graph.logs.average.time" = "Среднее время";
+"text.description.graph.logs.average.weight" = "Средний вес";
+"text.description.graph.logs.average.distance" = "Средняя дистанция";
+"text.description.graph.logs.total.reps" = "Общее кол-во повторений";
+"text.description.graph.logs.total.time" = "Общее время";
+"text.description.graph.logs.total.weight" = "Общий вес";
+"text.description.graph.logs.total.distance" = "Общая дистанция";
+"text.description.graph.logs.max.reps" = "Максимум повторений";
+"text.description.graph.logs.max.time" = "Максимальное время";
+"text.description.graph.logs.max.weight" = "Максимальный вес";
+"text.description.graph.logs.max.distance" = "Максимальная дистанция";
+"text.description.graph.logs.min.reps" = "Минимальное кол-во повторений";
+"text.description.graph.logs.min.time" = "Минимальное время";
+"text.description.graph.logs.min.weight" = "Минимальный вес";
+"text.description.graph.logs.min.distance" = "Минимальная дистанция";
+"text.description.bodyweightLog" = "%.1lf%@";
+"text.description.settings.general.theme" = "Перезагрузите приложение (удалите его из запущенных приложений) чтобы применить новую тему.";
+"text.description.settings.timer.durationSecondary" = "Задержите палец на кнопке чтобы запустить таймер со второй продолжительностью. С обычным нажатием вы просто запускаете таймер с первой продолжительностью как обычно.";
+"text.description.settings.workout.moveToNextExercise" = "Установите парамер '%@' если после сохранения журнала вы хотите автоматически перейти к след упражнению.";
+"text.description.settings.workout.graphType" = "Линия графика во время тренировки показывает %@.";
+"text.description.settings.recommend" = "Посмотрите новое приложение: %@";
+"text.confirmation.deleteExercise" = "Вы уверены что хотите удалить упражнение \n\"%@\"?";
+"text.confirmation.deleteWorkout" = "Вы уверены что хотите удалить тренировку \n\"%@\"?";
+"text.confirmation.deleteWorkoutExercise" = "Вы уверены что хотите удалить упражнение\n\"%@\" with %@?";
+"text.confirmation.deleteExercises.all" = "Вы уверены что хотите удалить все упражнения?";
+"text.confirmation.deleteExercises.unused" = "Неиспользованные упражнения, которые не находятся ни в оной тренировке и не находятся ни в одном журнале. Вы уверены, что хотите их удалить?";
+"text.confirmation.inAppPurchases.thankYou" = "Успешная покупка! Спасибо за поддержку! Наслаждайтесь новыми функциями %@!";
+"text.information.noData.title.noExercises" = "Нет упражнений";
+"text.information.noData.title.noWorkouts" = "Нет тренировок";
+"text.information.noData.title.noWorkoutExercises" = "В этой тренировке нет упражнений";
+"text.information.noData.title.noLogs" = "Нет журналов";
+"text.information.noData.subtitle.noExercises" = "Ваши упражнения появятся здесь.";
+"text.information.noData.subtitle.noWorkouts" = "Ваши тренировки появятся здесь.";
+"text.information.noData.subtitle.noWorkoutExercises" = "Ваши упражнения тренировок будут здесь.";
+"text.information.noData.subtitle.noLogs" = "Ваши журналы будут здесь.";
+"text.information.noNotes" = "Нет заметок";
+"text.alert.inactiveFeature.standard" = "Эту функцию можно разблокировать в %@ магазине.";
+"text.alert.inactiveFeature.extended" = "Вы можете разблокировать эту функцию в магазине %@ купив %@.\nПодсказки: вы также можете разблокировать все функции, купив весь %@ пакет.";
+"text.alert.inAppPurchases.introduction" = "Чтобы поддержать разработку %@, вы можете приобрести специальные функции через внутренние покупки.\nНе волнуйтесь, старым пользователям эти функции доступны БЕСПЛАТНО, как благодарность.\nСпасибо за пользование %@!";
+"text.alert.inAppPurchases.unableToLoadProducts" = "Покупки внутри приложения не доступны.";
+"text.alert.inAppPurchases.unableToBuyProduct" = "Покупки внутри приложения не могут быть завершены.";
+//products
+"text.inAppPurchase.product.package.platinum.description" = "Этот пакет даст вам возможность безлимитного использования всех фукнции [{APP_NAME}]. Всего за [{PRODUCT_PRICE}] он разблокирует все нынешние специальные функции а также все будущие функции, которые будут разработаны. Каждая новая функция автоматически будет доступна для Вас. И это навсегда!";
+"text.inAppPurchase.product.package.gold.description" = "С этим пакетом вы сразу откроете все функции [{APP_NAME}] за более привлекательную сумму.";
+"text.inAppPurchase.product.feature.timerPlus.description" = "С [{PRODUCT_NAME}] вы откроете расширенные функции таймера. Вторичный секундомер позволяет вам быть более динамичным, с автоматическим стартом таймера вы сохраняете свое время и энергию, также есть удобный графический таймер.\n\nПоследнее, но не лишнее: вы также сможете изменять звук окончания таймера.";
+"text.inAppPurchase.product.feature.themes.description" = "С этой покупкой вы сможете менять темы оформления [{APP_NAME}]. Выбирете наилучший дизайн для вашей тренировки.\n\nНа данный момент доступны 3 темы. В будущем тем будет больше.";
+"text.inAppPurchase.product.feature.export.description" = "[{PRODUCT_NAME}] позволяет экспортировать журнал тренировок в стандартные форматы CSV и XML для использования их вне [{APP_NAME}]. Они пригодятся для ведения статистики, для будущих тренировок, для резервной копии, для передачи вашему тренеру... или для чего-нибудь еще.";
+//hints - checkpoints
+"text.hint.welcome" = "Добро пожаловать в [{APP_NAME}]. Эти обучение научит Вас пользоваться [{APP_NAME}].";
+"text.hint.createFirstWorkout" = "Нажмите на 'Изменить' чтобы создать вашу первую тренировку.";
+"text.hint.nameFirstWorkout" = "Введите имя вашей тренировки(например \"День 1\")";
+"text.hint.created1Workout" = "Выберите эту программу тренировок чтобы начать добавлять упражнения.";
+"text.hint.createFirstWorkoutExercise" = "Нажмите на '+' чтобы добавить первое упражнение в эту тренировку.";
+"text.hint.createSecondWorkoutExercise" = "Нажмите на '+' еще раз чтобы добавить другое упражнение в эту программу тренировок.";
+"text.hint.added2WorkoutExercises" = "Выбирете упражнение чтобы начать тренировку.";
+"text.hint.createWorkoutExercise.exercise" = "Нажмите на 'Упражнение' чтобы выбрать ваше упражнение.";
+"text.hint.createWorkoutExercise.exercise.selectExercise" = "Выберите упражнение, которое вы хотите добавить.";
+"text.hint.createWorkoutExercise.exercise.newExercise" = "Вам не подоходит ни одно предустановленное упражнение? Нажмите на '+' чтобы сразу создать ваше упражнение.\nПодсказки: вы также можете модифицировать готовые упражнения.";
+"text.hint.createWorkoutExercise.defaults" = "Вы можете редактировать подходы в упражнении, а также группировать упражнения в тренировочной программе.";
+"text.hint.createWorkoutExercise.save" = "Нажмите кнопку 'Закончить' чтобы сохранить.";
+"text.hint.addFirstExerciseLog" = "В таблице содержатся все подходы, которые вы выполнили в упражнении. Нажмите на подход, чтобы создать запись в журнале.";
+"text.hint.customizeStatistics" = "У вас есть возможность изменять вид графиков и круговых диаграмм.";
+//hints - specifics
+"text.hint.manageExercises" = "Нажмите на '+' чтобы создать новое упражнение, а также нажмите на существующее упражнение, чтобы отредактировать его.";
+"text.hint.createExercise.exercise" = "Здесь нужно ввести название упражнения (например \"Жим гантелей лёжа\").";
+"text.hint.createExercise.region" = "Здесь вы можете выбрать целевую группу мышц упражнения (например \"Грудь\")";
+"text.hint.createExercise.optional" = "Вы также можете выбрать первую либо вторую группу мышц и добавить заметки.";
+"text.hint.createExercise.save" = "Нажмите на кнопку 'Закончить' чтобы сохранить новое упражнение";
+"text.hint.lineGraphInfo" = "Попробуйте удержать палец на линии графика и потянуть её влево или вправо чтобы видеть ваши результаты на определенную дату.";
+"text.hint.quickLog" = "Удержите ваш палец на подходе для быстрого сохранения как в прошлый раз.\nПодсказка: это работает и для выбранных подходов и все предыдущие.";
+
+/* Data */
+//exercises
+/*
+ ?[???]
+ ?[???]
+ ?[???]
+ ?[???]
+ */
+//exercises - брюшная полость
+"data.exercise.crunches" = "Пресс";
+"data.exercise.twistCrunches" = "Твист Пресс"; //own translation
+"data.exercise.sitUps" = "Приседания";
+"data.exercise.legRaises" = "Подъём ног";
+"data.exercise.dumbbellSideBends" = "Наклон гантелей в сторону";
+//exercises - руки
+"data.exercise.dumbbellCurls" = "Подъём гантелей на бицепс";
+"data.exercise.alternatingDumbbellCurls" = "Подъём гантелей на бицепс (переменный)"; //own translation
+"data.exercise.concentrationCurls" = "Концентрированный подъем гантелей на бицепс";
+"data.exercise.inclineDumbbellCurls" = "Подём гантелей на бицепс на наклонной скамье";
+"data.exercise.alternatingInclineDumbbellCurls" = "Подём гантелей на бицепс на наклонной скамье (переменный)"; //own translation
+"data.exercise.hammerCurls" = "Молотки";
+"data.exercise.alternatingHammerCurls" = "Молотки (переменный)"; //own translation
+"data.exercise.barbellCurls" = "Подъём штанги на бицепс стоя";
+"data.exercise.lyingBarbellTricepsExtensions" = "Французский жим лёжа";
+"data.exercise.lyingDumbbellTricepsExtensions" = "Разгибания гантелей лежа двумя руками";
+"data.exercise.tricepsKickbacks" = "Разгибания гантелей в наклоне";
+"data.exercise.tricepsDips" = "Отжимания на брусьях";
+//exercises - спина
+"data.exercise.chinUps" = "Подтягивания на турнике";
+"data.exercise.reverseChinUps" = "Подтягивания на турнике обратным хватом";
+"data.exercise.frontLatPullDowns" = "Тяга верхнего блока к груди";
+"data.exercise.backLatPullDowns" = "Тяга верхнего блока к спине";
+"data.exercise.dumbbellOneArmRows" = "Тяга гантели одной рукой в наклоне";
+"data.exercise.dumbbellRows" = "Тяга гантели в наклоне";
+"data.exercise.barbellRows" = "Тяга штанги в наклоне";
+"data.exercise.seatedCableRows" = "Seated Cable Rows"; //TODO
+"data.exercise.dumbbellDeadlifts" = "Dumbbell Deadlifts"; //TODO
+"data.exercise.barbellDeadlifts" = "Становая тяга"; //TODO
+"data.exercise.backExtensions" = "Гиперэкстензии";
+//exercises - ягодицы
+"data.exercise.barbellLunges" = "Выпады со штангой";
+"data.exercise.dumbbellLunges" = "Выпады с гантелями";
+"data.exercise.cableHipExtensions" = "Разгибание бедра"; //TODO replaced data.exercise.hipExtensions
+"data.exercise.bridging" = "Мось";
+"data.exercise.seatedMachineHipAbductions" = "Отведение бедра"; //TODO replaced data.exercise.hipAbductions
+//exercises - грудь
+"data.exercise.inclineBarbellBenchPresses" = "Жим штанги лёжа на наклонной скамье";
+"data.exercise.barbellBenchPresses" = "Жим штанги лёжа";
+"data.exercise.declineBarbellBenchPresses" = "Жим узким хватом лежа под наклоном вниз";
+"data.exercise.pushUps" = "Отжимания от пола";
+"data.exercise.dumbbellFlys" = "Разводка гантелей лёжа";
+"data.exercise.machineFlys" = "Machine Flys"; //TODO
+"data.exercise.inclineDumbbellBenchPresses" = "Жим гантелей лёжа под наклоном";
+"data.exercise.dumbbellBenchPresses" = "Жим гантелей лёжа";
+"data.exercise.declineDumbbellBenchPresses" = "Жим гантелей лёжа под наклоном вниз";
+//exercises - ноги
+"data.exercise.dumbbellSquats" = "Dumbbell Squats"; //TODO
+"data.exercise.barbellFrontSquats" = "Приседания со штангой на груди";
+"data.exercise.barbellSquats" = "Приседания со штангой";
+"data.exercise.legPresses" = "Жим ногами";
+"data.exercise.legExtensions" = "Разгибание ног";
+"data.exercise.seatedLegCurls" = "Seated Leg Curls"; //TODO
+"data.exercise.machineAdductions" = "Сведение ног в тренажёре";
+"data.exercise.standingBarbellCalfRaises" = "Standing Barbell Calf Raises"; //TODO replaced data.exercise.standingCalfRaises
+"data.exercise.standingMachineCalfRaises" = "Standing Machine Calf Raises"; //TODO
+//exercises - плечи
+"data.exercise.barbellBackPresses" = "Жим сидя из-за головы в смите";
+"data.exercise.barbellFrontPresses" = "Жим штанги сидя";
+"data.exercise.dumbbellPresses" = "Жим гантелей сидя";
+"data.exercise.machinePresses" = "Machine Presses"; //TODO
+"data.exercise.arnoldPresses" = "Arnold Presses"; //TODO
+"data.exercise.dumbbellLateralRaises" = "Махи гантелями в сторону";
+"data.exercise.dumbbellFrontRaises" = "Махи гантелями перед собой";
+"data.exercise.barbellFrontRaises" = "Подъём штанги перед собой";
+"data.exercise.barbellUprightRows" = "Тяга штанги к подбородку";
+"data.exercise.dumbbellUprightRows" = "Тяга гантелей к подбородку";
+"data.exercise.cableUprightRows" = "Тяга кабель к подбородку"; //own translation
+//exercises - cardio
+"data.exercise.jogging" = "бег";
+"data.exercise.cycling" = "езда на велосипеде";
+"data.exercise.rowing" = "гребля";

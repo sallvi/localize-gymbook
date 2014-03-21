@@ -51,11 +51,10 @@
 
 SUPPORT: GymBook поддерживает iPhone 4 и выше, адаптирован для iPhone 5. Поддерживает метрическую (килограммы, метры) и английскую систему (фунты и ярды) мер счисления.
 
-LOCALIZATION: Поддержка языков: Английский, Немецкий, Итальянский и Русский.
-?!?!?! You want the app in your own language? We have created the open source project https://github.com/sallvi/localize-gymbook. If your language is not supported (or you see errors and/or missing translations in one of the supported language), you can make your contribution and we will integrate it in the next possible update. ?!?!?!
+LOCALIZATION: Поддержка языков: Английский, Немецкий, Итальянский и Русский (more under https://github.com/sallvi/localize-gymbook).
 
 NOTE: Обратите внимание: GymBook создана экспертами качалки для экспертов качалки. Поэтому она нацелена на ваши упражнения и ваши тренировки и предоставляет только несколько простейших упражнений и никаких предустановленных программ тренировок.
 
-!!!!!! VERY IMPORTANT: The basic exercises provided by GymBook are intended as orientation and do not show in detail how to correctly execute an exercise. Professional consultation is still highly recommended before performing your training. !!!!!!
+!!!! VERY IMPORTANT: The basic exercises provided by GymBook are intended as orientation and do not show in detail how to correctly execute an exercise. Professional consultation is still highly recommended before performing your training. !!!!
 
-ACKNOWLEDGMENTS: Many, many thanks go to Everkinetic (http://everkinetic.com) for their beautiful exercise images.
+ACKNOWLEDGMENTS: Many thanks go to Everkinetic (http://everkinetic.com) for their beautiful exercise images.

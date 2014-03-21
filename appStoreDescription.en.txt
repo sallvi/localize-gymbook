@@ -26,8 +26,7 @@ WORK OUT!
 
 TIME YOUR RESTS
 ● Choose between a classic or a graphical timer
-● Configure your preferred timer duration
-● Configure different durations for the primary and secondary timer
+● Configure your preferred timer duration and different durations for the primary and secondary timer
 ● Enable auto start
 ● Choose from different timer sounds
 ● Have your rest timer work even if you set your iPhone to sleep or close your app (“Notifications” have to be enabled)
@@ -49,13 +48,13 @@ DESIGNS
 
 *Some special functions can be purchased via in-app purchases.
 
-SUPPORT: GymBook supports iPhone 4 and higher and is optimized for iPhone 5. Supports metric (kilograms, meters) and imperial (pounds, feet) system of units.
+SUPPORT: GymBook supports iPhone 4+ and is optimized for iPhone 5. Supports metric (kilograms, meters) and imperial (pounds, feet) system of units.
 
 LOCALIZATION: Multiple language support is currently added for English, German, Italian and Russian. 
-?!?!?! You want the app in your own language? We have created the open source project https://github.com/sallvi/localize-gymbook. If your language is not supported (or you see errors and/or missing translations in one of the supported languages), you can make your contribution and we will integrate it as soon as possible. ?!?!?!
+?!?! You want the app in your own language? We have created the open source project https://github.com/sallvi/localize-gymbook. If your language is not supported (or you see errors and/or missing translations in one of the supported languages), you can make your contribution and we will integrate it as soon as possible. ?!?!
 
 NOTE: GymBook is developed by gym experts, for gym experts. Therefore it focuses on YOUR exercises and YOUR workouts and provides only basic exercises for better orientation and no predefined workouts.
 
-!!!!!! VERY IMPORTANT: The basic exercises provided by GymBook are intended as orientation help and do not show in detail how to correctly execute an exercise. Professional consultation is still highly recommended before performing your training. !!!!!!
+!!!! VERY IMPORTANT: The basic exercises provided by GymBook are intended as orientation help and do not show in detail how to correctly execute an exercise. Professional consultation is still highly recommended before performing your training. !!!!
 
-ACKNOWLEDGMENTS: Many, many thanks go to Everkinetic (http://everkinetic.com) for their beautiful exercise images.
+ACKNOWLEDGMENTS: Many thanks go to Everkinetic (http://everkinetic.com) for their beautiful exercise images.

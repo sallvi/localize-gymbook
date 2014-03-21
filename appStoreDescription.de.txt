@@ -26,8 +26,7 @@ TRAINIERE!
 
 STOPPE DEINE PAUSEN
 ● Selektiere zwischen dem klassischen oder dem grafischen Timer
-● Konfiguriere deine gewünschte Timer-Zeit
-● Konfiguriere verschiedene Zeiten für den primären und den sekundären Timer
+● Konfiguriere deine gewünschte Timer-Zeit sowie verschiedene Zeiten für den primären und den sekundären Timer
 ● Schalte den Autostart ein
 ● Wähle aus verschiedenen Timer Sounds
 ● Dein Timer funktioniert auch wenn du dein iPhone sperrst oder die App schliesst („Mitteilungen“ müssen eingeschaltet sein)
@@ -49,13 +48,12 @@ DESIGN
 
 *Einige Spezialfunktionen können via In-App-Käufe erworben werden.
 
-SUPPORT: GymBook unterstützt iPhone 4 und höher und ist für das iPhone 5 optimiert. Es wird das metrische (Kilogramm, Meter) und das imperiale (Pfund, Fuss) Masssystem  unterstützt.
+SUPPORT: GymBook unterstützt iPhone 4+ und ist für das iPhone 5 optimiert. Es wird das metrische (Kilogramm, Meter) und das imperiale (Pfund, Fuss) Masssystem  unterstützt.
 
-?!?!?! LOKALISIERUNGEN: Neben Deutsch werden zur Zeit die Sprachen Englisch, Italienisch und Russisch unterstützt.
-Du willst die App in deiner eigenen Sprache? Wir haben das Open Source Projekt https://github.com/sallvi/localize-gymbook erstellt. Falls deine gewünschte Sprache also nicht unterstützt wird (oder du Fehler und/oder Unvollständigkeiten in einer der unterstützten Sprachen siehst), kannst du deinen Beitrag leisten und wir werden ihn beim nächstmöglichen Update integrieren. ?!?!?! 
-
+LOKALISIERUNGEN: Neben Deutsch werden zur Zeit die Sprachen Englisch, Italienisch und Russisch unterstützt (mehr auf https://github.com/sallvi/localize-gymbook).
+ 
 HINWEIS: GymBook wurde von Fitnessexperten, für Fitnessexperten entwickelt. Es konzentriert sich deshalb auf DEINE Übungen und DEINE Trainings und beinhaltet lediglich einige Standard-Übungen zur besseren Orientierung und keine vordefinierten Trainings.
 
-!!!!!! SEHR WICHTIG: Die Standard-Übungen, welche durch GymBook bereitgestellt werden, sind als Orientierungshilfe gedacht und zeigen nicht im Detail, wie eine Übung korrekt ausgeführt werden soll. Professionelle Beratung wird strengstens empfohlen, bevor das Training begonnen wird. !!!!!!
+!!!! SEHR WICHTIG: Die Standard-Übungen, welche durch GymBook bereitgestellt werden, sind als Orientierungshilfe gedacht und zeigen nicht im Detail, wie eine Übung korrekt ausgeführt werden soll. Professionelle Beratung wird strengstens empfohlen, bevor das Training begonnen wird. !!!!
 
-DANKSAGUNGEN: Vielen, vielen Dank an Everkinetic (http://everkinetic.com) für die schönen Bilder der Übungen.
+DANKSAGUNGEN: Vielen Dank an Everkinetic (http://everkinetic.com) für die schönen Bilder der Übungen.

@@ -26,8 +26,7 @@ ALLENATI!
 
 CRONOMETRA LE TUE PAUSE
 ● Scegli tra un timer grafico o classico
-● Configura la durate del tuo timer
-● Configura durate diverse per il timer primario e secondario
+● Configura la durate del tuo timer e durate diverse per il timer primario e secondario
 ● Abilita l’avvio automatico
 ● Scegli tra vari suoni del timer
 ● Il tuo timer funziona anche se metti il tuo iPhone in stand-by o se chiudi l’applicazione (“Notifiche” devono essere abilitate)
@@ -49,13 +48,12 @@ TEMI
 
 *Certe funzioni speciali possono essere acquistate tramite acquisti in-app.
 
-SUPPORTO: GymBook supporta iPhone 4 e superiori ed è ottimizzato per iPhone 5. Supporta il sistema di unità metrico (kg, metri) e imperiale (libbre, piedi).
+SUPPORTO: GymBook supporta iPhone 4+ ed è ottimizzato per iPhone 5. Supporta il sistema di unità metrico (kg, metri) e imperiale (libbre, piedi).
 
-LOCALIZZAZIONE: Oltre all’italiano sono supportate le lingue inglese, tedesco e russo (altre lingue in via di sviluppo).
-?!?!?! Vuoi l'applicazione nella tua lingua? Abbiamo creato il progetto open source https://github.com/sallvi/localize-gymbook. Se la tua lingua non è supportata (o vuoi correggere errori e/o aggiungere traduzioni mancanti in una delle lingue supportate), puoi dare il tuo contributo che noi integreremo al più presto possibile. ?!?!?!
+LOCALIZZAZIONE: Oltre all’italiano sono supportate le lingue inglese, tedesco e russo (di più su https://github.com/sallvi/localize-gymbook).
 
 NOTA: GymBook è stato sviluppato da esperti di palestra, per esperti di palestra. Pertanto si concentra sui TUOI esercizi e i TUOI programmi e fornisce soltanto alcuni esercizi di base per un migliore orientamento e non prevede programmi predefiniti.
 
-!!!!!! MOLTO IMPORTANTE: Gli esercizi di base forniti da GymBook sono da intendersi come aiuto d'orientamento e non mostrano nel dettaglio come eseguire correttamente un esercizio. Consulenza professionale è ancora altamente raccomandata prima di eseguire l'allenamento. !!!!!!
+!!!! MOLTO IMPORTANTE: Gli esercizi di base forniti da GymBook sono da intendersi come aiuto d'orientamento e non mostrano nel dettaglio come eseguire correttamente un esercizio. Consulenza professionale è ancora altamente raccomandata prima di eseguire l'allenamento. !!!!
 
 RINGRAZIAMENTI: Molte grazie a Everkinetic (http://everkinetic.com) per le loro belle immagini degli esercizi.

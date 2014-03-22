@@ -1,7 +1,7 @@
 Hier kommt GymBook, deine Fitness App um deine Trainings im Fitnessstudio auf effiziente Art und Weise zu erstellen, zu loggen und zu analysieren – alles in einer schönen und innovativen Benutzeroberfläche.
 
 VERWALTE DEINE TRAININGS
-● Erstelle deine eigenen Trainings mit deinen eigenen Übungen oder wähle aus den 50 simplen Standard-Übungen
+● Erstelle deine Trainings mit deinen eigenen Übungen oder wähle aus den 50 simplen Standard-Übungen mit animierten Bildern
 ● Gruppiere und sortiere die Übungen deines Trainings
 ● Definiere für jede Übung Anzahl Sätze, Gewicht und Wiederholungen die du durchführen willst
 ● Definiere unterschiedliche Einstellungen für jeden Satz einer Übung (z.B. für Aufwärmsätze oder für Pyramidentraining)
@@ -14,8 +14,7 @@ VERWALTE DEINE ÜBUNGEN
 TRAINIERE!
 ● Effiziente Ausführungsmaske für rasches Loggen und Analysieren deiner Trainings
 ● Sehe sofort wie du das letzte Mal trainiert hast
-● Benutze die schönen, vorgefüllten Picker für rasches Loggen
-● Benutze Quick-Log für superschnelles Loggen
+● Benutze die vorgefüllten Picker für rasches Loggen und Quick-Log für superschnelles Loggen
 ● Wechsle rasch zu allen Logs der aktuellen Übung, des aktuellen Trainings und des vorherigen Trainings, inklusive aller grafischen Statistiken
 ● Wechsle zu einem anderen Datum (falls du ein vorheriges Training loggen willst)
 ● Sehe deine Übungsstatistik in einem konfigurierbaren, übersichtlichen Liniendiagramm 

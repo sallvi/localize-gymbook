@@ -1,7 +1,7 @@
 Ecco GymBook, la tua applicazione fitness per creare, registrare e analizzare i tuoi allenamenti in sala pesi - tutto in un'interfaccia bella e innovativa.
 
 GESTISCI I TUOI ALLENAMENTI
-● Crea i tuoi programmi d'allenamento con i tuoi esercizi o scegli tra 50 semplici esercizi di base
+● Crea i tuoi programmi d'allenamento con i tuoi esercizi o scegli tra 50 semplici esercizi di base con immagini animate
 ● Raggruppa e ordina i tuoi esercizi all’interno di un allenamento
 ● Definisci i set, il peso e le ripetizioni che desideri eseguire per ogni esercizio
 ● Definisci impostazioni differenti per ogni set di un esercizio (per esempio per set di riscaldamento o per allenamenti a piramide)
@@ -14,8 +14,7 @@ GESTISCI I TUOI ESERCIZI
 ALLENATI!
 ● Efficiente interfaccia di esecuzione dell’allenamento per una veloce registrazione e monitoraggio del tuo allenamento
 ● Vedi immediatamente come ti sei allenato l’ultima volta
-● Usa i picker già riempiti per una registrazione veloce
-● Usa Quick-Log per una regitrazione super veloce
+● Usa i picker già riempiti per una registrazione veloce e Quick-Log per una registrazione super veloce
 ● Passa rapidamente a tutti i dati registrati dell’attuale esercizio, dell'attuale allenamento e dell’ultimo allenamento, compresi le statistiche grafiche
 ● Passa a una data di programma diversa (se vuoi registrare dati di un programma precedente)
 ● Vedi le statistiche del tuo esercizio un chiaro, configurabile grafico a linee 

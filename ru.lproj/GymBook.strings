@@ -347,6 +347,7 @@
 "data.exercise.dumbbellLunges" = "Выпады с гантелями";
 "data.exercise.cableHipExtensions" = "Разгибание бедра"; //TODO replaced data.exercise.hipExtensions
 "data.exercise.bridging" = "Мось";
+"data.exercise.cableHipAbductions" = "Cable Hip Abductions"; //TODO
 "data.exercise.seatedMachineHipAbductions" = "Отведение бедра"; //TODO replaced data.exercise.hipAbductions
 //exercises - грудь
 "data.exercise.inclineBarbellBenchPresses" = "Жим штанги лёжа на наклонной скамье";
@@ -365,6 +366,7 @@
 "data.exercise.legPresses" = "Жим ногами";
 "data.exercise.legExtensions" = "Разгибание ног";
 "data.exercise.seatedLegCurls" = "Seated Leg Curls"; //TODO
+"data.exercise.cableAdductions" = "Cable Adductions"; //TODO
 "data.exercise.machineAdductions" = "Сведение ног в тренажёре";
 "data.exercise.standingBarbellCalfRaises" = "Standing Barbell Calf Raises"; //TODO replaced data.exercise.standingCalfRaises
 "data.exercise.standingMachineCalfRaises" = "Standing Machine Calf Raises"; //TODO

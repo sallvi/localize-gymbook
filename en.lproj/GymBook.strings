@@ -347,6 +347,7 @@
 "data.exercise.dumbbellLunges" = "Dumbbell Lunges";
 "data.exercise.cableHipExtensions" = "Cable Hip Extensions";
 "data.exercise.bridging" = "Bridging";
+"data.exercise.cableHipAbductions" = "Cable Hip Abductions";
 "data.exercise.seatedMachineHipAbductions" = "Seated Machine Hip Abductions";
 //exercises - chest
 "data.exercise.inclineBarbellBenchPresses" = "Incline Barbell Bench Presses";
@@ -365,6 +366,7 @@
 "data.exercise.legPresses" = "Leg Presses";
 "data.exercise.legExtensions" = "Leg Extensions";
 "data.exercise.seatedLegCurls" = "Seated Leg Curls";
+"data.exercise.cableAdductions" = "Cable Adductions";
 "data.exercise.machineAdductions" = "Machine Adductions";
 "data.exercise.standingBarbellCalfRaises" = "Standing Barbell Calf Raises";
 "data.exercise.standingMachineCalfRaises" = "Standing Machine Calf Raises";

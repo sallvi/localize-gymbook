@@ -345,9 +345,10 @@
 //exercises - buttocks
 "data.exercise.barbellLunges" = "Affondi con Bilanciere";
 "data.exercise.dumbbellLunges" = "Affondi con Manubri";
-"data.exercise.cableHipExtensions" = "Estensioni Dell'Anca al Cavo";
+"data.exercise.cableHipExtensions" = "Estensioni dell'Anca al Cavo";
 "data.exercise.bridging" = "Ponte";
-"data.exercise.seatedMachineHipAbductions" = "Abduzione Della Gamba alla Macchina da Seduti";
+"data.exercise.cableHipAbductions" = "Abduzione della Gamba al Cavo";
+"data.exercise.seatedMachineHipAbductions" = "Abduzione della Gamba alla Macchina da Seduti";
 //exercises - chest
 "data.exercise.inclineBarbellBenchPresses" = "Distensioni su Panca Inclinata con Bilanciere";
 "data.exercise.barbellBenchPresses" = "Distensioni su Panca Piana con Bilanciere";
@@ -365,6 +366,7 @@
 "data.exercise.legPresses" = "Distensioni delle Gambe";
 "data.exercise.legExtensions" = "Estensioni delle Gambe";
 "data.exercise.seatedLegCurls" = "Flessioni delle Gambe da Seduti";
+"data.exercise.cableAdductions" = "Adduzione al Cavo";
 "data.exercise.machineAdductions" = "Adduzione alla Macchina";
 "data.exercise.standingBarbellCalfRaises" = "Alzate Polpacci con Bilanciere in Piedi";
 "data.exercise.standingMachineCalfRaises" = "Alzate Polpacci alla Macchina in Piedi";

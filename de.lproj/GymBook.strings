@@ -347,6 +347,7 @@
 "data.exercise.dumbbellLunges" = "Ausfallschritte mit Kurzhanteln";
 "data.exercise.cableHipExtensions" = "Hüftstrecken am Kabel";
 "data.exercise.bridging" = "Beckenheben";
+"data.exercise.cableHipAbductions" = "Abduktion des Beins am Kabel";
 "data.exercise.seatedMachineHipAbductions" = "Abduktion des Beins am Gerät Sitzend";
 //exercises - chest
 "data.exercise.inclineBarbellBenchPresses" = "Schrägbankdrücken mit Langhantel";
@@ -365,6 +366,7 @@
 "data.exercise.legPresses" = "Beinpressen";
 "data.exercise.legExtensions" = "Beinstrecken";
 "data.exercise.seatedLegCurls" = "Beinbeugen Sitzend";
+"data.exercise.cableAdductions" = "Adduktoren am Kabel";
 "data.exercise.machineAdductions" = "Adduktoren am Gerät";
 "data.exercise.standingBarbellCalfRaises" = "Fersenheben mit Langhantel Stehend";
 "data.exercise.standingMachineCalfRaises" = "Fersenheben am Gerät Stehend";

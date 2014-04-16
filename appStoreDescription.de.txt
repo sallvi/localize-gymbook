@@ -1,7 +1,7 @@
 Hier kommt GymBook, deine Fitness App um deine Trainings im Fitnessstudio auf effiziente Art und Weise zu erstellen, zu loggen und zu analysieren – alles in einer schönen und innovativen Benutzeroberfläche.
 
 VERWALTE DEINE TRAININGS
-● Erstelle deine Trainings mit deinen eigenen Übungen oder wähle aus den 50 simplen Standard-Übungen mit animierten Bildern
+● Erstelle deine Trainings mit deinen eigenen Übungen oder wähle aus den 50 simplen Standard-Übungen mit animierten Bildern und Visualisierungen der trainierten primären und sekundären Muskelgruppe
 ● Gruppiere und sortiere die Übungen deines Trainings
 ● Definiere für jede Übung Anzahl Sätze, Gewicht und Wiederholungen die du durchführen willst
 ● Definiere unterschiedliche Einstellungen für jeden Satz einer Übung (z.B. für Aufwärmsätze oder für Pyramidentraining)
@@ -12,11 +12,11 @@ VERWALTE DEINE ÜBUNGEN
 ● Ergänze deine Übungen mit dem Bereich, der primären und sekundären Muskelgruppe sowie zusätzlichen Notizen
 
 TRAINIERE!
-● Effiziente Ausführungsmaske für rasches Loggen und Analysieren deiner Trainings
+● Rasches Loggen und Analysieren deiner Trainings
 ● Sehe sofort wie du das letzte Mal trainiert hast
 ● Benutze die vorgefüllten Picker für rasches Loggen und Quick-Log für superschnelles Loggen
 ● Wechsle rasch zu allen Logs der aktuellen Übung, des aktuellen Trainings und des vorherigen Trainings, inklusive aller grafischen Statistiken
-● Wechsle zu einem anderen Datum (falls du ein vorheriges Training loggen willst)
+● Wechsle das Trainingsdatum (falls du ein vorheriges Training loggen willst)
 ● Sehe deine Übungsstatistik in einem konfigurierbaren, übersichtlichen Liniendiagramm 
 ● Wechsle nach dem Speichern eines Logs automatisch zur nächsten auszuführenden Übung (konfigurierbar)
 ● Der Trainings-Screen zeigt immer einen detaillierten Überblick über dein heutiges Training
@@ -31,19 +31,11 @@ STOPPE DEINE PAUSEN
 ● Dein Timer funktioniert auch wenn du dein iPhone sperrst oder die App schliesst („Mitteilungen“ müssen eingeschaltet sein)
 ● Tipp: Passe die allgemeinen Einstellungen für „Mitteilungen“ an um deinen Pausentimer genau nach deinen Wünschen zu konfigurieren
 
-ANALYSIERE DEINE PERFORMANCE
-● Schau dir deine Logs nach Training, nach Übung, nach Datum, nach Bereich oder nach Muskelgruppe an
-● Schau dir Statistiken über durchschnittliches, totales, maximales und minimales Gewicht und Wiederholungen an - alles in einem übersichtlichen Liniendiagramm und/oder Kuchendiagramm
+MEHR...
+● Erhalte eine detaillierte Analyse deiner Performance mit Hilfe der interaktiven Liniendiagramme und/oder Kuchendiagramme
 ● Exportieren deine Logs als XML- und CSV-Datei
-
-KONTROLLIERE DEIN KÖRPERGEWICHT
-● Führe dein Körpergewicht nach
-● Berechne deinen BMI
-● Analysiere deine Körpergewicht- und BMI-Statistiken in einem Liniendiagramm
-
-DESIGN
-● Ändere das Design von GymBook
-● Wähle aus drei tollen Designs
+● Führe dein Körpergewicht nach, berechne deinen BMI und analysiere das in einem interaktiven Liniendiagramm
+● Ändere das Design von GymBook und wähle aus drei tollen Designs
 
 *Einige Spezialfunktionen können via In-App-Käufe erworben werden.
 
@@ -53,6 +45,6 @@ LOKALISIERUNGEN: Neben Deutsch werden zur Zeit die Sprachen Englisch, Italienisc
  
 HINWEIS: GymBook wurde von Fitnessexperten, für Fitnessexperten entwickelt. Es konzentriert sich deshalb auf DEINE Übungen und DEINE Trainings und beinhaltet lediglich einige Standard-Übungen zur besseren Orientierung und keine vordefinierten Trainings.
 
-!!!! SEHR WICHTIG: Die Standard-Übungen, welche durch GymBook bereitgestellt werden, sind als Orientierungshilfe gedacht und zeigen nicht im Detail, wie eine Übung korrekt ausgeführt werden soll. Professionelle Beratung wird strengstens empfohlen, bevor das Training begonnen wird. !!!!
+!!! SEHR WICHTIG: Die Standard-Übungen, welche durch GymBook bereitgestellt werden, sind als Orientierungshilfe gedacht und zeigen nicht im Detail, wie eine Übung korrekt ausgeführt werden soll. Professionelle Beratung wird strengstens empfohlen, bevor das Training begonnen wird. !!!
 
-DANKSAGUNGEN: Vielen Dank an Everkinetic (http://everkinetic.com) für die schönen Bilder der Übungen.
+DANKSAGUNGEN: Vielen Dank an Everkinetic (http://everkinetic.com) von wo aus wir einige der schönen Bilder der Übungen und Inspiration für weitere Bilder erhalten haben (die Erweiterung der Bilder mit den trainierten Muskeln ist nicht Teil des von Everkinetic geliferten Materials).

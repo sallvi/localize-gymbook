@@ -279,29 +279,24 @@
 "text.inAppPurchase.product.feature.timerPlus.description" = "With [{PRODUCT_NAME}] you get the most out of your timer. The secondary timer offers you valuable flexibility, with the automatic timer start you save time and energy and the graphical timer can be very useful.\n\nLast but not least: you can also change the sound of your timer.";
 "text.inAppPurchase.product.feature.themes.description" = "With this purchase you can change the appearance of [{APP_NAME}]. Choose the design that brings out the best in you during your training. Or the one that fits your outfit best.\n\nCurrently there are three great designs available and more are in development.";
 "text.inAppPurchase.product.feature.export.description" = "[{PRODUCT_NAME}] enables you to export your logs in the standard formats CSV and XML and use them outside of [{APP_NAME}]. You can use them for your own statistics, for further processing, for backup, for forwarding to someone... or for whatever else.";
-//hints - checkpoints
-"text.hint.welcome" = "Welcome to [{APP_NAME}]. These hints will guide you through your first steps on [{APP_NAME}].";
-"text.hint.createFirstWorkout" = "Tap on 'Edit' to create your first workout.";
-"text.hint.nameFirstWorkout" = "Here you only have to give your workout a name (for example \"Day 1\")";
-"text.hint.created1Workout" = "Select your workout program to start adding exercises.";
-"text.hint.createFirstWorkoutExercise" = "Tap on '+' to add your first exercise to this workout.";
-"text.hint.createSecondWorkoutExercise" = "Tap on '+' again to add another exercise to this workout.";
-"text.hint.added2WorkoutExercises" = "You can start your workout by selecting an exercise.";
-"text.hint.createWorkoutExercise.exercise" = "Tap the 'Exercise' to select your exercise.";
-"text.hint.createWorkoutExercise.exercise.selectExercise" = "Select the exercise you want to add.";
-"text.hint.createWorkoutExercise.exercise.newExercise" = "None of the existing exercises suits you? Use the '+' button to create your own exercise on the fly.\nHint: you can also select an exercise and modify it later on.";
-"text.hint.createWorkoutExercise.defaults" = "You can edit the sets of your exercise and also group your exercise inside your workout program.";
-"text.hint.createWorkoutExercise.save" = "When finished, tap the 'Done' button to save.";
-"text.hint.addFirstExerciseLog" = "The table contains an entry for each set you have to perform for this exercise. Tap a set to add your first log for it.";
+//hints
+"text.hint.introduction.1" = "Welcome to [{APP_NAME}]. These hints will give you some useful information on how to use [{APP_NAME}].\n\nWe will not waste your time; each hint is worth reading and will only be shown once, promised[{WINK}]!";
+"text.hint.introduction.2" = "For better orientation, [{APP_NAME}] ships with %li example workouts. Select one to see how a workout might look like - and simply delete it whenever you want.";
+"text.hint.startWorkout" = "You can start a workout by selecting any exercise.";
+"text.hint.startedWorkout" = "If you are in the middle of today's workout, here you will also see your workout's progress.";
+"text.hint.editWorkout" = "Use '+' to add exercises to a workout and 'Edit' to modify them afterwards.";
+"text.hint.performWorkout.1" = "Here there is an entry for each set you have to perform. In this case, the goal is %@.\n\nSimply tap a set to add a log.";
+"text.hint.performWorkout.2" = "Use '%@' to reveal additional information about the current exercise and workout.";
+"text.hint.performWorkout.3" = "Swipe left or right to move to the other exercises within a workout.";
+"text.hint.quickLog" = "Hold down your finger on a set to quickly log the same as the previous time.\n\nHint: this works for the selected set and all the previous ones.";
+"text.hint.lineGraphInfo" = "Hold down your finger on the line graph and move it left or right to see exactly how you did at a specific date.";
 "text.hint.customizeStatistics" = "You can customize how the line graphs and pie charts display your data.";
-//hints - specifics
-"text.hint.manageExercises" = "Here you can manage your exercises. Tap on the '+' button to create a new one, select an existing exercise to edit it.";
-"text.hint.createExercise.exercise" = "Here you can name your exercise (for example \"Dumbbell Bench Press\").";
-"text.hint.createExercise.region" = "Here you can select the target region for this exercise (for example \"Chest\")";
-"text.hint.createExercise.optional" = "You can also set a primary and a secondary muscle group and write down some notes.";
-"text.hint.createExercise.save" = "Tap the 'Done' button to save your new exercise.";
-"text.hint.lineGraphInfo" = "Try to hold down your finger on the line graph and move it left or right to see exactly how you did at a specific date.";
-"text.hint.quickLog" = "Hold down your finger on a set to quickly log the same as the previous time.\nHint: this works for the selected set and all the previous ones.";
+"text.hint.manageExercises" = "Here you can manage your exercises. Tap on '+' to create a new one, select an existing one to edit it.";
+"text.hint.usedExercises" = "Used exercises - these are Exercises that are currently in a workout or for which there are some logs - are highlighted.";
+"text.hint.createExercise" = "An exercise needs only a name and a target region. All the other values are optional.";
+"text.hint.createWorkoutExercise.1" = "Here you can select the exercise you want to add to your workout.";
+"text.hint.createWorkoutExercise.2" = "You can also edit the sets of your exercise and group your exercise inside your workout program.";
+"text.hint.createWorkoutExerciseOnTheFly" = "If none of the existing exercises suits you, use '+' to create and add your own exercise on the fly.\n\nHint: you can also select an exercise and modify it later on.";
 
 /* Data */
 //exercises
@@ -386,3 +381,8 @@
 "data.exercise.jogging" = "Jogging";
 "data.exercise.cycling" = "Cycling";
 "data.exercise.rowing" = "Rowing";
+//workouts
+"data.workout.simple" = "Simple Example";
+"data.workout.groups" = "Groups Example";
+"data.workout.supersets" = "Supersets Example";
+"data.workout.dropsets" = "Dropsets Example";

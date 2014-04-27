@@ -23,15 +23,8 @@ WORK OUT!
 ● The innovative "Workout Matrix" gives you always a detailed overview about your current workout
 ● A progress bar lets you always know your overall workout progress
 
-TIME YOUR RESTS
-● Choose between a classic or a graphical timer
-● Configure your preferred timer duration and different durations for the primary and secondary timer
-● Enable auto start
-● Choose from different timer sounds
-● Have your rest timer work even if you set your iPhone to sleep or close your app (“Notifications” have to be enabled)
-● Hint: Adapt the general “Notifications” settings to customize the rest timer to suit your needs even more
-
 MORE...
+● Time your rests with the adjustable timer which also works when you set your iPhone to sleep or close your app: you can configure your preferred timer duration, have a primary and a secondary timer, choose between a classic or a graphical timer, have different timer sounds and more.
 ● Receive a detailed analysis of your performance thanks to the interactive line graphs and/or pie charts
 ● Export your logs as XML and CSV file
 ● Track your body weight, calculate your BMI and analyze them in an interactive line graph
@@ -41,11 +34,11 @@ MORE...
 
 SUPPORT: GymBook supports iPhone 4+ and is optimized for iPhone 5. Supports metric (kilograms, meters) and imperial (pounds, feet) system of units.
 
-LOCALIZATION: Multiple language support is currently added for English, German, Italian and Russian. 
+LOCALIZATION: Multiple language support is currently added for English, German, Italian and partially Russian. 
 ?!? You want the app in your own language? We have created the open source project https://github.com/sallvi/localize-gymbook. If your language is not supported (or you see errors and/or missing translations in one of the supported languages), you can make your contribution and we will integrate it as soon as possible. ?!?
 
-NOTE: GymBook is developed by gym experts, for gym experts. Therefore it focuses on YOUR exercises and YOUR workouts and provides only basic exercises for better orientation and no predefined workouts.
+NOTE: GymBook is developed by gym experts, for gym experts. Therefore it focuses on YOUR exercises and YOUR workouts and provides only basic exercises and example workouts for better orientation.
 
-!!! VERY IMPORTANT: The basic exercises provided by GymBook are intended as orientation help and do not show in detail how to correctly execute an exercise. Professional consultation is still highly recommended before performing your training. !!!
+!!! VERY IMPORTANT: The basic exercises and example workouts provided by GymBook are intended as orientation help only. The basic exercises do not show in detail how to correctly execute an exercise. The example workouts are only intended as examples to show how the app works. PROFESSIONAL CONSULTATION IS STILL HIGHLY RECOMMENDED BEFORE PERFORMING YOUR TRAINING. !!!
 
 ACKNOWLEDGMENTS: Many thanks go to Everkinetic (http://everkinetic.com) from where we have some of the exercise images and inspiration for the others (the enrichment of the images by the affected muscle group is not part of the material provided by Everkinetic).

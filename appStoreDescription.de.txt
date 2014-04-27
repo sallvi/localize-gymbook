@@ -23,15 +23,8 @@ TRAINIERE!
 ● Die innovative "Workout Matrix" gibt dir jederzeit eine detaillierte Übersicht über dein aktuelles Training
 ● Ein Fortschrittsbalken gibt dir jederzeit über deinen allgemeinen Trainingsfortschritt Auskunft 
 
-STOPPE DEINE PAUSEN
-● Selektiere zwischen dem klassischen oder dem grafischen Timer
-● Konfiguriere deine gewünschte Timer-Zeit sowie verschiedene Zeiten für den primären und den sekundären Timer
-● Schalte den Autostart ein
-● Wähle aus verschiedenen Timer Sounds
-● Dein Timer funktioniert auch wenn du dein iPhone sperrst oder die App schliesst („Mitteilungen“ müssen eingeschaltet sein)
-● Tipp: Passe die allgemeinen Einstellungen für „Mitteilungen“ an um deinen Pausentimer genau nach deinen Wünschen zu konfigurieren
-
 MEHR...
+● Stoppe deine Pausen mit dem anpassbaren Timer, welcher auch funktioniert wenn du dein iPhone sperrst oder die App schliesst: Du kannst die Timer-Zeit konfigurieren, hast einen primären und sekundären Timer, kannst zwischen einem klassichen oder grafischen Timer wählen, hast verschiedene Timer Sounds und mehr.
 ● Erhalte eine detaillierte Analyse deiner Performance mit Hilfe der interaktiven Liniendiagramme und/oder Kuchendiagramme
 ● Exportieren deine Logs als XML- und CSV-Datei
 ● Führe dein Körpergewicht nach, berechne deinen BMI und analysiere das in einem interaktiven Liniendiagramm
@@ -41,10 +34,10 @@ MEHR...
 
 SUPPORT: GymBook unterstützt iPhone 4+ und ist für das iPhone 5 optimiert. Es wird das metrische (Kilogramm, Meter) und das imperiale (Pfund, Fuss) Masssystem  unterstützt.
 
-LOKALISIERUNGEN: Neben Deutsch werden zur Zeit die Sprachen Englisch, Italienisch und Russisch unterstützt (mehr auf https://github.com/sallvi/localize-gymbook).
+LOKALISIERUNGEN: Neben Deutsch werden zur Zeit die Sprachen Englisch, Italienisch und teilweise Russisch unterstützt (mehr auf https://github.com/sallvi/localize-gymbook).
  
-HINWEIS: GymBook wurde von Fitnessexperten, für Fitnessexperten entwickelt. Es konzentriert sich deshalb auf DEINE Übungen und DEINE Trainings und beinhaltet lediglich einige Standard-Übungen zur besseren Orientierung und keine vordefinierten Trainings.
+HINWEIS: GymBook wurde von Fitnessexperten, für Fitnessexperten entwickelt. Es konzentriert sich deshalb auf DEINE Übungen und DEINE Trainings und beinhaltet lediglich einige Standard-Übungen und Beispiel-Trainingsprogramme zur besseren Orientierung.
 
-!!! SEHR WICHTIG: Die Standard-Übungen, welche durch GymBook bereitgestellt werden, sind als Orientierungshilfe gedacht und zeigen nicht im Detail, wie eine Übung korrekt ausgeführt werden soll. Professionelle Beratung wird strengstens empfohlen, bevor das Training begonnen wird. !!!
+!!! SEHR WICHTIG: Die Standard-Übungen und Beispiel-Trainingsprogramme, welche durch GymBook bereitgestellt werden, sind ausschliesslich als Orientierungshilfe gedacht. Die Standard-Übungen zeigen nicht im Detail, wie eine Übung korrekt ausgeführt werden soll. Die Beispiel-Trainingsprogrammen dienen nur als Beispiele um zu zeigen, wie die App funktioniert. PROFESSIONELLE BERATUNG WIRD STRENGSTENS EMPFOHLEN, BEVOR DAS TRAINING BEGONNEN WIRD. !!!
 
 DANKSAGUNGEN: Vielen Dank an Everkinetic (http://everkinetic.com) von wo aus wir einige der schönen Bilder der Übungen und Inspiration für weitere Bilder erhalten haben (die Erweiterung der Bilder mit den trainierten Muskeln ist nicht Teil des von Everkinetic geliferten Materials).

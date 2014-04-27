@@ -279,29 +279,24 @@
 "text.inAppPurchase.product.feature.timerPlus.description" = "С [{PRODUCT_NAME}] вы откроете расширенные функции таймера. Вторичный секундомер позволяет вам быть более динамичным, с автоматическим стартом таймера вы сохраняете свое время и энергию, также есть удобный графический таймер.\n\nПоследнее, но не лишнее: вы также сможете изменять звук окончания таймера.";
 "text.inAppPurchase.product.feature.themes.description" = "С этой покупкой вы сможете менять темы оформления [{APP_NAME}]. Выбирете наилучший дизайн для вашей тренировки.\n\nНа данный момент доступны 3 темы. В будущем тем будет больше.";
 "text.inAppPurchase.product.feature.export.description" = "[{PRODUCT_NAME}] позволяет экспортировать журнал тренировок в стандартные форматы CSV и XML для использования их вне [{APP_NAME}]. Они пригодятся для ведения статистики, для будущих тренировок, для резервной копии, для передачи вашему тренеру... или для чего-нибудь еще.";
-//hints - checkpoints
-"text.hint.welcome" = "Добро пожаловать в [{APP_NAME}]. Эти обучение научит Вас пользоваться [{APP_NAME}].";
-"text.hint.createFirstWorkout" = "Нажмите на 'Изменить' чтобы создать вашу первую тренировку.";
-"text.hint.nameFirstWorkout" = "Введите имя вашей тренировки(например \"День 1\")";
-"text.hint.created1Workout" = "Выберите эту программу тренировок чтобы начать добавлять упражнения.";
-"text.hint.createFirstWorkoutExercise" = "Нажмите на '+' чтобы добавить первое упражнение в эту тренировку.";
-"text.hint.createSecondWorkoutExercise" = "Нажмите на '+' еще раз чтобы добавить другое упражнение в эту программу тренировок.";
-"text.hint.added2WorkoutExercises" = "Выбирете упражнение чтобы начать тренировку.";
-"text.hint.createWorkoutExercise.exercise" = "Нажмите на 'Упражнение' чтобы выбрать ваше упражнение.";
-"text.hint.createWorkoutExercise.exercise.selectExercise" = "Выберите упражнение, которое вы хотите добавить.";
-"text.hint.createWorkoutExercise.exercise.newExercise" = "Вам не подоходит ни одно предустановленное упражнение? Нажмите на '+' чтобы сразу создать ваше упражнение.\nПодсказки: вы также можете модифицировать готовые упражнения.";
-"text.hint.createWorkoutExercise.defaults" = "Вы можете редактировать подходы в упражнении, а также группировать упражнения в тренировочной программе.";
-"text.hint.createWorkoutExercise.save" = "Нажмите кнопку 'Закончить' чтобы сохранить.";
-"text.hint.addFirstExerciseLog" = "В таблице содержатся все подходы, которые вы выполнили в упражнении. Нажмите на подход, чтобы создать запись в журнале.";
-"text.hint.customizeStatistics" = "У вас есть возможность изменять вид графиков и круговых диаграмм.";
-//hints - specifics
-"text.hint.manageExercises" = "Нажмите на '+' чтобы создать новое упражнение, а также нажмите на существующее упражнение, чтобы отредактировать его.";
-"text.hint.createExercise.exercise" = "Здесь нужно ввести название упражнения (например \"Жим гантелей лёжа\").";
-"text.hint.createExercise.region" = "Здесь вы можете выбрать целевую группу мышц упражнения (например \"Грудь\")";
-"text.hint.createExercise.optional" = "Вы также можете выбрать первую либо вторую группу мышц и добавить заметки.";
-"text.hint.createExercise.save" = "Нажмите на кнопку 'Закончить' чтобы сохранить новое упражнение";
-"text.hint.lineGraphInfo" = "Попробуйте удержать палец на линии графика и потянуть её влево или вправо чтобы видеть ваши результаты на определенную дату.";
+//hints
+"text.hint.introduction.1" = "Welcome to [{APP_NAME}]. These hints will give you some useful information on how to use [{APP_NAME}].\n\nWe will not waste your time; each hint is worth reading and will only be shown once, promised[{WINK}]!";
+"text.hint.introduction.2" = "For better orientation, [{APP_NAME}] ships with %li example workouts. Select one to see how a workout might look like - and simply delete it whenever you want.";
+"text.hint.startWorkout" = "You can start a workout by selecting any exercise.";
+"text.hint.startedWorkout" = "If you are in the middle of today's workout, here you will also see your workout's progress.";
+"text.hint.editWorkout" = "Use '+' to add exercises to a workout and 'Edit' to modify them afterwards.";
+"text.hint.performWorkout.1" = "Here there is an entry for each set you have to perform. In this case, the goal is %@.\n\nSimply tap a set to add a log.";
+"text.hint.performWorkout.2" = "Use '%@' to reveal additional information about the current exercise and workout.";
+"text.hint.performWorkout.3" = "Swipe left or right to move to the other exercises within a workout.";
 "text.hint.quickLog" = "Удержите ваш палец на подходе для быстрого сохранения как в прошлый раз.\nПодсказка: это работает и для выбранных подходов и все предыдущие.";
+"text.hint.lineGraphInfo" = "Попробуйте удержать палец на линии графика и потянуть её влево или вправо чтобы видеть ваши результаты на определенную дату.";
+"text.hint.customizeStatistics" = "У вас есть возможность изменять вид графиков и круговых диаграмм.";
+"text.hint.manageExercises" = "Нажмите на '+' чтобы создать новое упражнение, а также нажмите на существующее упражнение, чтобы отредактировать его.";
+"text.hint.usedExercises" = "Used exercises - these are Exercises that are currently in a workout or for which there are some logs - are highlighted.";
+"text.hint.createExercise" = "An exercise needs only a name and a target region. All the other values are optional.";
+"text.hint.createWorkoutExercise.1" = "Here you can select the exercise you want to add to your workout.";
+"text.hint.createWorkoutExercise.2" = "You can also edit the sets of your exercise and group your exercise inside your workout program.";
+"text.hint.createWorkoutExerciseOnTheFly" = "Вам не подоходит ни одно предустановленное упражнение? Нажмите на '+' чтобы сразу создать ваше упражнение.\nПодсказки: вы также можете модифицировать готовые упражнения.";
 
 /* Data */
 //exercises
@@ -386,3 +381,8 @@
 "data.exercise.jogging" = "бег";
 "data.exercise.cycling" = "езда на велосипеде";
 "data.exercise.rowing" = "гребля";
+//workouts
+"data.workout.simple" = "Simple Example";
+"data.workout.groups" = "Groups Example";
+"data.workout.supersets" = "Supersets Example";
+"data.workout.dropsets" = "Dropsets Example";

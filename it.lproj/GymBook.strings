@@ -257,7 +257,7 @@
 "text.confirmation.deleteWorkout" = "Sei sicuro di voler eliminare il programma \n\"%@\"?";
 "text.confirmation.deleteWorkoutExercise" = "Sei sicuro di voler rimuovere l'esercizio \n\"%@\" con %@?";
 "text.confirmation.deleteExercises.all" = "Sei sicuro di voler eliminare TUTTI gli esercizi?";
-"text.confirmation.deleteExercises.unused" = "Esercizi non utilizzati sono esercizi che attualmente non sono in alcun allenamento e non hanno alcun log. Sei sicuro di voler eliminarli?";
+"text.confirmation.deleteExercises.unused" = "Esercizi non utilizzati sono esercizi che attualmente non sono in alcun allenamento e non hanno alcuni dati. Sei sicuro di voler eliminarli?";
 "text.confirmation.inAppPurchases.thankYou" = "Acquisto riuscito! Buon divertimento con le nuove funzionalità e grazie per il sostegno di %@!";
 "text.information.noData.title.noExercises" = "Non ci sono ancora esercizi";
 "text.information.noData.title.noWorkouts" = "Non ci sono ancora programmi";
@@ -279,29 +279,24 @@
 "text.inAppPurchase.product.feature.timerPlus.description" = "[{PRODUCT_NAME}] ti consente di ottenere il massimo dal tuo timer. Il timer secondario ti offre una preziosa flessibilità, con l'avvio automatico del timer puoi risparmiare tempo ed energia e il timer grafico può rivelarsi molto utile.\n\nE infine: puoi anche modificare il suono del timer.";
 "text.inAppPurchase.product.feature.themes.description" = "Con questo acquisto è possibile modificare l'aspetto di [{APP_NAME}]. Scegli il tema che in allenamento tira fuori il meglio di te. O quello che si adatta al meglio al tuo abbigliamento.\n\nAl momento sono disponibili tre fantastici temi e altri sono in fase di sviluppo.";
 "text.inAppPurchase.product.feature.export.description" = "[{PRODUCT_NAME}] ti permette di esportare i tuoi dati nei formati CSV e XML e usarli al di fuori di [{APP_NAME}]. È possibile utilizzarli per creare proprie statistiche, per l'ulteriore elaborazione, per il backup, per inoltrarli... o per qualsiasi altro uso.";
-//hints - checkpoints
-"text.hint.welcome" = "Benvenuto su [{APP_NAME}]. Questi suggerimenti ti guideranno attraverso i tuoi primi passi su [{APP_NAME}].";
-"text.hint.createFirstWorkout" = "Tocca il tasto 'Modifica' per creare il tuo primo programma d'allenamento.";
-"text.hint.nameFirstWorkout" = "In questa schermata devi soltanto dare un nome al tuo programma d'allenamento (ad esempio \"Giorno 1\").";
-"text.hint.created1Workout" = "Seleziona il tuo programma per iniziare a mettere insieme il tuo programma d'allenamento.";
-"text.hint.createFirstWorkoutExercise" = "Tocca il tasto '+' per aggiungere il tuo primo esercizio al tuo programma d'allenamento.";
-"text.hint.createSecondWorkoutExercise" = "Tocca di nuovo il tasto '+' per aggiungere un'altro esercizio.";
-"text.hint.added2WorkoutExercises" = "Puoi iniziare il programma selezionando un'esercizio.";
-"text.hint.createWorkoutExercise.exercise" = "Tocca  su 'Esercizio' per scegliere un esercizio.";
-"text.hint.createWorkoutExercise.exercise.selectExercise" = "Scegli l'esercizio che vuoi aggiungere.";
-"text.hint.createWorkoutExercise.exercise.newExercise" = "Nessuno degli esercizi esistenti ti si addice? Crea e aggiungi un tuo nuovo esercizio al volo usando il tasto  '+'.\nSuggerimento: puoi anche selezionare un esercizio e modificarlo in seguito.";
-"text.hint.createWorkoutExercise.defaults" = "Puoi anche modificare i set del tuo esercizio e anche ragruppare il tuo esercizio nel tuo programma d'allenamento.";
-"text.hint.createWorkoutExercise.save" = "Al termine, tocca il pulsante 'Fine' per salvare.";
-"text.hint.addFirstExerciseLog" = "La tabella contiene una riga per ogni set che devi eseguire. Tocca un set per aggiungere una registrazione.";
+//hints
+"text.hint.introduction.1" = "Benvenuto su [{APP_NAME}]. Questi suggerimenti ti daranno alcune informazioni utili su come usare [{APP_NAME}].\n\nNon vogliamo farti perdere tempo; ogni suggerimento è interessante e verrà mostrato solo una volta, promesso[{WINK}]!";
+"text.hint.introduction.2" = "Per consentirti di orientarti meglio, [{APP_NAME}] viene fornito con %li esempi di programmi d'allenamento. Selezionane uno per vedere che aspetto potrebbe avere un programma - e semplicemente eliminalo quando vuoi.";
+"text.hint.startWorkout" = "Puoi iniziare il programma selezionando un'esercizio qualsiasi.";
+"text.hint.startedWorkout" = "Se sei nel mezzo del tuo allenamento di oggi, qui ne puoi anche vedere il progresso.";
+"text.hint.editWorkout" = "Tocca '+' per aggiungere esercizi al tuo programma d'allenamento e 'Modifica' per modificarli in seguito.";
+"text.hint.performWorkout.1" = "Qui c'è una riga per ogni set che devi eseguire. In questo caso, l'obiettivo è %@.\n\nTocca un set per aggiungere una registrazione.";
+"text.hint.performWorkout.2" = "Usa '%@' per rivelare ulteriori informazioni riguardo l'esercizio e il programma attuale.";
+"text.hint.performWorkout.3" = "Passa il dito verso sinistra o destra per muoverti agli altri esercizi all'interno di un programma.";
+"text.hint.quickLog" = "Tieni premuto il dito su un set per registrare gli stessi dati dell'ultima volta.\n\nSuggerimento: funziona sia per il set selezionato che per tutti i set precedenti.";
+"text.hint.lineGraphInfo" = "Tieni premuto il dito sul grafico a linee e muovilo verso destra o sinistra per vedere esattamente come ti sei allenato a una data specifica.";
 "text.hint.customizeStatistics" = "È possibile personalizzare il modo in cui i grafici a linee e grafici a torta visualizzano i tuoi dati.";
-//hints - specifics
-"text.hint.manageExercises" = "Qui puoi amministrare i tuoi esercizi. Tocca il tasto '+' per aggiungere un tuo esercizio, seleziona un esercizio esistente per modificarlo.";
-"text.hint.createExercise.exercise" = "Qui puoi dare un nome al tuo esercizio (ad esempio \"Distensioni su piana\").";
-"text.hint.createExercise.region" = "Qui puoi scegliere la zona del tuo esercizio (ad esempio \"Torace\")";
-"text.hint.createExercise.optional" = "È possibile assegnare un gruppo muscolare primario e secondario e aggiungere degli appunti.";
-"text.hint.createExercise.save" = "Tocca il tasto 'Fine' per salvare il tuo nuovo esercizio.";
-"text.hint.lineGraphInfo" = "Prova a tenere premuto il dito sul grafico a linee e muovilo verso destra o sinistra per vedere esattamente come ti sei allenato a una data specifica.";
-"text.hint.quickLog" = "Tieni premuto il dito su un set per registrare gli stessi dati dell'ultima volta.\nSuggerimento: funziona sia per il set selezionato che per tutti i set precedenti.";
+"text.hint.manageExercises" = "Qui puoi amministrare i tuoi esercizi. Tocca '+' per aggiungere un tuo esercizio, seleziona un esercizio esistente per modificarlo.";
+"text.hint.usedExercises" = "Esercizi utilitzzati - questi sono esercizi che sono attualmente in un programma o per i quali esistono dati - sono evidenziati.";
+"text.hint.createExercise" = "Un esercizio necessita solo di un nome e una zona. Tutti gli altri dati sono opzionali.";
+"text.hint.createWorkoutExercise.1" = "Qui puoi scegliere l'esercizio che vuoi aggiungere al tuo programma d'allenamento.";
+"text.hint.createWorkoutExercise.2" = "Puoi anche modificare i set del tuo esercizio e ragruppare il tuo esercizio nel tuo programma d'allenamento.";
+"text.hint.createWorkoutExerciseOnTheFly" = "Se nessuno degli esercizi esistenti ti si addice, crea e aggiungi un tuo nuovo esercizio al volo usando '+'.\n\nSuggerimento: puoi anche selezionare un esercizio e modificarlo in seguito.";
 
 /* Data */
 //exercises
@@ -386,3 +381,8 @@
 "data.exercise.jogging" = "Jogging";
 "data.exercise.cycling" = "Bicicletta";
 "data.exercise.rowing" = "Remi";
+//workouts
+"data.workout.simple" = "Esempio Semplice";
+"data.workout.groups" = "Esempio Raggruppati";
+"data.workout.supersets" = "Esempio Supersets";
+"data.workout.dropsets" = "Esempio Dropsets";

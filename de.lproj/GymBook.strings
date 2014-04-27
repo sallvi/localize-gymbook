@@ -279,29 +279,24 @@
 "text.inAppPurchase.product.feature.timerPlus.description" = "Mit [{PRODUCT_NAME}] holst du das Beste aus deinem Timer heraus. Der sekundäre Timer bietet dir wertvolle Flexibilität, mit dem automatischen Timerstart sparst du Zeit und Energie und der grafische Timer kann sehr nützlich sein.\n\nLast but not least: Du kannst auch den Ton des Timers ändern.";
 "text.inAppPurchase.product.feature.themes.description" = "Mit diesem Kauf kannst du das Aussehen von [{APP_NAME}] verändern. Wähle das Design, das im Training aus dir das Beste herausholt. Oder dasjenige, welches am Besten zu deinem Outfit passt.\n\nZur Zeit stehen drei tolle Designs zur Verfügung und weitere sind in Entwicklung.";
 "text.inAppPurchase.product.feature.export.description" = "[{PRODUCT_NAME}] ermöglicht es dir, deine Logs in den gängigen Formaten CSV und XML zu exportieren und sie ausserhalb von [{APP_NAME}] zu verwenden. Du kannst sie für eigene Statistiken, zur Weiterverarbeitung, zur Sicherung, zur Weiterleitung... oder für was auch immer verwenden.";
-//hints - checkpoints
-"text.hint.welcome" = "Willkommen bei [{APP_NAME}]. Diese Hinweise werden dich durch deine erste Schritte auf [{APP_NAME}] führen.";
-"text.hint.createFirstWorkout" = "Tippe auf 'Bearbeiten' um dein erstes Trainingsprogramm zu erstellen.";
-"text.hint.nameFirstWorkout" = "Hier musst du deinem Trainingsprogramm lediglich einen Namen geben (zum Beispiel \"Tag 1\")";
-"text.hint.created1Workout" = "Wähle dein Trainings-programm aus, um Übungen hinzuzufügen.";
-"text.hint.createFirstWorkoutExercise" = "Tippe auf '+' um deinem Trainingsprogramm deine erste Übung hinzuzufügen.";
-"text.hint.createSecondWorkoutExercise" = "Tippe nochmals auf '+' um deinem Trainingsprogramm eine weitere Übung hinzuzufügen.";
-"text.hint.added2WorkoutExercises" = "Du kannst dein Trainingsprogramm durch Tippen auf eine Übung starten.";
-"text.hint.createWorkoutExercise.exercise" = "Tippe auf 'Übung' um eine Übung auszuwählen.";
-"text.hint.createWorkoutExercise.exercise.selectExercise" = "Wähle die Übung aus, die du hinzufügen willst.";
-"text.hint.createWorkoutExercise.exercise.newExercise" = "Passt dir keine der vorhandenen Übungen? Mit der '+' Taste kannst du hier auch eine neue Übung erstellen und sofort hinzufügen.\nTipp: Du kannst auch eine Übung auswählen und diese dann später ändern.";
-"text.hint.createWorkoutExercise.defaults" = "Du kannst hier die Sätze deiner Übung bearbeiten und deine Übung innerhalb dieses Trainingsprogramms gruppieren.";
-"text.hint.createWorkoutExercise.save" = "Wenn du fertig bist, tippe auf 'Fertig' um zu speichern.";
-"text.hint.addFirstExerciseLog" = "Die Tabelle enthält einen Eintrag für jeden auszuführenden Satz für diese Übung. Tippe auf einen Satz um ihn zu loggen.";
-"text.hint.customizeStatistics" = "Du kannst konfigurieren, wie die Liniendiagramme und/oder Kuchendiagramme deine Daten anzeigen sollen.";
-//hints - specifics
-"text.hint.manageExercises" = "Hier kannst du deine Übungen verwalten. Tippe auf die '+' Taste um eine Übung zu erstellen, wähle eine bestehende Übung um sie zu bearbeiten.";
-"text.hint.createExercise.exercise" = "Hier kannst du deiner Übung einen Namen geben (zum Beispiel \"Bankdrücken mit Kurzhanteln\").";
-"text.hint.createExercise.region" = "Hier kannst du deiner Übung einen Zielbereich zuweisen (zum Beispiel \"Brust\")";
-"text.hint.createExercise.optional" = "Du kannst auch eine primäre und eine sekundäre Muskelgruppe setzen und Notizen zur Übung hinzufügen.";
-"text.hint.createExercise.save" = "Tippe auf 'Fertig' um deine neue Übung zu speichern.";
-"text.hint.lineGraphInfo" = "Versuche deinen Finger auf das Liniendiagramm zu halten und bewege ihn nach links oder rechts um genau zu sehen, wie du an einem bestimmten Tag trainiert hast.";
-"text.hint.quickLog" = "Halte deinen Finger auf einen Satz um schnell das gleiche wie das letzte mal zu loggen.\nTipp: Funktioniert für den ausgewählten Satz und allen vorherigen Sätzen.";
+//hints
+"text.hint.introduction.1" = "Willkommen bei [{APP_NAME}]. Diese Hinweise werden dir nützliche Infos zur Benutzung von [{APP_NAME}] geben.\n\nWir wollen nicht deine Zeit verschwenden; jeder Hinweis ist lesenswert und wird nur einmal gezeigt, versprochen[{WINK}]!";
+"text.hint.introduction.2" = "Zur besseren Orientierung wird [{APP_NAME}] mit %li Beispielen für Trainingsprogramme geliefert. Wähle eines aus um zu sehen, wie ein Trainingsprogramm aussehen könnte - und lösche es einfach, sobald du es nicht mehr brauchst.";
+"text.hint.startWorkout" = "Du kannst dein Training durch Tippen auf eine beliebige Übung starten.";
+"text.hint.startedWorkout" = "Wenn du mitten im heutigen Training bist, siehst du hier deinen Trainingsfortschritt.";
+"text.hint.editWorkout" = "Mit '+' kannst du einem Trainingsprogramm Übungen hinzufügen und mit 'Bearbeiten' kannst du diese später ändern.";
+"text.hint.performWorkout.1" = "Hier gibt es einen Eintrag für jeden Satz den es auszuführen gibt. In diesem Fall ist das Ziel %@.\n\nTippe einfach auf einen Satz, um ihn zu loggen.";
+"text.hint.performWorkout.2" = "Benutze '%@' um auf weitere Informationen über die aktuelle Übung oder das aktuelle Training zuzugreiffen.";
+"text.hint.performWorkout.3" = "Streiche nach links oder rechts um zu den anderen Übungen im Training zu wechseln.";
+"text.hint.quickLog" = "Halte deinen Finger auf einen Satz um schnell das gleiche wie das letzte mal zu loggen.\n\nTipp: Funktioniert für den ausgewählten Satz und allen vorherigen Sätzen.";
+"text.hint.lineGraphInfo" = "Halte deinen Finger auf das Liniendiagramm und bewege ihn nach links oder rechts um genau zu sehen, wie du an einem bestimmten Tag trainiert hast.";
+"text.hint.customizeStatistics" = "Du kannst konfigurieren, wie die Linien-diagramme und/oder Kuchendiagramme deine Daten anzeigen sollen.";
+"text.hint.manageExercises" = "Hier kannst du deine Übungen verwalten. Tippe auf '+' um eine Übung zu erstellen, wähle eine bestehende Übung um sie zu bearbeiten.";
+"text.hint.usedExercises" = "Benutzte Übungen - das sind Übungen die derzeit in einem Training benutzt werden oder für die es Logs gibt - sind hervorgehoben.";
+"text.hint.createExercise" = "Eine Übung benötigt nur einen Namen und einen Zielbereich. Alle anderen Werte sind optional.";
+"text.hint.createWorkoutExercise.1" = "Hier kannst du die Übung auswählen, die du deinem Trainingsprogramm hinzufügen willst.";
+"text.hint.createWorkoutExercise.2" = "Du kannst hier auch die Sätze deiner Übung bearbeiten und deine Übung innerhalb dieses Trainingsprogramms gruppieren.";
+"text.hint.createWorkoutExerciseOnTheFly" = "Falls dir keine der vorhandenen Übungen passt, kannst du hier mit '+' auch eine neue Übung erstellen und sofort hinzufügen.\n\nTipp: Du kannst auch eine Übung auswählen und diese dann später ändern.";
 
 /* Data */
 //exercises
@@ -386,3 +381,8 @@
 "data.exercise.jogging" = "Jogging";
 "data.exercise.cycling" = "Radfahren";
 "data.exercise.rowing" = "Rudern";
+//workouts
+"data.workout.simple" = "Einfach (Beispiel)";
+"data.workout.groups" = "Gruppen (Beispiel)";
+"data.workout.supersets" = "Supersets (Beispiel)";
+"data.workout.dropsets" = "Dropsets (Beispiel)";

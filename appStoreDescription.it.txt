@@ -1,4 +1,4 @@
-Ecco GymBook, la tua applicazione fitness per creare, registrare e analizzare i tuoi allenamenti in sala pesi - tutto in un'interfaccia bella e innovativa.
+Ecco GymBook, la tua App fitness per creare, registrare e analizzare i tuoi allenamenti in sala pesi - tutto in un'interfaccia bella e innovativa.
 
 GESTISCI I TUOI ALLENAMENTI
 ● Crea i tuoi programmi d'allenamento con i tuoi esercizi o scegli tra 50 semplici esercizi di base con immagini animate e visualizzazioni del gruppo muscolare primario e secondario che viene allenato
@@ -23,15 +23,8 @@ ALLENATI!
 ● L’innovativa "Workout Matrix" ti da sempre una panoramica dettagliata del tuo programma attuale
 ● Una barra di progresso ti permette sempre di vedere il progresso generale del tuo programma 
 
-CRONOMETRA LE TUE PAUSE
-● Scegli tra un timer grafico o classico
-● Configura la durate del tuo timer e durate diverse per il timer primario e secondario
-● Abilita l’avvio automatico
-● Scegli tra vari suoni del timer
-● Il tuo timer funziona anche se metti il tuo iPhone in stand-by o se chiudi l’applicazione (“Notifiche” devono essere abilitate)
-● Suggerimento: Adatta le impostazioni generali delle “Notifiche” per personalizzare il tuo timer
-
 ALTRO...
+● Cronometra le tue pause con il timer configurabile che funziona anche se metti il tuo iPhone in stand-by o se chiudi l'App: puoi configurare la durata del timer, hai un timer primario e secondario, puoi scegliere tra un timer classico o grafico, scegliere tra vari suoni del timer e di più.
 ● Ricevi un analisi dettagliata della tua prestazione grazie ai grafici a linee interattivi e/o grafici a torta
 ● Esporta i tuoi dati registrati nel formato XML e CSV
 ● Traccia il tuo peso corporeo, calcola il tuo BMI e analizza tutto in un grafico a linee interattivo
@@ -41,10 +34,10 @@ ALTRO...
 
 SUPPORTO: GymBook supporta iPhone 4+ ed è ottimizzato per iPhone 5. Supporta il sistema di unità metrico (kg, metri) e imperiale (libbre, piedi).
 
-LOCALIZZAZIONE: Oltre all’italiano sono supportate le lingue inglese, tedesco e russo (di più su https://github.com/sallvi/localize-gymbook).
+LOCALIZZAZIONE: Oltre all’italiano sono supportate le lingue inglese, tedesco e parzialmente russo (di più su https://github.com/sallvi/localize-gymbook).
 
-NOTA: GymBook è stato sviluppato da esperti di palestra, per esperti di palestra. Pertanto si concentra sui TUOI esercizi e i TUOI programmi e fornisce soltanto alcuni esercizi di base per un migliore orientamento e non prevede programmi predefiniti.
+NOTA: GymBook è stato sviluppato da esperti di palestra, per esperti di palestra. Pertanto si concentra sui TUOI esercizi e i TUOI programmi e fornisce soltanto alcuni esercizi di base ed esempi di programmi d'allenamento per un migliore orientamento.
 
-!!! MOLTO IMPORTANTE: Gli esercizi di base forniti da GymBook sono da intendersi come aiuto d'orientamento e non mostrano nel dettaglio come eseguire correttamente un esercizio. Consulenza professionale è ancora altamente raccomandata prima di eseguire l'allenamento. !!!
+!!! MOLTO IMPORTANTE: Gli esercizi di base ed esempi di programmi d'allenamento forniti da GymBook sono da intendersi solo come guida di orientamento. Gli esercizi di base non mostrano nel dettaglio come eseguire correttamente un esercizio. Gli esempi di programmi d'allenamento sono intesi solo come esempi per mostrare le funzioni dell'App. CONSULENZA PROFESSIONALE È ALTAMENTE RACCOMANDATA PRIMA DI ESEGUIRE L'ALLENAMENTO. !!!
 
 RINGRAZIAMENTI: Molti ringraziamenti vanno a Everkinetic (http://everkinetic.com) da dove abbiamo alcune delle immagini degli esercizi e ispirazione per altre immagini (l'arricchimento delle immagini con il gruppo muscolare allenato non fa parte del materiale fornito da Everkinetic).

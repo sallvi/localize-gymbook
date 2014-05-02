@@ -1,13 +1,13 @@
 Hier kommt GymBook, deine Fitness App um deine Trainings im Fitnessstudio auf effiziente Art und Weise zu erstellen, zu loggen und zu analysieren – alles in einer schönen und innovativen Benutzeroberfläche.
 
 VERWALTE DEINE TRAININGS
-● Erstelle deine Trainings mit deinen eigenen Übungen oder wähle aus den 50 simplen Standard-Übungen mit animierten Bildern und Visualisierungen der trainierten primären und sekundären Muskelgruppe
+● Erstelle deine Trainings mit deinen eigenen Übungen oder wähle aus den 50 simplen Übungen mit animierten Bildern und Visualisierungen der trainierten primären und sekundären Muskelgruppe
 ● Gruppiere und sortiere die Übungen deines Trainings
 ● Definiere für jede Übung Anzahl Sätze, Gewicht und Wiederholungen die du durchführen willst
 ● Definiere unterschiedliche Einstellungen für jeden Satz einer Übung (z.B. für Aufwärmsätze oder für Pyramidentraining)
 
 VERWALTE DEINE ÜBUNGEN
-● Bearbeite die gelieferten Standard-Übungen
+● Bearbeite die gelieferten Übungen
 ● Erstelle deine eigenen Übungen (unterstützt auch Kardio-Übungen)
 ● Ergänze deine Übungen mit dem Bereich, der primären und sekundären Muskelgruppe sowie zusätzlichen Notizen
 
@@ -36,8 +36,8 @@ SUPPORT: GymBook unterstützt iPhone 4+ und ist für das iPhone 5 optimiert. Es 
 
 LOKALISIERUNGEN: Neben Deutsch werden zur Zeit die Sprachen Englisch, Italienisch und teilweise Russisch unterstützt (mehr auf https://github.com/sallvi/localize-gymbook).
  
-HINWEIS: GymBook wurde von Fitnessexperten, für Fitnessexperten entwickelt. Es konzentriert sich deshalb auf DEINE Übungen und DEINE Trainings und beinhaltet lediglich einige Standard-Übungen und Beispiel-Trainingsprogramme zur besseren Orientierung.
+HINWEIS: GymBook wurde von Fitnessexperten, für Fitnessexperten entwickelt. Es konzentriert sich deshalb auf DEINE Übungen und DEINE Trainings und beinhaltet lediglich einige simple Übungen und Beispiel-Trainingsprogramme zur besseren Orientierung.
 
-!!! SEHR WICHTIG: Die Standard-Übungen und Beispiel-Trainingsprogramme, welche durch GymBook bereitgestellt werden, sind ausschliesslich als Orientierungshilfe gedacht. Die Standard-Übungen zeigen nicht im Detail, wie eine Übung korrekt ausgeführt werden soll. Die Beispiel-Trainingsprogrammen dienen nur als Beispiele um zu zeigen, wie die App funktioniert. PROFESSIONELLE BERATUNG WIRD STRENGSTENS EMPFOHLEN, BEVOR DAS TRAINING BEGONNEN WIRD. !!!
+!!! SEHR WICHTIG: Die Übungen und Beispiel-Trainingsprogramme, welche durch GymBook bereitgestellt werden, sind ausschliesslich als Orientierungshilfe gedacht. Die Übungen zeigen nicht im Detail, wie eine Übung korrekt ausgeführt werden soll. Die Beispiel-Trainingsprogrammen dienen nur als Beispiele um zu zeigen, wie die App funktioniert. PROFESSIONELLE BERATUNG WIRD STRENGSTENS EMPFOHLEN, BEVOR DAS TRAINING BEGONNEN WIRD. !!!
 
 DANKSAGUNGEN: Vielen Dank an Everkinetic (http://everkinetic.com) von wo aus wir einige der schönen Bilder der Übungen und Inspiration für weitere Bilder erhalten haben (die Erweiterung der Bilder mit den trainierten Muskeln ist nicht Teil des von Everkinetic geliferten Materials).

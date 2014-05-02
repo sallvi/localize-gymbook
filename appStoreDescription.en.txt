@@ -1,13 +1,13 @@
 Here is GymBook, your fitness app to efficiently create, log and analyze your workouts at the gym - all in a beautiful and innovative user interface.
 
 MANAGE YOUR WORKOUTS
-● Create your workout with your own exercises or choose from the 50 simple, basic exercises with animated images and visualizations of the affected primary and secondary muscle group
+● Create your workout with your own exercises or choose from the 50 simple exercises with animated images and visualizations of the affected primary and secondary muscle group
 ● Group and sort your exercises within a workout
 ● Define the sets, weight and reps you want to perform for each exercise.
 ● Define different settings for your sets of an exercise (e.g. for warm up sets or pyramid training)
 
 MANAGE YOUR EXERCISES
-● Edit the preloaded basic exercises
+● Edit the preloaded exercises
 ● Create your own exercises (cardio exercises also supported)
 ● Assign a region, a primary and secondary muscle group and write down notes for your exercises
 
@@ -37,8 +37,8 @@ SUPPORT: GymBook supports iPhone 4+ and is optimized for iPhone 5. Supports metr
 LOCALIZATION: Multiple language support is currently added for English, German, Italian and partially Russian. 
 ?!? You want the app in your own language? We have created the open source project https://github.com/sallvi/localize-gymbook. If your language is not supported (or you see errors and/or missing translations in one of the supported languages), you can make your contribution and we will integrate it as soon as possible. ?!?
 
-NOTE: GymBook is developed by gym experts, for gym experts. Therefore it focuses on YOUR exercises and YOUR workouts and provides only basic exercises and example workouts for better orientation.
+NOTE: GymBook is developed by gym experts, for gym experts. Therefore it focuses on YOUR exercises and YOUR workouts and provides only simple exercises and example workouts for better orientation.
 
-!!! VERY IMPORTANT: The basic exercises and example workouts provided by GymBook are intended as orientation help only. The basic exercises do not show in detail how to correctly execute an exercise. The example workouts are only intended as examples to show how the app works. PROFESSIONAL CONSULTATION IS STILL HIGHLY RECOMMENDED BEFORE PERFORMING YOUR TRAINING. !!!
+!!! VERY IMPORTANT: The exercises and example workouts provided by GymBook are intended as orientation help only. The exercises do not show in detail how to correctly execute an exercise. The example workouts are only intended as examples to show how the app works. PROFESSIONAL CONSULTATION IS STILL HIGHLY RECOMMENDED BEFORE PERFORMING YOUR TRAINING. !!!
 
 ACKNOWLEDGMENTS: Many thanks go to Everkinetic (http://everkinetic.com) from where we have some of the exercise images and inspiration for the others (the enrichment of the images by the affected muscle group is not part of the material provided by Everkinetic).

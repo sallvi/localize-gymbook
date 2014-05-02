@@ -1,13 +1,13 @@
 Ecco GymBook, la tua App fitness per creare, registrare e analizzare i tuoi allenamenti in sala pesi - tutto in un'interfaccia bella e innovativa.
 
 GESTISCI I TUOI ALLENAMENTI
-● Crea i tuoi programmi d'allenamento con i tuoi esercizi o scegli tra 50 semplici esercizi di base con immagini animate e visualizzazioni del gruppo muscolare primario e secondario che viene allenato
+● Crea i tuoi programmi d'allenamento con i tuoi esercizi o scegli tra 50 semplici esercizi con immagini animate e visualizzazioni del gruppo muscolare primario e secondario che viene allenato
 ● Raggruppa e ordina i tuoi esercizi all’interno di un allenamento
 ● Definisci i set, il peso e le ripetizioni che desideri eseguire per ogni esercizio
 ● Definisci impostazioni differenti per ogni set di un esercizio (per esempio per set di riscaldamento o per allenamenti a piramide)
 
 GESTISCI I TUOI ESERCIZI
-● Modifica gli esercizi di base precaricati
+● Modifica gli esercizi precaricati
 ● Crea i tuoi esercizi (supporta anche esercizi di cardio)
 ● Assegna un zona, un gruppo muscolare primario e secondario e aggiungi appunti ai tuoi esercizi
 
@@ -36,8 +36,8 @@ SUPPORTO: GymBook supporta iPhone 4+ ed è ottimizzato per iPhone 5. Supporta il
 
 LOCALIZZAZIONE: Oltre all’italiano sono supportate le lingue inglese, tedesco e parzialmente russo (di più su https://github.com/sallvi/localize-gymbook).
 
-NOTA: GymBook è stato sviluppato da esperti di palestra, per esperti di palestra. Pertanto si concentra sui TUOI esercizi e i TUOI programmi e fornisce soltanto alcuni esercizi di base ed esempi di programmi d'allenamento per un migliore orientamento.
+NOTA: GymBook è stato sviluppato da esperti di palestra, per esperti di palestra. Pertanto si concentra sui TUOI esercizi e i TUOI programmi e fornisce soltanto alcuni esercizi semplici ed esempi di programmi d'allenamento per un migliore orientamento.
 
-!!! MOLTO IMPORTANTE: Gli esercizi di base ed esempi di programmi d'allenamento forniti da GymBook sono da intendersi solo come guida di orientamento. Gli esercizi di base non mostrano nel dettaglio come eseguire correttamente un esercizio. Gli esempi di programmi d'allenamento sono intesi solo come esempi per mostrare le funzioni dell'App. CONSULENZA PROFESSIONALE È ALTAMENTE RACCOMANDATA PRIMA DI ESEGUIRE L'ALLENAMENTO. !!!
+!!! MOLTO IMPORTANTE: Gli esercizi ed esempi di programmi d'allenamento forniti da GymBook sono da intendersi solo come guida di orientamento. Gli esercizi non mostrano nel dettaglio come eseguire correttamente un esercizio. Gli esempi di programmi d'allenamento sono intesi solo come esempi per mostrare le funzioni dell'App. CONSULENZA PROFESSIONALE È ALTAMENTE RACCOMANDATA PRIMA DI ESEGUIRE L'ALLENAMENTO. !!!
 
 RINGRAZIAMENTI: Molti ringraziamenti vanno a Everkinetic (http://everkinetic.com) da dove abbiamo alcune delle immagini degli esercizi e ispirazione per altre immagini (l'arricchimento delle immagini con il gruppo muscolare allenato non fa parte del materiale fornito da Everkinetic).

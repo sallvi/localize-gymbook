@@ -70,12 +70,14 @@
 "label.set" = "Set";
 "label.addSet" = "Add set";
 "label.reps" = "Repetitions";
+"label.time" = "Time";
 "label.weight" = "Weight";
+"label.distance" = "Distance";
 "label.picker.sets" = "sets with";
 "label.picker.reps" = "reps";
 "label.today" = "Today";
 "label.date" = "Date";
-"label.time" = "Time";
+"label.date.time" = "Time";
 "label.no" = "No";
 "label.yes" = "Yes";
 "label.notAvailable" = "-";
@@ -269,13 +271,16 @@
 "text.information.noData.subtitle.noLogs" = "Your logs will appear here.";
 "text.information.noNotes" = "No notes";
 "text.alert.inactiveFeature.standard" = "This feature can be unlocked in the %@ Store.";
-"text.alert.inactiveFeature.extended" = "You can unlock this feature in the %@ Store by buying %@.\nHint: you can also unlock ALL functions at once by buying the %@ package.";
+"text.alert.inactiveFeature.extended" = "You can unlock this feature in the %@ Store by buying %@.\n\nHint: you can also unlock ALL functions at once by buying the %@ package.";
 "text.alert.inAppPurchases.introduction" = "To support the further development of %@, special functions can now be purchased via in-app purchases.\nDon't worry, as existing user you get all the existing features for FREE, as a thank you.\nThank you for using %@!";
 "text.alert.inAppPurchases.unableToLoadProducts" = "In-app purchases could not be loaded.";
 "text.alert.inAppPurchases.unableToBuyProduct" = "In-app purchase could not be completed.";
 //products
+//
 "text.inAppPurchase.product.package.platinum.description" = "This package will give you forever unlimited access to all [{APP_NAME}] functions. For only [{PRODUCT_PRICE}] it unlocks all the existing special functions and also all the functions that will be developed in the future. Each newly developed function will automatically be enabled for you right away - forever!";
 "text.inAppPurchase.product.package.gold.description" = "With this package you can immediately unlock several [{APP_NAME}] functions at once and thus benefit from a more attractive price.";
+//
+"text.inAppPurchase.product.feature.allExercises.description" = "Load %li additional exercises like for example '%@', '%@' or '%@'.\n\nAdditionally, with [{PRODUCT_NAME}] you also activate all exercises which will be added in the future.";
 "text.inAppPurchase.product.feature.timerPlus.description" = "With [{PRODUCT_NAME}] you get the most out of your timer. The secondary timer offers you valuable flexibility, with the automatic timer start you save time and energy and the graphical timer can be very useful.\n\nLast but not least: you can also change the sound of your timer.";
 "text.inAppPurchase.product.feature.themes.description" = "With this purchase you can change the appearance of [{APP_NAME}]. Choose the design that brings out the best in you during your training. Or the one that fits your outfit best.\n\nCurrently there are three great designs available and more are in development.";
 "text.inAppPurchase.product.feature.export.description" = "[{PRODUCT_NAME}] enables you to export your logs in the standard formats CSV and XML and use them outside of [{APP_NAME}]. You can use them for your own statistics, for further processing, for backup, for forwarding to someone... or for whatever else.";

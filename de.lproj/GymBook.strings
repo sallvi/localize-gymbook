@@ -70,12 +70,14 @@
 "label.set" = "Satz";
 "label.addSet" = "Satz hinzufügen";
 "label.reps" = "Wiederholungen";
+"label.time" = "Zeit";
 "label.weight" = "Gewicht";
+"label.distance" = "Strecke";
 "label.picker.sets" = "Sätze";
 "label.picker.reps" = "Wdh.";
 "label.today" = "Heute";
 "label.date" = "Datum";
-"label.time" = "Zeit";
+"label.date.time" = "Zeit";
 "label.no" = "Nein";
 "label.yes" = "Ja";
 "label.notAvailable" = "-";
@@ -269,13 +271,16 @@
 "text.information.noData.subtitle.noLogs" = "Deine Logs werden hier erscheinen.";
 "text.information.noNotes" = "Keine Notizen";
 "text.alert.inactiveFeature.standard" = "Diese Funktion kann im %@ Store aktivierst werden.";
-"text.alert.inactiveFeature.extended" = "Du kannst diese Funktion im %@ Store durch den Kauf von %@ aktivieren.\nTipp: Durch den Erwerb vom %@ Paket kannst du auch gleich ALLE Funktionen auf einmal aktivieren.";
+"text.alert.inactiveFeature.extended" = "Du kannst diese Funktion im %@ Store durch den Kauf von %@ aktivieren.\n\nTipp: Durch den Erwerb vom %@ Paket kannst du auch gleich ALLE Funktionen auf einmal aktivieren.";
 "text.alert.inAppPurchases.introduction" = "Um die weitere Entwicklung von %@ zu unterstützen, können spezielle Funktionen neu via In-App-Käufe erworben werden.\nKeine Sorge, als bestehender Benutzer erhältst du als Dankeschön alle vorhandenen Funktionen GRATIS.\nVielen Dank dass du %@ verwendest!";
 "text.alert.inAppPurchases.unableToLoadProducts" = "In-App-Käufe konnten nicht geladen werden.";
 "text.alert.inAppPurchases.unableToBuyProduct" = "In-App-Kauf konnte nicht getätigt werden.";
 //products
-"text.inAppPurchase.product.package.platinum.description" = "Dieses Paket bietet dir für immer unlimitierten Zugriff auf alle [{APP_NAME}] Funktionen. Für nur [{PRODUCT_PRICE}] aktiviert er alle existierenden Spezialfunktionen sowie auch diejenigen Funktionen, die zukünftig entwickelt werden. Jede neu entwickelte Funktion wird für dich jeweils automatisch sofort freigeschaltet - für immer!";
+//
+"text.inAppPurchase.product.package.platinum.description" = "Dieses Paket bietet dir für immer unlimitierten Zugriff auf alle [{APP_NAME}] Funktionen. Für nur [{PRODUCT_PRICE}] aktiviert es alle existierenden Spezialfunktionen sowie auch diejenigen Funktionen, die zukünftig entwickelt werden. Jede neu entwickelte Funktion wird für dich jeweils automatisch sofort freigeschaltet - für immer!";
 "text.inAppPurchase.product.package.gold.description" = "Mit diesem Paket aktivierst du sofort gleich mehrere [{APP_NAME}] Funktionen auf einmal und profitierst somit von einem attraktiveren Preis.";
+//
+"text.inAppPurchase.product.feature.allExercises.description" = "Lade %li zusätzliche Übungen wie beispielsweise '%@', '%@' oder '%@'.\n\nMit [{PRODUCT_NAME}] schaltest du ausserdem auch alle Übungen frei, welche in Zukunft hinzugefügt werden.";
 "text.inAppPurchase.product.feature.timerPlus.description" = "Mit [{PRODUCT_NAME}] holst du das Beste aus deinem Timer heraus. Der sekundäre Timer bietet dir wertvolle Flexibilität, mit dem automatischen Timerstart sparst du Zeit und Energie und der grafische Timer kann sehr nützlich sein.\n\nLast but not least: Du kannst auch den Ton des Timers ändern.";
 "text.inAppPurchase.product.feature.themes.description" = "Mit diesem Kauf kannst du das Aussehen von [{APP_NAME}] verändern. Wähle das Design, das im Training aus dir das Beste herausholt. Oder dasjenige, welches am Besten zu deinem Outfit passt.\n\nZur Zeit stehen drei tolle Designs zur Verfügung und weitere sind in Entwicklung.";
 "text.inAppPurchase.product.feature.export.description" = "[{PRODUCT_NAME}] ermöglicht es dir, deine Logs in den gängigen Formaten CSV und XML zu exportieren und sie ausserhalb von [{APP_NAME}] zu verwenden. Du kannst sie für eigene Statistiken, zur Weiterverarbeitung, zur Sicherung, zur Weiterleitung... oder für was auch immer verwenden.";

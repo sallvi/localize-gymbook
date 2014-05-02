@@ -70,12 +70,14 @@
 "label.set" = "Set";
 "label.addSet" = "Aggiungi set";
 "label.reps" = "Ripetizioni";
+"label.time" = "Tempo";
 "label.weight" = "Peso";
+"label.distance" = "Distanza";
 "label.picker.sets" = "set con";
 "label.picker.reps" = "rip.";
 "label.today" = "Oggi";
 "label.date" = "Data";
-"label.time" = "Orario";
+"label.date.time" = "Orario";
 "label.no" = "No";
 "label.yes" = "Si";
 "label.notAvailable" = "-";
@@ -269,13 +271,16 @@
 "text.information.noData.subtitle.noLogs" = "I tuoi dati registrati appariranno qui.";
 "text.information.noNotes" = "Nessun appunto";
 "text.alert.inactiveFeature.standard" = "Questa funzione può essere sbloccata nello Store %@.";
-"text.alert.inactiveFeature.extended" = "Questa funzione può essere sbloccata nello Store %@ acquistando %@.\nSuggerimento: è anche possibile sbloccare TUTTE le funzioni acquistando il pacchetto %@.";
+"text.alert.inactiveFeature.extended" = "Questa funzione può essere sbloccata nello Store %@ acquistando %@.\n\nSuggerimento: è anche possibile sbloccare TUTTE le funzioni acquistando il pacchetto %@.";
 "text.alert.inAppPurchases.introduction" = "Per sostenere l'ulteriore sviluppo di %@, funzioni speciali possono essere acquistate tramite acquisti in-app.\nNon ti preoccupare, come utente esistente otterrai come ringraziamento tutte le funzionalità esistenti GRATIS.\n Grazie di usare %@!";
 "text.alert.inAppPurchases.unableToLoadProducts" = "Gli acquisti in-app non sono stati caricati.";
 "text.alert.inAppPurchases.unableToBuyProduct" = "L'acquisto in-app non è stato completato.";
 //products
+//
 "text.inAppPurchase.product.package.platinum.description" = "Questo pacchetto ti darà per sempre accesso illimitato a tutte le funzioni di [{APP_NAME}]. Per soli [{PRODUCT_PRICE}] sblocca tutte le funzioni speciali esistenti e anche le funzioni che verranno sviluppate in futuro. Ogni nuova funzione verrà immediatamente attivata - per sempre!";
 "text.inAppPurchase.product.package.gold.description" = "Con questo pacchetto attvi immediatamente diverse funzioni di [{APP_NAME}] e puoi beneficiare di un prezzo più attraente.";
+//
+"text.inAppPurchase.product.feature.allExercises.description" = "Carica %li ulteriori esercizi come ad esempio '%@', '%@' o '%@'.\n\nInoltre, con [{PRODUCT_NAME}] attivi anche tutti gli esercizi che saranno aggiunti in futuro.";
 "text.inAppPurchase.product.feature.timerPlus.description" = "[{PRODUCT_NAME}] ti consente di ottenere il massimo dal tuo timer. Il timer secondario ti offre una preziosa flessibilità, con l'avvio automatico del timer puoi risparmiare tempo ed energia e il timer grafico può rivelarsi molto utile.\n\nE infine: puoi anche modificare il suono del timer.";
 "text.inAppPurchase.product.feature.themes.description" = "Con questo acquisto è possibile modificare l'aspetto di [{APP_NAME}]. Scegli il tema che in allenamento tira fuori il meglio di te. O quello che si adatta al meglio al tuo abbigliamento.\n\nAl momento sono disponibili tre fantastici temi e altri sono in fase di sviluppo.";
 "text.inAppPurchase.product.feature.export.description" = "[{PRODUCT_NAME}] ti permette di esportare i tuoi dati nei formati CSV e XML e usarli al di fuori di [{APP_NAME}]. È possibile utilizzarli per creare proprie statistiche, per l'ulteriore elaborazione, per il backup, per inoltrarli... o per qualsiasi altro uso.";

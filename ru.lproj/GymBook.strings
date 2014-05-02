@@ -70,12 +70,14 @@
 "label.set" = "Подход";
 "label.addSet" = "Добавить подход";
 "label.reps" = "Повторы";
+"label.time" = "время";
 "label.weight" = "Вес";
+"label.distance" = "дистанция";
 "label.picker.sets" = "Подходы";
 "label.picker.reps" = "Повторы";
 "label.today" = "Сегодня";
 "label.date" = "Дата";
-"label.time" = "Время";
+"label.date.time" = "Время";
 "label.no" = "Нет";
 "label.yes" = "Да";
 "label.notAvailable" = "-";
@@ -269,13 +271,16 @@
 "text.information.noData.subtitle.noLogs" = "Ваши журналы будут здесь.";
 "text.information.noNotes" = "Нет заметок";
 "text.alert.inactiveFeature.standard" = "Эту функцию можно разблокировать в %@ магазине.";
-"text.alert.inactiveFeature.extended" = "Вы можете разблокировать эту функцию в магазине %@ купив %@.\nПодсказки: вы также можете разблокировать все функции, купив весь %@ пакет.";
+"text.alert.inactiveFeature.extended" = "Вы можете разблокировать эту функцию в магазине %@ купив %@.\n\nПодсказки: вы также можете разблокировать все функции, купив весь %@ пакет.";
 "text.alert.inAppPurchases.introduction" = "Чтобы поддержать разработку %@, вы можете приобрести специальные функции через внутренние покупки.\nНе волнуйтесь, старым пользователям эти функции доступны БЕСПЛАТНО, как благодарность.\nСпасибо за пользование %@!";
 "text.alert.inAppPurchases.unableToLoadProducts" = "Покупки внутри приложения не доступны.";
 "text.alert.inAppPurchases.unableToBuyProduct" = "Покупки внутри приложения не могут быть завершены.";
 //products
+//
 "text.inAppPurchase.product.package.platinum.description" = "Этот пакет даст вам возможность безлимитного использования всех фукнции [{APP_NAME}]. Всего за [{PRODUCT_PRICE}] он разблокирует все нынешние специальные функции а также все будущие функции, которые будут разработаны. Каждая новая функция автоматически будет доступна для Вас. И это навсегда!";
 "text.inAppPurchase.product.package.gold.description" = "С этим пакетом вы сразу откроете все функции [{APP_NAME}] за более привлекательную сумму.";
+//
+"text.inAppPurchase.product.feature.allExercises.description" = "Load %li additional exercises like for example '%@', '%@' or '%@'.\n\nAdditionally, with [{PRODUCT_NAME}] you also activate all exercises which will be added in the future.";
 "text.inAppPurchase.product.feature.timerPlus.description" = "С [{PRODUCT_NAME}] вы откроете расширенные функции таймера. Вторичный секундомер позволяет вам быть более динамичным, с автоматическим стартом таймера вы сохраняете свое время и энергию, также есть удобный графический таймер.\n\nПоследнее, но не лишнее: вы также сможете изменять звук окончания таймера.";
 "text.inAppPurchase.product.feature.themes.description" = "С этой покупкой вы сможете менять темы оформления [{APP_NAME}]. Выбирете наилучший дизайн для вашей тренировки.\n\nНа данный момент доступны 3 темы. В будущем тем будет больше.";
 "text.inAppPurchase.product.feature.export.description" = "[{PRODUCT_NAME}] позволяет экспортировать журнал тренировок в стандартные форматы CSV и XML для использования их вне [{APP_NAME}]. Они пригодятся для ведения статистики, для будущих тренировок, для резервной копии, для передачи вашему тренеру... или для чего-нибудь еще.";

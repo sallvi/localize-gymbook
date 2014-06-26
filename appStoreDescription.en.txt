@@ -24,7 +24,7 @@ WORK OUT!
 ● A progress bar lets you always know your overall workout progress
 
 MORE...
-● Time your rests with the adjustable timer which also works when you set your iPhone to sleep or close your app: you can configure your preferred timer duration, have a primary and a secondary timer, choose between a classic or a graphical timer, have different timer sounds and more.
+● Time your rests with the adjustable timer which also works when you set your iPhone to sleep or close your app: you can configure your preferred timer duration, have a primary and a secondary timer as well as an exercise specific timer, choose between a classic or a graphical timer, have different timer sounds and more.
 ● Receive a detailed analysis of your performance thanks to the interactive line graphs and/or pie charts
 ● Export your logs as XML and CSV file
 ● Track your body weight, calculate your BMI and analyze them in an interactive line graph

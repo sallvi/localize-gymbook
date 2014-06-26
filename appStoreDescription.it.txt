@@ -24,7 +24,7 @@ ALLENATI!
 ● Una barra di progresso ti permette sempre di vedere il progresso generale del tuo programma 
 
 ALTRO...
-● Cronometra le tue pause con il timer configurabile che funziona anche se metti il tuo iPhone in stand-by o se chiudi l'App: puoi configurare la durata del timer, hai un timer primario e secondario, puoi scegliere tra un timer classico o grafico, scegliere tra vari suoni del timer e di più.
+● Cronometra le tue pause con il timer configurabile che funziona anche se metti il tuo iPhone in stand-by o se chiudi l'App: puoi configurare la durata del timer, hai un timer primario e secondario così come un timer specifico per esercizio, puoi scegliere tra un timer classico o grafico, scegliere tra vari suoni del timer e di più.
 ● Ricevi un analisi dettagliata della tua prestazione grazie ai grafici a linee interattivi e/o grafici a torta
 ● Esporta i tuoi dati registrati nel formato XML e CSV
 ● Traccia il tuo peso corporeo, calcola il tuo BMI e analizza tutto in un grafico a linee interattivo

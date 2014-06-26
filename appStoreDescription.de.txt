@@ -24,7 +24,7 @@ TRAINIERE!
 ● Ein Fortschrittsbalken gibt dir jederzeit über deinen allgemeinen Trainingsfortschritt Auskunft 
 
 MEHR...
-● Stoppe deine Pausen mit dem anpassbaren Timer, welcher auch funktioniert wenn du dein iPhone sperrst oder die App schliesst: Du kannst die Timer-Zeit konfigurieren, hast einen primären und sekundären Timer, kannst zwischen einem klassichen oder grafischen Timer wählen, hast verschiedene Timer Sounds und mehr.
+● Stoppe deine Pausen mit dem anpassbaren Timer, welcher auch funktioniert wenn du dein iPhone sperrst oder die App schliesst: Du kannst die Timer-Zeit konfigurieren, hast einen primären und sekundären Timer sowie auch einen Übungs-Timer, kannst zwischen einem klassichen oder grafischen Timer wählen, hast verschiedene Timer Sounds und mehr.
 ● Erhalte eine detaillierte Analyse deiner Performance mit Hilfe der interaktiven Liniendiagramme und/oder Kuchendiagramme
 ● Exportieren deine Logs als XML- und CSV-Datei
 ● Führe dein Körpergewicht nach, berechne deinen BMI und analysiere das in einem interaktiven Liniendiagramm

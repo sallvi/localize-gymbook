@@ -28,7 +28,7 @@ MORE...
 ● Receive a detailed analysis of your performance thanks to the interactive line graphs and/or pie charts
 ● Export your logs as XML and CSV file
 ● Track your body weight, calculate your BMI and analyze them in an interactive line graph
-● Change the appearance of GymBook and choose from one of 3 great designs
+● Change the appearance of GymBook and choose from one of 4 great designs
 
 *Some special functions can be purchased via in-app purchases.
 
@@ -38,7 +38,5 @@ LOCALIZATION: Multiple language support is currently added for English, German, 
 ?!? You want the app in your own language? We have created the open source project https://github.com/sallvi/localize-gymbook. If your language is not supported (or you see errors and/or missing translations in one of the supported languages), you can make your contribution and we will integrate it as soon as possible. ?!?
 
 NOTE: GymBook is developed by gym experts, for gym experts. Therefore it focuses on YOUR exercises and YOUR workouts and provides only simple exercises and example workouts for better orientation.
-
-!!! VERY IMPORTANT: The exercises and example workouts provided by GymBook are intended as orientation help only. The exercises do not show in detail how to correctly execute an exercise. The example workouts are only intended as examples to show how the app works. PROFESSIONAL CONSULTATION IS STILL HIGHLY RECOMMENDED BEFORE PERFORMING YOUR TRAINING. !!!
 
 ACKNOWLEDGMENTS: Many thanks go to Everkinetic (http://everkinetic.com) from where we have some of the exercise images and inspiration for the others (the enrichment of the images by the affected muscle group is not part of the material provided by Everkinetic).

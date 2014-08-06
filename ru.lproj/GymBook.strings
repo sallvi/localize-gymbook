@@ -30,6 +30,7 @@
 "title.addToWorkout" = "Add To Workout"; //TODO
 "title.inWorkouts" = "Used In %i Workouts"; //TODO
 "title.inWorkouts.singular" = "Used In %i Workout"; //TODO
+"title.disclaimer" = "Accept Terms"; //TODO
 //
 "title.subject.export" = "%@ Журнал";
 "title.subject.feedback" = "%@ Обратная связь";
@@ -65,6 +66,7 @@
 "button.logsExport" = "Экспорт";
 "button.restorePurchases" = "Восстановить покупки";
 "button.loadXMore" = "Load %lu more"; //TODO
+"button.accept" = "I Accept"; //TODO
 
 /* Labels */
 "label.none" = "Нет";
@@ -119,6 +121,7 @@
 "text.description.graph.logs.average.time" = "Среднее время";
 "text.description.graph.logs.average.weight" = "Средний вес";
 "text.description.graph.logs.average.distance" = "Средняя дистанция";
+//"text.description.graph.logs.total.exercises" = "Total exercises";
 "text.description.graph.logs.total.sets" = "Общее подоход"; //own translation
 "text.description.graph.logs.total.reps" = "Общее кол-во повторений";
 "text.description.graph.logs.total.time" = "Общее время";
@@ -283,7 +286,7 @@
 "text.description.settings.timer.durationSecondary" = "Задержите палец на кнопке чтобы запустить таймер со второй продолжительностью. С обычным нажатием вы просто запускаете таймер с первой продолжительностью как обычно.";
 "text.description.settings.workout.moveToNextExercise" = "Установите парамер '%@' если после сохранения журнала вы хотите автоматически перейти к след упражнению.";
 "text.description.settings.workout.graphType" = "Линия графика во время тренировки показывает %@.";
-"text.description.settings.recommend" = "Посмотрите новое приложение: %@";
+"text.description.settings.applicationInformation.recommend" = "Посмотрите новое приложение: %@";
 "text.confirmation.deleteExercise" = "Вы уверены что хотите удалить упражнение \n\"%@\"?";
 "text.confirmation.deleteWorkout" = "Вы уверены что хотите удалить тренировку \n\"%@\"?";
 "text.confirmation.deleteWorkoutExercise" = "Вы уверены что хотите удалить упражнение\n\"%@\" with %@?";
@@ -296,6 +299,7 @@
 "text.alert.inAppPurchases.introduction" = "Чтобы поддержать разработку %@, вы можете приобрести специальные функции через внутренние покупки.\nНе волнуйтесь, старым пользователям эти функции доступны БЕСПЛАТНО, как благодарность.\nСпасибо за пользование %@!";
 "text.alert.inAppPurchases.unableToLoadProducts" = "Покупки внутри приложения не доступны.";
 "text.alert.inAppPurchases.unableToBuyProduct" = "Покупки внутри приложения не могут быть завершены.";
+"text.alert.disclaimer" = "The exercises and example workouts provided by [{APP_NAME}] have been created with highest care and best effort. Nevertheless they are intended as orientation help only and are supplied without guarantee. [{APP_NAME}] assumes no liability for any disadvantages or damages resulting from the use of [{APP_NAME}] and/or the information provided by [{APP_NAME}]."; //TODO
 //products
 //
 "text.inAppPurchase.product.package.platinum.description" = "Этот пакет даст вам возможность безлимитного использования всех фукнции [{APP_NAME}]. Всего за [{PRODUCT_PRICE}] он разблокирует все нынешние специальные функции а также все будущие функции, которые будут разработаны. Каждая новая функция автоматически будет доступна для Вас. И это навсегда!";
@@ -318,6 +322,7 @@
 "text.hint.performWorkout.3" = "Swipe left or right to move to the other exercises within a workout.";
 "text.hint.quickLog" = "Удержите ваш палец на подходе для быстрого сохранения как в прошлый раз.\nПодсказка: это работает и для выбранных подходов и все предыдущие.";
 "text.hint.lineGraphInfo" = "Попробуйте удержать палец на линии графика и потянуть её влево или вправо чтобы видеть ваши результаты на определенную дату.";
+"text.hint.pieChartInfo" = "Tap a value in the pie chart or in the legend to highlight it."; //TODO
 "text.hint.customizeStatistics" = "У вас есть возможность изменять вид графиков и круговых диаграмм.";
 //
 "text.hint.createWorkoutExercise.1" = "Here you can select the exercise you want to add to your workout.";
@@ -325,9 +330,8 @@
 "text.hint.createExerciseOnTheFly" = "Вам не подоходит ни одно предустановленное упражнение? Нажмите на '+' чтобы сразу создать ваше упражнение.\nПодсказки: вы также можете модифицировать готовые упражнения.";
 //
 "text.hint.browseExercises" = "From here you have access to all your exercises. Select a specific target region or '%@' to start browsing through your exercises."; //TODO
-"text.hint.manageExercises.1" = "Select an exercise to access its detail view.\nFrom within the detail view you can access the exercise's logs and add the exercise to a workout program, among other."; //TODO
+"text.hint.manageExercises.1" = "Select an exercise to open its detail view.\nFrom within the detail view you can access the exercise's logs and add the exercise to a workout program, among other."; //TODO
 "text.hint.manageExercises.2" = "Use 'Edit' to modify or delete your exercises or to create new ones."; //TODO
-"text.hint.usedExercises" = "Used exercises - these are exercises that are currently in a workout or for which there are some logs - are highlighted.";
 "text.hint.usedExercises" = "Used exercises - these are exercises that are currently in a workout or for which there are some logs - are highlighted.";
 "text.hint.createExercise" = "An exercise needs only a name and a target region. All the other values are optional.";
 "text.hint.usedInWorkouts" = "Workouts in which the current exercise is being used are highlighted."; //TODO
@@ -362,9 +366,11 @@
 "data.exercise.lyingBarbellTricepsExtensions" = "Французский жим лёжа";
 "data.exercise.lyingDumbbellTricepsExtensions" = "Разгибания гантелей лежа двумя руками";
 "data.exercise.tricepsKickbacks" = "Разгибания гантелей в наклоне";
-"data.exercise.tricepsDips" = "Отжимания на брусьях";
+"data.exercise.tricepsDips" = "Bench Dips"; //TODO
 "data.exercise.pushDowns" = "Push-Downs"; //TODO
 //"data.exercise.reversePushDowns" = "Reverse Push-Downs"; //TOOD
+"data.exercise.closeGripBarbellBenchPresses" = "Close-Grip Barbell Bench Presses"; //TODO
+"data.exercise.parallelBarDips" = "Parallel Bar Dips"; //TODO
 //exercises - спина
 "data.exercise.chinUps" = "Подтягивания на турнике";
 "data.exercise.reverseChinUps" = "Подтягивания на турнике обратным хватом";
@@ -385,6 +391,7 @@
 "data.exercise.backExtensions" = "Гиперэкстензии";
 "data.exercise.barbellShrugs" = "Barbell Shrugs"; //TODO
 "data.exercise.dumbbellShrugs" = "Dumbbell Shrugs"; //TODO
+"data.exercise.supermans" = "Supermans"; //TODO
 //exercises - ягодицы
 "data.exercise.barbellLunges" = "Выпады со штангой";
 "data.exercise.dumbbellLunges" = "Выпады с гантелями";
@@ -400,6 +407,7 @@
 "data.exercise.pushUps" = "Отжимания от пола";
 "data.exercise.dumbbellFlys" = "Разводка гантелей лёжа";
 "data.exercise.machineFlys" = "Machine Flys"; //TODO
+"data.exercise.cableFlys" = "Cable Flys"; //TODO
 "data.exercise.inclineDumbbellBenchPresses" = "Жим гантелей лёжа под наклоном";
 "data.exercise.dumbbellBenchPresses" = "Жим гантелей лёжа";
 "data.exercise.declineDumbbellBenchPresses" = "Жим гантелей лёжа под наклоном вниз";

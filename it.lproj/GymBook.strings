@@ -30,6 +30,7 @@
 "title.addToWorkout" = "Aggiungi A Programma";
 "title.inWorkouts" = "Utilizzato In %i Programmi";
 "title.inWorkouts.singular" = "Utilizzato In %i Programma";
+"title.disclaimer" = "Accetta Termini";
 //
 "title.subject.export" = "Dati registrati %@";
 "title.subject.feedback" = "Feedback %@";
@@ -65,6 +66,7 @@
 "button.logsExport" = "Esportazione";
 "button.restorePurchases" = "Ripristinare Acquisti";
 "button.loadXMore" = "Carica altri %lu";
+"button.accept" = "Accetto";
 
 /* Labels */
 "label.none" = "Nessuno";
@@ -119,6 +121,7 @@
 "text.description.graph.logs.average.time" = "Tempo medio";
 "text.description.graph.logs.average.weight" = "Peso medio";
 "text.description.graph.logs.average.distance" = "Distanza media";
+//"text.description.graph.logs.total.exercises" = "Total exercises";
 "text.description.graph.logs.total.sets" = "Set totali";
 "text.description.graph.logs.total.reps" = "Ripetizioni totali";
 "text.description.graph.logs.total.time" = "Tempo totale";
@@ -283,7 +286,7 @@
 "text.description.settings.timer.durationSecondary" = "Tieni il dito sul pulsante del timer per avviare il timer con la durata secondaria. Con un tocco normale puoi avviare il timer con la durata primaria, come di consueto.";
 "text.description.settings.workout.moveToNextExercise" = "Imposta '%@' se dopo aver salvato una registrazione vuoi passare automaticamente al prossimo esercizio da eseguire.";
 "text.description.settings.workout.graphType" = "Il grafico a linee durante il tuo programma mostra %@.";
-"text.description.settings.recommend" = "Dai un'occhiata a questa nuova applicazione: %@";
+"text.description.settings.applicationInformation.recommend" = "Dai un'occhiata a questa nuova applicazione: %@";
 "text.confirmation.deleteExercise" = "Sei sicuro di voler eliminare l'esercizio \n\"%@\"?";
 "text.confirmation.deleteWorkout" = "Sei sicuro di voler eliminare il programma \n\"%@\"?";
 "text.confirmation.deleteWorkoutExercise" = "Sei sicuro di voler rimuovere l'esercizio \n\"%@\" con %@?";
@@ -296,6 +299,7 @@
 "text.alert.inAppPurchases.introduction" = "Per sostenere l'ulteriore sviluppo di %@, funzioni speciali possono essere acquistate tramite acquisti in-app.\nNon ti preoccupare, come utente esistente otterrai come ringraziamento tutte le funzionalità esistenti GRATIS.\n Grazie di usare %@!";
 "text.alert.inAppPurchases.unableToLoadProducts" = "Gli acquisti in-app non sono stati caricati.";
 "text.alert.inAppPurchases.unableToBuyProduct" = "L'acquisto in-app non è stato completato.";
+"text.alert.disclaimer" = "Gli esercizi ed esempi di programmi d'allenamento forniti da [{APP_NAME}] sono stati creati con la massima cura e il massimo sforzo. Tuttavia essi sono intesi solo come guida di orientamento e vengono forniti senza garanzia. [{APP_NAME}] non si assume alcuna responsabilità per eventuali inconvenienti o danni derivanti dall’uso di [{APP_NAME}] e/o dalle informazioni fornite da [{APP_NAME}].";
 //products
 //
 "text.inAppPurchase.product.package.platinum.description" = "Questo pacchetto ti darà per sempre accesso illimitato a tutte le funzioni di [{APP_NAME}]. Per soli [{PRODUCT_PRICE}] sblocca tutte le funzioni speciali esistenti e anche le funzioni che verranno sviluppate in futuro. Ogni nuova funzione verrà immediatamente attivata - per sempre!";
@@ -318,6 +322,7 @@
 "text.hint.performWorkout.3" = "Passa il dito verso sinistra o destra per muoverti agli altri esercizi all'interno di un programma.";
 "text.hint.quickLog" = "Tieni premuto il dito su un set per registrare gli stessi dati dell'ultima volta.\n\nSuggerimento: funziona sia per il set selezionato che per tutti i set precedenti.";
 "text.hint.lineGraphInfo" = "Tieni premuto il dito sul grafico a linee e muovilo verso destra o sinistra per vedere esattamente come ti sei allenato a una data specifica.";
+"text.hint.pieChartInfo" = "Tocca un valore nel grafico a torta o nella legenda per evidenziarlo.";
 "text.hint.customizeStatistics" = "È possibile personalizzare il modo in cui i grafici a linee e grafici a torta visualizzano i tuoi dati.";
 //
 "text.hint.createWorkoutExercise.1" = "Qui puoi scegliere l'esercizio che vuoi aggiungere al tuo programma d'allenamento.";
@@ -325,7 +330,7 @@
 "text.hint.createExerciseOnTheFly" = "Se nessuno degli esercizi esistenti ti si addice, crea e aggiungi un tuo nuovo esercizio al volo usando '+'.\n\nSuggerimento: puoi anche selezionare un esercizio e modificarlo in seguito.";
 //
 "text.hint.browseExercises" = "Da qui hai accesso a tutti i tuoi esercizi. Seleziona una zona specifica o '%@' per vedere i tuoi esercizi.";
-"text.hint.manageExercises.1" = "Seleziona un esercizio per mostrare i dettagli dell'esercizio.\nDa dentro la vista di dettaglio puoi per esempio accedere ai dati dell'esercizio o aggiungere l'esercizio a un programma di allenamento.";
+"text.hint.manageExercises.1" = "Seleziona un esercizio per mostrare i dettagli dell'esercizio.\nDa dentro la vista di dettaglio puoi per esempio accedere ai dati dell'esercizio o aggiungere l'esercizio a un programma d'allenamento.";
 "text.hint.manageExercises.2" = "Con 'Modifica' puoi modificare e eliminare i tuoi esercizi e crearne nuovi.";
 "text.hint.usedExercises" = "Esercizi utilitzzati - questi sono esercizi che sono attualmente in un programma o per i quali esistono dati - sono evidenziati.";
 "text.hint.createExercise" = "Un esercizio necessita solo di un nome e una zona. Tutti gli altri dati sono opzionali.";
@@ -337,8 +342,8 @@
 //exercises
 /* //TODO: might reconcept this (the italian namings)
  1[Exercise]
- ?[su Panca Inclinata|su Panca Declinata|su Panca Piana|Inversi/o|a Presa Stretta|...]
- ?[con Manubri/Manubro|con Bilanciere|alla Macchina|al Cavo|ai Cavi|Barra T]
+ ?[su Panca Inclinata|su Panca Declinata|su Panca Piana|Inversi/o|a Presa Stretta|su Panca|...]
+ ?[con Manubri/Manubro|con Bilanciere|alla Macchina|al Cavo|ai Cavi|con Barra T|alla Sbarra|alle Parallele]
  ?[da Seduti|in Piedi|da Sdraiati|a Braccia Tese]
  */
 //exercises - abdomen
@@ -361,9 +366,11 @@
 "data.exercise.lyingBarbellTricepsExtensions" = "French Presses con Bilanciere da Sdraiati";
 "data.exercise.lyingDumbbellTricepsExtensions" = "French Presses con Manubri da Sdraiati";
 "data.exercise.tricepsKickbacks" = "Kickbacks Tricipiti";
-"data.exercise.tricepsDips" = "Dips Tricipiti";
+"data.exercise.tricepsDips" = "Dips su Panca";
 "data.exercise.pushDowns" = "Tricipiti ai Cavi";
 //"data.exercise.reversePushDowns" = "Tricipiti Inversi ai Cavi";
+"data.exercise.closeGripBarbellBenchPresses" = "Distensioni su Panca Piana con Bilanciere a Presa Stretta";
+"data.exercise.parallelBarDips" = "Dips alle Parallele";
 //exercises - back
 "data.exercise.chinUps" = "Trazioni alla Sbarra";
 "data.exercise.reverseChinUps" = "Trazioni Invertiti alla Sbarra";
@@ -384,6 +391,7 @@
 "data.exercise.backExtensions" = "Alzate del Corpo Superiore";
 "data.exercise.barbellShrugs" = "Shrugs con Bilanciere";
 "data.exercise.dumbbellShrugs" = "Shrugs con Manubri";
+"data.exercise.supermans" = "Supermans";
 //exercises - buttocks
 "data.exercise.barbellLunges" = "Affondi con Bilanciere";
 "data.exercise.dumbbellLunges" = "Affondi con Manubri";
@@ -399,6 +407,7 @@
 "data.exercise.pushUps" = "Flessioni";
 "data.exercise.dumbbellFlys" = "Flies con Manubri";
 "data.exercise.machineFlys" = "Flies alla Macchina";
+"data.exercise.cableFlys" = "Flies ai Cavi";
 "data.exercise.inclineDumbbellBenchPresses" = "Distensioni su Panca Inclinata con Manubri";
 "data.exercise.dumbbellBenchPresses" = "Distensioni su Panca Piana con Manubri";
 "data.exercise.declineDumbbellBenchPresses" = "Distensioni su Panca Declinata con Manubri";

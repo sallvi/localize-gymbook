@@ -28,7 +28,7 @@ ALTRO...
 ● Ricevi un analisi dettagliata della tua prestazione grazie ai grafici a linee interattivi e/o grafici a torta
 ● Esporta i tuoi dati registrati nel formato XML e CSV
 ● Traccia il tuo peso corporeo, calcola il tuo BMI e analizza tutto in un grafico a linee interattivo
-● Modifica l'aspetto di GymBook e scegli tra tre fantastici temi
+● Modifica l'aspetto di GymBook e scegli tra quattro fantastici temi
 
 *Certe funzioni speciali possono essere acquistate tramite acquisti in-app.
 
@@ -37,7 +37,5 @@ SUPPORTO: GymBook supporta iPhone 4+ ed è ottimizzato per iPhone 5. Supporta il
 LOCALIZZAZIONE: Oltre all’italiano sono supportate le lingue inglese, tedesco e parzialmente russo (di più su https://github.com/sallvi/localize-gymbook).
 
 NOTA: GymBook è stato sviluppato da esperti di palestra, per esperti di palestra. Pertanto si concentra sui TUOI esercizi e i TUOI programmi e fornisce soltanto alcuni esercizi semplici ed esempi di programmi d'allenamento per un migliore orientamento.
-
-!!! MOLTO IMPORTANTE: Gli esercizi ed esempi di programmi d'allenamento forniti da GymBook sono da intendersi solo come guida di orientamento. Gli esercizi non mostrano nel dettaglio come eseguire correttamente un esercizio. Gli esempi di programmi d'allenamento sono intesi solo come esempi per mostrare le funzioni dell'App. CONSULENZA PROFESSIONALE È ALTAMENTE RACCOMANDATA PRIMA DI ESEGUIRE L'ALLENAMENTO. !!!
 
 RINGRAZIAMENTI: Molti ringraziamenti vanno a Everkinetic (http://everkinetic.com) da dove abbiamo alcune delle immagini degli esercizi e ispirazione per altre immagini (l'arricchimento delle immagini con il gruppo muscolare allenato non fa parte del materiale fornito da Everkinetic).

@@ -30,6 +30,7 @@
 "title.addToWorkout" = "Add To Workout";
 "title.inWorkouts" = "Used In %i Workouts";
 "title.inWorkouts.singular" = "Used In %i Workout";
+"title.disclaimer" = "Accept Terms";
 //
 "title.subject.export" = "%@ Logs";
 "title.subject.feedback" = "%@ Feedback";
@@ -65,6 +66,7 @@
 "button.logsExport" = "Export";
 "button.restorePurchases" = "Restore purchases";
 "button.loadXMore" = "Load %lu more";
+"button.accept" = "I Accept";
 
 /* Labels */
 "label.none" = "None";
@@ -119,7 +121,7 @@
 "text.description.graph.logs.average.time" = "Average time";
 "text.description.graph.logs.average.weight" = "Average weight";
 "text.description.graph.logs.average.distance" = "Average distance";
-"text.description.graph.logs.total.exercises" = "Total exercises";
+//"text.description.graph.logs.total.exercises" = "Total exercises";
 "text.description.graph.logs.total.sets" = "Total sets";
 "text.description.graph.logs.total.reps" = "Total repetitions";
 "text.description.graph.logs.total.time" = "Total time";
@@ -284,7 +286,7 @@
 "text.description.settings.timer.durationSecondary" = "Hold your finger on the timer button to start the timer with the secondary duration. With a normal tap you can still start the timer with the primary duration - as usual.";
 "text.description.settings.workout.moveToNextExercise" = "Set '%@' if after saving a log you want to move automatically to the next exercise to be performed.";
 "text.description.settings.workout.graphType" = "The line graph during your workout shows %@.";
-"text.description.settings.recommend" = "Check out this new app: %@";
+"text.description.settings.applicationInformation.recommend" = "Check out this new app: %@";
 "text.confirmation.deleteExercise" = "Are you sure you want to delete the exercise \n\"%@\"?";
 "text.confirmation.deleteWorkout" = "Are you sure you want to delete the workout \n\"%@\"?";
 "text.confirmation.deleteWorkoutExercise" = "Are you sure you want to remove the exercise \n\"%@\" with %@?";
@@ -297,6 +299,7 @@
 "text.alert.inAppPurchases.introduction" = "To support the further development of %@, special functions can now be purchased via in-app purchases.\nDon't worry, as existing user you get all the existing features for FREE, as a thank you.\nThank you for using %@!";
 "text.alert.inAppPurchases.unableToLoadProducts" = "In-app purchases could not be loaded.";
 "text.alert.inAppPurchases.unableToBuyProduct" = "In-app purchase could not be completed.";
+"text.alert.disclaimer" = "The exercises and example workouts provided by [{APP_NAME}] have been created with highest care and best effort. Nevertheless they are intended as orientation help only and are supplied without guarantee. [{APP_NAME}] assumes no liability for any disadvantages or damages resulting from the use of [{APP_NAME}] and/or the information provided by [{APP_NAME}].";
 //products
 //
 "text.inAppPurchase.product.package.platinum.description" = "This package will give you forever unlimited access to all [{APP_NAME}] functions. For only [{PRODUCT_PRICE}] it unlocks all the existing special functions and also all the functions that will be developed in the future. Each newly developed function will automatically be enabled for you right away - forever!";
@@ -319,6 +322,7 @@
 "text.hint.performWorkout.3" = "Swipe left or right to move to the other exercises within a workout.";
 "text.hint.quickLog" = "Hold down your finger on a set to quickly log the same as the previous time.\n\nHint: this works for the selected set and all the previous ones.";
 "text.hint.lineGraphInfo" = "Hold down your finger on the line graph and move it left or right to see exactly how you did at a specific date.";
+"text.hint.pieChartInfo" = "Tap a value in the pie chart or in the legend to highlight it.";
 "text.hint.customizeStatistics" = "You can customize how the line graphs and pie charts display your data.";
 //
 "text.hint.createWorkoutExercise.1" = "Here you can select the exercise you want to add to your workout.";
@@ -326,7 +330,7 @@
 "text.hint.createExerciseOnTheFly" = "If none of the existing exercises suits you, use '+' to create and add your own exercise on the fly.\n\nHint: you can also select an exercise and modify it later on.";
 //
 "text.hint.browseExercises" = "From here you have access to all your exercises. Select a specific target region or '%@' to start browsing through your exercises.";
-"text.hint.manageExercises.1" = "Select an exercise to access its detail view.\nFrom within the detail view you can for example access the exercise's logs or add the exercise to a workout program.";
+"text.hint.manageExercises.1" = "Select an exercise to open its detail view.\nFrom within the detail view you can for example access the exercise's logs or add the exercise to a workout program.";
 "text.hint.manageExercises.2" = "Use 'Edit' to modify or delete your exercises or to create new ones.";
 "text.hint.usedExercises" = "Used exercises - these are exercises that are currently in a workout or for which there are some logs - are highlighted.";
 "text.hint.createExercise" = "An exercise needs only a name and a target region. All the other values are optional.";
@@ -339,7 +343,7 @@
 /*
  ?[Alternating|Close-Grip|Reverse|Straight-Arm|Straight-Leg|...]
  ?[Lying|Seated|Standing|Incline|Decline]
- ?[Dumbbell|Barbell|Machine|Cable|T-Bar]
+ ?[Dumbbell|Barbell|Machine|Cable|T-Bar|Parallel Bar]
  1[Exercise]
  */
 //exercises - abdomen
@@ -362,9 +366,11 @@
 "data.exercise.lyingBarbellTricepsExtensions" = "Lying Barbell Triceps Extensions";
 "data.exercise.lyingDumbbellTricepsExtensions" = "Lying Dumbbell Triceps Extensions";
 "data.exercise.tricepsKickbacks" = "Triceps Kickbacks";
-"data.exercise.tricepsDips" = "Triceps Dips";
+"data.exercise.tricepsDips" = "Bench Dips"; //renamed to bench dips for consistency reasons (due to introduction of parallel bar dips)
 "data.exercise.pushDowns" = "Push-Downs";
 //"data.exercise.reversePushDowns" = "Reverse Push-Downs";
+"data.exercise.closeGripBarbellBenchPresses" = "Close-Grip Barbell Bench Presses";
+"data.exercise.parallelBarDips" = "Parallel Bar Dips";
 //exercises - back
 "data.exercise.chinUps" = "Chin-Ups";
 "data.exercise.reverseChinUps" = "Reverse Chin-Ups";
@@ -385,6 +391,7 @@
 "data.exercise.backExtensions" = "Back Extensions";
 "data.exercise.barbellShrugs" = "Barbell Shrugs";
 "data.exercise.dumbbellShrugs" = "Dumbbell Shrugs";
+"data.exercise.supermans" = "Supermans";
 //exercises - buttocks
 "data.exercise.barbellLunges" = "Barbell Lunges";
 "data.exercise.dumbbellLunges" = "Dumbbell Lunges";
@@ -400,6 +407,7 @@
 "data.exercise.pushUps" = "Push-Ups";
 "data.exercise.dumbbellFlys" = "Dumbbell Flys";
 "data.exercise.machineFlys" = "Machine Flys";
+"data.exercise.cableFlys" = "Cable Flys";
 "data.exercise.inclineDumbbellBenchPresses" = "Incline Dumbbell Bench Presses";
 "data.exercise.dumbbellBenchPresses" = "Dumbbell Bench Presses";
 "data.exercise.declineDumbbellBenchPresses" = "Decline Dumbbell Bench Presses";

@@ -55,6 +55,4 @@ LOCALIZATION: Поддержка языков: Английский, Немец�
 
 NOTE: Обратите внимание: GymBook создана экспертами качалки для экспертов качалки. Поэтому она нацелена на ваши упражнения и ваши тренировки и предоставляет только несколько простейших упражнений и никаких предустановленных программ тренировок.
 
-!!!! VERY IMPORTANT: The basic exercises provided by GymBook are intended as orientation and do not show in detail how to correctly execute an exercise. Professional consultation is still highly recommended before performing your training. !!!!
-
 ACKNOWLEDGMENTS: Many thanks go to Everkinetic (http://everkinetic.com) for their beautiful exercise images.

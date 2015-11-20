@@ -15,13 +15,21 @@
 
 /* Titles */
 "title.exercises" = "Упражнения";
+"title.exercises.all" = "Все";
 "title.exercise" = "Упражнение";
 "title.workouts" = "Тренировки";
+"title.archivedWorkouts" = "Archived Тренировки"; //TODO
+"title.workout" = "тренировкам"; //own translation
 "title.newWorkout" = "Новое Тренировка";
 "title.editWorkout" = "Изменить Тренировка";
 "title.newExercise" = "Новое Упражнение";
 "title.editExercise" = "Изменить упражнение";
 "title.addExercise" = "Новое упражнение";
+"title.newLog" = "Add Log"; //TODO
+"title.editLog" = "Edit Log"; //TODO
+"title.newNotes" = "Add Notes"; //TODO
+"title.editNotes" = "Edit Notes"; //TODO
+"title.changeDate" = "Change Date"; //TODO
 "title.logs" = "Журнал";
 "title.settings" = "Настройки";
 "title.store" = "Магазин";
@@ -30,9 +38,25 @@
 "title.addToWorkout" = "Add To Workout"; //TODO
 "title.inWorkouts" = "Used In %i Workouts"; //TODO
 "title.inWorkouts.singular" = "Used In %i Workout"; //TODO
-"title.disclaimer" = "Accept Terms"; //TODO
+"title.more" = "Ещё";
+"title.completedWorkout" = "Completed Workout"; //TODO
+"title.completedWorkout.today" = "Workout Completed!"; //TODO
 //
-"title.subject.export" = "%@ Журнал";
+"title.alert.notifications" = "Turned off notifications"; //TODO
+"title.alert.settings.general.theme" = "Activate theme"; //TODO
+"title.alert.inAppPurchases.unableToLoadProducts" = "Покупки внутри приложения не доступны";
+"title.alert.inAppPurchases.unableToBuyProduct" = "Покупки внутри приложения не могут быть завершены";
+"title.alert.inAppPurchases.unableToRestoreProducts" = "In-App purchases could not be restored";
+"title.alert.backupImport.importedBackup" = "Your backup has been imported"; //TODO
+"title.alert.backupImport.unableToImportBackup" = "Your backup could not be imported"; //TODO
+//
+"title.confirmation.acceptDisclaimer" = "Accept terms"; //TODO
+"title.confirmation.inactiveFeature.standard" = "Эту функцию можно разблокировать в %@ магазине";
+"title.confirmation.inactiveFeature.extended" = "Вы можете разблокировать эту функцию в магазине %@ купив %@";
+"title.confirmation.importBackup" = "Import backup"; //TODO
+//
+"title.subject.export.logs" = "%@ Журнал";
+"title.subject.export.backup" = "%@ Backup"; //TODO
 "title.subject.feedback" = "%@ Обратная связь";
 
 /* Buttons */
@@ -40,36 +64,40 @@
 "button.cancel" = "Отмена";
 "button.ok" = "Ok";
 "button.continue" = "Продолжить";
-"button.remove" = "Удалить";
 "button.deleteExercise" = "Удалить упражнение";
 "button.removeExercise" = "Стереть упражнение";
 "button.deleteWorkout" = "Удалить тренировку";
 "button.deleteExercises.all" = "Удалить всё";
 "button.deleteExercises.unused" = "Удалить неиспользованные";
 "button.addLog" = "Сохранить";
-"button.updateLog" = "Обновить";
-"button.deleteLog" = "Удалить";
 "button.set" = "Подход";
 "button.setDate" = "Установить";
 "button.setDateToday" = "Сегодня";
 "button.timer" = "Таймер";
-"button.more" = "Ещё";
-"button.addBodyweightLog" = "Сохранить";
-"button.updateBodyweightLog" = "Обновить";
-"button.deleteBodyweightLog" = "Удалить";
 "button.bodyweights" = "Все веса";
 "button.save" = "Сохранить";
+"button.remove" = "Удалить";
+"button.clear" = "Удалить"; //own translation
+"button.delete" = "Удалить";
+"button.archive" = "Archive"; //TODO
+"button.unarchive" = "Unarchive"; //TODO
 "button.buy" = "Купить %@ (%@)";
+"button.store" = "Магазин";
 "button.strength" = "Прочность";
 "button.cardio" = "Кардио";
 "button.addTo" = "Add To"; //TODO
-"button.logsExport" = "Экспорт";
-"button.restorePurchases" = "Восстановить покупки";
-"button.loadXMore" = "Load %lu more"; //TODO
+"button.restore" = "Восстановить";
+"button.loadXMore" = "Load %i More"; //TODO
 "button.accept" = "I Accept"; //TODO
+"button.use" = "Use %@"; //TODO
+"button.import" = "Import"; //TODO
 
 /* Labels */
 "label.none" = "Нет";
+"label.never" = "Ни разу"; //own translation
+"label.empty" = "Пустой"; //own translation
+"label.default" = "По умолчанию"; //own translation
+"label.free" = "бесплатно"; //own translation
 "label.name" = "Имя";
 "label.targetRegion" = "Часть тела";
 "label.targetMuscle" = "Мышечная группа";
@@ -77,14 +105,14 @@
 "label.targetMuscle.secondary" = "Вторая группа мышц";
 "label.notes" = "Заметки";
 "label.exercise" = "Упражнение";
-"label.exercises" = "Упражнения";
-"label.exercises.singular" = "Упражнение";
+"label.exercises" = "%li Упражнения";
+"label.exercises.singular" = "%li Упражнение";
 "label.logs" = "Журнал";
 "label.group" = "Группа";
 "label.timer" = "Таймер";
 "label.set" = "Подход";
-"label.sets" = "Подходы";
-"label.sets.singular" = "Подход";
+"label.sets" = "%li Подходы";
+"label.sets.singular" = "%li Подход";
 "label.addSet" = "Добавить подход";
 "label.reps" = "Повторы";
 "label.reps.singular" = "Повтор"; //own translation
@@ -93,17 +121,25 @@
 "label.distance" = "дистанция";
 "label.picker.sets" = "Подходы";
 "label.picker.reps" = "Повторы";
-"label.today" = "Сегодня";
+"label.today" = "сегодня";
+"label.yesterday" = "вчера";
 "label.date" = "Дата";
 "label.date.time" = "Время";
 "label.no" = "Нет";
 "label.yes" = "Да";
+"label.active" = "Active"; //TODO
+"label.archived" = "Archived"; //TODO
+"label.more" = "more"; //TODO
+"label.less" = "less"; //TODO
 "label.notAvailable" = "-";
 "label.pageXOfY" = "%i из %i";
 "label.all" = "Все";
 "label.image" = "Изображение"; //own translation
 "label.duration.seconds" = "секунд";
 "label.inWorkouts" = "In workouts"; //TODO
+//
+"label.completion" = "Completed %li times"; //TODO
+"label.completion.singular" = "Completed %li time"; //TODO
 //
 "label.byExercise" = "По упражнениям";
 "label.byDate" = "По дате";
@@ -117,35 +153,37 @@
 "label.byTargetMusclePrimaryAndSecondary" = "By both muscle groups";
 "label.byWorkout" = "По тренировкам";
 //
-"text.description.graph.logs.average.reps" = "Среднее количество повторений";
-"text.description.graph.logs.average.time" = "Среднее время";
-"text.description.graph.logs.average.weight" = "Средний вес";
-"text.description.graph.logs.average.distance" = "Средняя дистанция";
-//"text.description.graph.logs.total.exercises" = "Total exercises";
-"text.description.graph.logs.total.sets" = "Общее подоход"; //own translation
-"text.description.graph.logs.total.reps" = "Общее кол-во повторений";
-"text.description.graph.logs.total.time" = "Общее время";
-"text.description.graph.logs.total.weight" = "Общий вес";
-"text.description.graph.logs.total.distance" = "Общая дистанция";
-"text.description.graph.logs.max.reps" = "Максимум повторений";
-"text.description.graph.logs.max.time" = "Максимальное время";
-"text.description.graph.logs.max.weight" = "Максимальный вес";
-"text.description.graph.logs.max.distance" = "Максимальная дистанция";
-"text.description.graph.logs.min.reps" = "Минимальное кол-во повторений";
-"text.description.graph.logs.min.time" = "Минимальное время";
-"text.description.graph.logs.min.weight" = "Минимальный вес";
-"text.description.graph.logs.min.distance" = "Минимальная дистанция";
+"label.statistics.average.reps" = "Среднее количество повторений";
+"label.statistics.average.time" = "Среднее время";
+"label.statistics.average.weight" = "Средний вес";
+"label.statistics.average.distance" = "Средняя дистанция";
+//"label.statistics.total.exercises" = "Total exercises";
+"label.statistics.total.sets" = "Общее подоход"; //own translation
+"label.statistics.total.reps" = "Общее кол-во повторений";
+"label.statistics.total.time" = "Общее время";
+"label.statistics.total.weight" = "Общий вес";
+"label.statistics.total.distance" = "Общая дистанция";
+"label.statistics.logs.max.reps" = "Максимум повторений";
+"label.statistics.logs.max.time" = "Максимальное время";
+"label.statistics.logs.max.weight" = "Максимальный вес";
+"label.statistics.logs.max.distance" = "Максимальная дистанция";
+"label.statistics.logs.min.reps" = "Минимальное кол-во повторений";
+"label.statistics.logs.min.time" = "Минимальное время";
+"label.statistics.logs.min.weight" = "Минимальный вес";
+"label.statistics.logs.min.distance" = "Минимальная дистанция";
 //
-//"label.weekdays" = "дней"; //own translation
-//"label.weekday.010.monday" = "Понедельника"; //own translation
-//"label.weekday.020.tuesday" = "Вторника"; //own translation
-//"label.weekday.030.wednesday" = "Среда"; //own translation
-//"label.weekday.040.thursday" = "Четверге"; //own translation
-//"label.weekday.050.friday" = "Пятнице"; //own translation
-//"label.weekday.060.saturday" = "Субботу"; //own translation
-//"label.weekday.070.sunday" = "Воскресенье"; //own translation
+"label.days" = "дней"; //own translation
+"label.days.all" = "Каждый день"; //own translation
+"label.days.weekdays" = "будние дни"; //own translation
+"label.days.weekends" = "Выходные"; //own translation
+"label.day.010.monday" = "Понедельника"; //own translation
+"label.day.020.tuesday" = "Вторника"; //own translation
+"label.day.030.wednesday" = "Среда"; //own translation
+"label.day.040.thursday" = "Четверге"; //own translation
+"label.day.050.friday" = "Пятнице"; //own translation
+"label.day.060.saturday" = "Субботу"; //own translation
+"label.day.070.sunday" = "Воскресенье"; //own translation
 //
-"label.store.discount" = "-%@%%";
 "label.store.active" = "Активные";
 "label.store.package" = "Пакет";
 "label.store.packages" = "Пакеты";
@@ -194,12 +232,12 @@
 "label.graph.logs.max" = "Максимум";
 "label.graph.logs.min" = "Минимум";
 //
-"label.linegraph.period.0" = "5Лет";
-"label.linegraph.period.1" = "2Года";
-"label.linegraph.period.2" = "1Год";
-"label.linegraph.period.3" = "6Мес";
-"label.linegraph.period.4" = "3Mес";
-"label.linegraph.period.5" = "1Mес";
+"label.linegraph.period.0" = "1Mес";
+"label.linegraph.period.1" = "3Mес";
+"label.linegraph.period.2" = "6Мес";
+"label.linegraph.period.3" = "1Год";
+"label.linegraph.period.4" = "2Года";
+"label.linegraph.period.5" = "5Лет";
 "label.linegraph.overview.allTime" = "За все время";
 "label.linegraph.overview.sinceDate" = "Последние %i дней";
 //
@@ -213,10 +251,13 @@
 //
 "label.settings.general.defaultUnitSystem" = "Единицы измерения";
 "label.settings.general.theme" = "Тема";
-"label.settings.general.theme.default" = "По умолчанию";
+"label.settings.general.theme.green" = "Зеленая"; //own translation
 "label.settings.general.theme.blue" = "Голубая";
+"label.settings.general.theme.turquoise" = "Бирюзовый"; //own translation
 "label.settings.general.theme.red" = "Красная";
+"label.settings.general.theme.orange" = "Оранжевый"; //own translation
 "label.settings.general.theme.violet" = "Виолетта"; //own translation
+"label.settings.general.theme.pink" = "Pозовый"; //own translation
 "label.settings.general.theme.random" = "Случайная";
 "label.settings.timer" = "Таймер";
 "label.settings.timer.duration" = "Продолжительность";
@@ -230,24 +271,44 @@
 "label.settings.timer.sound.timerAlertGlass.caf" = "Стекло";
 "label.settings.timer.sound.timerAlertHorn.caf" = "Рог";
 "label.settings.workout" = "Тренировка";
-"label.settings.workout.graphType" = "Вид графика";
-"label.settings.workout.graphType.0" = "Среднее";
-"label.settings.workout.graphType.description.0" = "Среднее кол-во повторений и средний вес";
-"label.settings.workout.graphType.1" = "Общее";
-"label.settings.workout.graphType.description.1" = "Общее кол-во повторений и общий вес";
-"label.settings.workout.graphType.2" = "Маскимум";
-"label.settings.workout.graphType.description.2" = "Максимум повторений и максимальный вес";
-"label.settings.workout.graphType.3" = "Минимум";
-"label.settings.workout.graphType.description.3" = "Минимальное кол-во повторений и минимальный вес";
 "label.settings.workout.moveToNextExercise" = "К след упражнению";
 "label.settings.workout.moveToNextExercise.manually" = "Вручную";
 "label.settings.workout.moveToNextExercise.assisted" = "Автоматически";
+"label.settings.workout.defaultLog" = "Default log";
+"label.settings.workout.defaultLog.lastTime" = "Last time";
+"label.settings.workout.defaultLog.set" = "Set";
+"label.settings.workout.graphType" = "Вид графика";
+"label.settings.workout.graphType.0" = "Среднее";
+"label.settings.workout.graphType.description.0" = "Среднее кол-во повторений и средний вес"; //TODO (doesn't consider time / distance)
+"label.settings.workout.graphType.1" = "Общее";
+"label.settings.workout.graphType.description.1" = "Общее кол-во повторений и общий вес"; //TODO (doesn't consider time / distance)
+"label.settings.workout.graphType.2" = "Маскимум";
+"label.settings.workout.graphType.description.2" = "Максимум повторений и максимальный вес"; //TODO (doesn't consider time / distance)
+"label.settings.workout.graphType.3" = "Минимум";
+"label.settings.workout.graphType.description.3" = "Минимальное кол-во повторений и минимальный вес"; //TODO (doesn't consider time / distance)
+"label.settings.exercises" = "Упражнения";
+"label.settings.exercises.language" = "Язык"; //own translation
+"label.settings.exercises.language.en" = "Английский"; //own translation
+"label.settings.exercises.language.de" = "Немецкий"; //own translation
+"label.settings.exercises.language.it" = "Итальянский"; //own translation
+"label.settings.exercises.showTargetMuscles" = "Show muscle groups"; //TODO
+"label.settings.exercises.showTargetMuscles.all" = "Primary & secondary"; //TODO
+"label.settings.exercises.showTargetMuscles.description.all" = "The primary and secondary targeted muscle groups are shown in the exercise's images."; //TODO
+"label.settings.exercises.showTargetMuscles.primary" = "Only primary"; //TODO
+"label.settings.exercises.showTargetMuscles.description.primary" = "Only the primary targeted muscle group is shown in the exercise's images."; //TODO
+"label.settings.exercises.showTargetMuscles.none" = "No"; //TODO
+"label.settings.exercises.showTargetMuscles.description.none" = "No targeted muscle groups are shown in the exercise's images."; //TODO
 "label.settings.basicInformation" = "Основная информация";
-"label.settings.basicInformation.bodyHeight" = "Рост";
+"label.settings.basicInformation.height" = "Рост";
 "label.settings.basicInformation.sex" = "Пол";
 "label.settings.basicInformation.sex.male" = "Мужской";
 "label.settings.basicInformation.sex.female" = "Женский";
 "label.settings.basicInformation.birthday" = "Дата рождения";
+"label.settings.export" = "Экспорт";
+"label.settings.export.logs" = "Журнал";
+"label.settings.export.logs.subtitle" = "Export logs as CSV and XML files"; //TODO
+"label.settings.export.backup" = "Backup"; //TODO
+"label.settings.export.backup.subtitle" = "Export backup as database file"; //TODO
 "label.settings.applicationInformation.store" = "Магазин";
 "label.settings.applicationInformation.rate" = "Оценить приложение";
 "label.settings.applicationInformation.feedback" = "Оставить отзыв";
@@ -268,14 +329,17 @@
 "text.description.workoutExerciseSets.cardio" = "%i подход из %@ %@ за %@ минут";
 "text.description.exerciseLog.strength" = "%i x %.2lf %@";
 "text.description.exerciseLog.cardio" = "%i', %.2lf %@";
-"text.description.footer.logsExport" = "Экспортировать журнал на email. Журнал будет экспортировать в формат XML и CSV.";
 "text.description.footer.exercise.workoutsCount" = "Это приложение было использовано в %i тренировках.";
 "text.description.footer.exercise.workoutsCount.singular" = "This exercise is being used in %i workout."; //TODO
 "text.description.footer.exercise.logsCount" = "Здесь %i журналов для этого упражнения.";
 "text.description.footer.exercise.logsCount.singular" = "There is %i log for this exercise."; //TODO
 "text.description.footer.workoutExercise.timerDuration" = "If you don't set a specific timer duration, the one defined in '%@' will be used (currently %@)."; //TODO
 "text.description.footer.exercise.addToWorkout" = "Select the workout to which you want to add the exercise. The exercise will be added with a default set and can be modified afterwards from within your workout."; //TODO
-"text.description.mail.logsExport" = "Автоматически сгенерированное письмо содержит файл в формате XML и CSV.";
+"text.description.footer.workout.completion" = "A workout is considered complete if there is a log for each set of each exercise. The training duration is estimated based on the duration of the first log and the time difference between the first and the last log."; //TODO
+"text.description.footer.workout.logsCount" = "There are %li logs for the exercises that are present in this workout."; //TODO
+"text.description.footer.workout.logsCount.singular" = "There is %li log for the exercises that are present in this workout."; //TODO
+"text.description.mail.export.logs" = "Автоматически сгенерированное письмо содержит файл в формате CSV и XML.";
+"text.description.mail.export.backup" = "This e-mail contains a %@ backup as a database file.\n\nTo import the backup, simply open it in %@ from within this e-mail."; //TODO
 "text.description.timerDismissAndStop" = "Свайп вниз чтобы закрыть таймер и остановить его";
 "text.description.timerDismissAndContinue" = "Свайп вверх чтобы закрыть таймер, но не останавливать его";
 "text.description.timerCompleted" = "%@ таймер завершен";
@@ -285,21 +349,42 @@
 "text.description.settings.general.theme" = "Перезагрузите приложение (удалите его из запущенных приложений) чтобы применить новую тему.";
 "text.description.settings.timer.durationSecondary" = "Задержите палец на кнопке чтобы запустить таймер со второй продолжительностью. С обычным нажатием вы просто запускаете таймер с первой продолжительностью как обычно.";
 "text.description.settings.workout.moveToNextExercise" = "Установите парамер '%@' если после сохранения журнала вы хотите автоматически перейти к след упражнению.";
+"text.description.settings.workout.defaultLog" = "Choose how the picker should be pre-filled when logging a set and what should be logged when using Quick-Log. '%@' uses last time's log and '%@' uses the settings of the set.";
 "text.description.settings.workout.graphType" = "Линия графика во время тренировки показывает %@.";
+"text.description.settings.exercises" = "The exercise names will be shown in %@. %@ is visualized in the exercise images.";
 "text.description.settings.applicationInformation.recommend" = "Посмотрите новое приложение: %@";
+"text.confirmation.acceptDisclaimer" = "The exercises and example workouts provided by [{APP_NAME}] have been created with highest care and best effort. Nevertheless they are intended as orientation help only and are supplied without guarantee. [{APP_NAME}] assumes no liability for any disadvantages or damages resulting from the use of [{APP_NAME}] and/or the information provided by [{APP_NAME}]."; //TODO
 "text.confirmation.deleteExercise" = "Вы уверены что хотите удалить упражнение \n\"%@\"?";
 "text.confirmation.deleteWorkout" = "Вы уверены что хотите удалить тренировку \n\"%@\"?";
 "text.confirmation.deleteWorkoutExercise" = "Вы уверены что хотите удалить упражнение\n\"%@\" with %@?";
 "text.confirmation.deleteExercises.all" = "Вы уверены что хотите удалить все упражнения?";
 "text.confirmation.deleteExercises.unused" = "Неиспользованные упражнения, которые не находятся ни в оной тренировке и не находятся ни в одном журнале. Вы уверены, что хотите их удалить?";
-"text.confirmation.inAppPurchases.thankYou" = "Успешная покупка! Спасибо за поддержку! Наслаждайтесь новыми функциями %@!";
+"text.confirmation.settings.exercises.language" = "If you set the language of the exercises to %@, the names of all non-custom exercises will be overwritten. Your custom exercises (the ones you have created yourself) are not affected."; //TODO
+"text.confirmation.inactiveFeature.extended" = "Подсказки: вы также можете разблокировать все функции, купив весь %@ пакет.";
+"text.confirmation.importBackup" = "You are trying to import the backup \'%@\'. All your data will be replaced with the one from the backup. Your settings and in-app purchases are not affected."; //TODO
 "text.information.noNotes" = "Нет заметок";
-"text.alert.inactiveFeature.standard" = "Эту функцию можно разблокировать в %@ магазине.";
-"text.alert.inactiveFeature.extended" = "Вы можете разблокировать эту функцию в магазине %@ купив %@.\n\nПодсказки: вы также можете разблокировать все функции, купив весь %@ пакет.";
-"text.alert.inAppPurchases.introduction" = "Чтобы поддержать разработку %@, вы можете приобрести специальные функции через внутренние покупки.\nНе волнуйтесь, старым пользователям эти функции доступны БЕСПЛАТНО, как благодарность.\nСпасибо за пользование %@!";
-"text.alert.inAppPurchases.unableToLoadProducts" = "Покупки внутри приложения не доступны.";
-"text.alert.inAppPurchases.unableToBuyProduct" = "Покупки внутри приложения не могут быть завершены.";
-"text.alert.disclaimer" = "The exercises and example workouts provided by [{APP_NAME}] have been created with highest care and best effort. Nevertheless they are intended as orientation help only and are supplied without guarantee. [{APP_NAME}] assumes no liability for any disadvantages or damages resulting from the use of [{APP_NAME}] and/or the information provided by [{APP_NAME}]."; //TODO
+"text.information.completedWorkout.counter" = "%@ you completed %@ for the %@ time."; //TODO
+"text.information.completedWorkout.counter.progress" = "The %@ time you completed it was %@."; //TODO
+"text.information.completedWorkout.duration" = "You completed it in about %@."; //TODO
+"text.information.completedWorkout.duration.progress" = "Compared to last time, it took you about %@ to complete it."; //TODO
+"text.information.completedWorkout.statistics.total.reps" = "You performed a total of %@."; //TODO
+"text.information.completedWorkout.statistics.total.reps.progress" = "Compared to last time you performed %@."; //TODO
+"text.information.completedWorkout.statistics.total.reps.progress.same" = "the same amount of repetitions"; //TODO
+"text.information.completedWorkout.statistics.total.reps.unit" = "repetitions"; //TODO
+"text.information.completedWorkout.statistics.total.reps.unit.singular" = "repetition"; //TODO
+"text.information.completedWorkout.statistics.total.time" = "You performed cardio for a total time of %@."; //TODO
+"text.information.completedWorkout.statistics.total.time.progress" = "Compared to last time you performed cardio for %@."; //TODO
+"text.information.completedWorkout.statistics.total.time.progress.same" = "the same total time"; //TODO
+"text.information.completedWorkout.statistics.total.time.unit" = "minutes"; //TODO
+"text.information.completedWorkout.statistics.total.time.unit.singular" = "minute"; //TODO
+"text.information.completedWorkout.statistics.total.weight" = "You lifted a total of %@."; //TODO
+"text.information.completedWorkout.statistics.total.weight.progress" = "Compared to last time you lifted %@."; //TODO
+"text.information.completedWorkout.statistics.total.weight.progress.same" = "the same amount of weight"; //TODO
+"text.information.completedWorkout.statistics.total.distance" = "You performed cardio for a total distance of %@."; //TODO
+"text.information.completedWorkout.statistics.total.distance.progress" = "Compared to last time you performed cardio for %@."; //TODO
+"text.information.completedWorkout.statistics.total.distance.progress.same" = "the same total distance"; //TODO
+"text.alert.notifications" = "The timer will not work properly if notifications are turned off for %@."; //TODO
+"text.alert.backupImport.unableToImportBackup" = "Please make sure that you are using a valid %@ backup database file which you exported with %@."; //TODO
 //products
 //
 "text.inAppPurchase.product.package.platinum.description" = "Этот пакет даст вам возможность безлимитного использования всех фукнции [{APP_NAME}]. Всего за [{PRODUCT_PRICE}] он разблокирует все нынешние специальные функции а также все будущие функции, которые будут разработаны. Каждая новая функция автоматически будет доступна для Вас. И это навсегда!";
@@ -308,18 +393,21 @@
 "text.inAppPurchase.product.feature.allExercises.description" = "Load %li additional exercises like for example '%@', '%@' or '%@'.\n\nAdditionally, with [{PRODUCT_NAME}] you also activate all exercises which will be added in the future.";
 "text.inAppPurchase.product.feature.timerPlus.description" = "С [{PRODUCT_NAME}] вы откроете расширенные функции таймера. Вторичный секундомер позволяет вам быть более динамичным, с автоматическим стартом таймера вы сохраняете свое время и энергию, также есть удобный графический таймер.\n\nПоследнее, но не лишнее: вы также сможете изменять звук окончания таймера.";
 "text.inAppPurchase.product.feature.themes.description" = "С этой покупкой вы сможете менять темы оформления [{APP_NAME}]. Выбирете наилучший дизайн для вашей тренировки.\n\nНа данный момент доступны %li темы. В будущем тем будет больше.";
-"text.inAppPurchase.product.feature.export.description" = "[{PRODUCT_NAME}] позволяет экспортировать журнал тренировок в стандартные форматы CSV и XML для использования их вне [{APP_NAME}]. Они пригодятся для ведения статистики, для будущих тренировок, для резервной копии, для передачи вашему тренеру... или для чего-нибудь еще.";
+"text.inAppPurchase.product.feature.export.description" = "[{PRODUCT_NAME}] позволяет экспортировать журнал тренировок в стандартные форматы CSV и XML для использования их вне [{APP_NAME}]. Они пригодятся для ведения статистики, для будущих тренировок, для резервной копии, для передачи вашему тренеру... или для чего-нибудь еще."; //TODO
 //hints
 //
-"text.hint.introduction.1" = "Welcome to [{APP_NAME}]. These hints will give you some useful information on how to use [{APP_NAME}].\n\nWe will not waste your time; each hint is worth reading and will only be shown once, promised[{WINK}]!";
-"text.hint.introduction.2" = "For better orientation, [{APP_NAME}] ships with %li example workouts. Select one to see how a workout might look like - and simply delete it whenever you want.";
+"text.hint.introduction.1" = "Welcome to [{APP_NAME}]. These hints will give you some useful information on how to use [{APP_NAME}].";
+"text.hint.introduction.2" = "For better orientation, [{APP_NAME}] ships with %li example workouts. Select one to see how a workout might look like.";
+"text.hint.archiveWorkout.1" = "You can archive your workouts by swiping left and selecting '%@'."; //TODO
+"text.hint.archiveWorkout.2" = "Tap here to access your archived workouts."; //TODO
 //
 "text.hint.startWorkout" = "You can start a workout by selecting any exercise.";
 "text.hint.startedWorkout" = "If you are in the middle of today's workout, here you will also see your workout's progress.";
 "text.hint.editWorkout" = "Use 'Edit' to add new exercises to your workout program or to modify or remove existing ones."; //TODO
 "text.hint.performWorkout.1" = "Here there is an entry for each set you have to perform. In this case, the goal is %@.\n\nSimply tap a set to add a log.";
-"text.hint.performWorkout.2" = "Use '%@' to reveal additional information about the current exercise and workout.";
+"text.hint.performWorkout.2" = "Tap here to reveal additional information about the current exercise and workout.";
 "text.hint.performWorkout.3" = "Swipe left or right to move to the other exercises within a workout.";
+"text.hint.logNotes" = "If you want to add notes to a log, you can do it by holding your finger on an existing log."; //TODO
 "text.hint.quickLog" = "Удержите ваш палец на подходе для быстрого сохранения как в прошлый раз.\nПодсказка: это работает и для выбранных подходов и все предыдущие.";
 "text.hint.lineGraphInfo" = "Попробуйте удержать палец на линии графика и потянуть её влево или вправо чтобы видеть ваши результаты на определенную дату.";
 "text.hint.pieChartInfo" = "Tap a value in the pie chart or in the legend to highlight it."; //TODO
@@ -339,112 +427,13 @@
 "text.hint.addToWorkout.2" = "If none of the existing workouts suits you, use '+' to immediately create a new workout and add your exercise to it."; //TODO
 
 /* Data */
-//exercises
-/*
- ?[???]
- ?[???]
- ?[???]
- ?[???]
- */
-//exercises - брюшная полость
-"data.exercise.crunches" = "Пресс";
-"data.exercise.twistCrunches" = "Твист Пресс"; //own translation
-"data.exercise.sitUps" = "Приседания";
-"data.exercise.legRaises" = "Подъём ног";
-"data.exercise.dumbbellSideBends" = "Наклон гантелей в сторону";
-"data.exercise.sidePlanks" = "Side Planks"; //TODO
-//exercises - руки
-"data.exercise.dumbbellCurls" = "Подъём гантелей на бицепс";
-"data.exercise.alternatingDumbbellCurls" = "Подъём гантелей на бицепс (переменный)"; //own translation
-"data.exercise.concentrationCurls" = "Концентрированный подъем гантелей на бицепс";
-"data.exercise.inclineDumbbellCurls" = "Подём гантелей на бицепс на наклонной скамье";
-"data.exercise.alternatingInclineDumbbellCurls" = "Подём гантелей на бицепс на наклонной скамье (переменный)"; //own translation
-"data.exercise.hammerCurls" = "Молотки";
-"data.exercise.alternatingHammerCurls" = "Молотки (переменный)"; //own translation
-"data.exercise.barbellCurls" = "Подъём штанги на бицепс стоя";
-"data.exercise.reverseBarbellCurls" = "Reverse Barbell Curls"; //TODO
-"data.exercise.lyingBarbellTricepsExtensions" = "Французский жим лёжа";
-"data.exercise.lyingDumbbellTricepsExtensions" = "Разгибания гантелей лежа двумя руками";
-"data.exercise.tricepsKickbacks" = "Разгибания гантелей в наклоне";
-"data.exercise.tricepsDips" = "Bench Dips"; //TODO
-"data.exercise.pushDowns" = "Push-Downs"; //TODO
-//"data.exercise.reversePushDowns" = "Reverse Push-Downs"; //TOOD
-"data.exercise.closeGripBarbellBenchPresses" = "Close-Grip Barbell Bench Presses"; //TODO
-"data.exercise.parallelBarDips" = "Parallel Bar Dips"; //TODO
-//exercises - спина
-"data.exercise.chinUps" = "Подтягивания на турнике";
-"data.exercise.reverseChinUps" = "Подтягивания на турнике обратным хватом";
-"data.exercise.frontLatPullDowns" = "Тяга верхнего блока к груди";
-"data.exercise.backLatPullDowns" = "Тяга верхнего блока к спине";
-"data.exercise.closeGripLatPullDowns" = "Close-Grip Lat Pull-Downs"; //TODO
-"data.exercise.dumbbellOneArmRows" = "Тяга гантели одной рукой в наклоне";
-"data.exercise.dumbbellRows" = "Тяга гантели в наклоне";
-"data.exercise.barbellRows" = "Тяга штанги в наклоне";
-//"data.exercise.reverseBarbellRows" = "Reverse Barbell Rows"; //TODO
-"data.exercise.tBarRows" = "T-Bar Rows"; //TODO
-"data.exercise.seatedCableRows" = "Seated Cable Rows"; //TODO
-"data.exercise.straightArmLatPullDowns" = "Straight-Arm Lat Pull-Downs"; //TODO
-"data.exercise.dumbbellDeadlifts" = "Dumbbell Deadlifts"; //TODO
-"data.exercise.barbellDeadlifts" = "Становая тяга"; //TODO
-"data.exercise.stiffLeggedBarbellDeadlifts" = "Straight-Leg Barbell Deadlifts"; //TODO
-"data.exercise.stiffLeggedDumbbellDeadlifts" = "Straight-Leg Dumbbell Deadlifts"; //TODO
-"data.exercise.backExtensions" = "Гиперэкстензии";
-"data.exercise.barbellShrugs" = "Barbell Shrugs"; //TODO
-"data.exercise.dumbbellShrugs" = "Dumbbell Shrugs"; //TODO
-"data.exercise.supermans" = "Supermans"; //TODO
-//exercises - ягодицы
-"data.exercise.barbellLunges" = "Выпады со штангой";
-"data.exercise.dumbbellLunges" = "Выпады с гантелями";
-"data.exercise.cableHipExtensions" = "Разгибание бедра"; //TODO replaced data.exercise.hipExtensions
-"data.exercise.bridging" = "Мось";
-"data.exercise.cableHipAbductions" = "Cable Hip Abductions"; //TODO
-"data.exercise.seatedMachineHipAbductions" = "Отведение бедра"; //TODO replaced data.exercise.hipAbductions
-//exercises - грудь
-"data.exercise.inclineBarbellBenchPresses" = "Жим штанги лёжа на наклонной скамье";
-"data.exercise.barbellBenchPresses" = "Жим штанги лёжа";
-"data.exercise.declineBarbellBenchPresses" = "Жим узким хватом лежа под наклоном вниз";
-"data.exercise.machineBenchPresses" = "Machine Bench Presses"; //TODO
-"data.exercise.pushUps" = "Отжимания от пола";
-"data.exercise.dumbbellFlys" = "Разводка гантелей лёжа";
-"data.exercise.machineFlys" = "Machine Flys"; //TODO
-"data.exercise.cableFlys" = "Cable Flys"; //TODO
-"data.exercise.inclineDumbbellBenchPresses" = "Жим гантелей лёжа под наклоном";
-"data.exercise.dumbbellBenchPresses" = "Жим гантелей лёжа";
-"data.exercise.declineDumbbellBenchPresses" = "Жим гантелей лёжа под наклоном вниз";
-"data.exercise.dumbbellPullovers" = "Dumbbell Pullovers"; //TODO
-"data.exercise.barbellPullovers" = "Barbell Pullovers"; //TODO
-"data.exercise.inclineMachineBenchPresses" = "Incline Machine Bench Presses"; //TODO
-//exercises - ноги
-"data.exercise.dumbbellSquats" = "Dumbbell Squats"; //TODO
-"data.exercise.barbellFrontSquats" = "Приседания со штангой на груди";
-"data.exercise.barbellSquats" = "Приседания со штангой";
-"data.exercise.legPresses" = "Жим ногами";
-"data.exercise.legExtensions" = "Разгибание ног";
-"data.exercise.lyingLegCurls" = "Lying Leg Curls"; //TODO
-"data.exercise.standingLegCurls" = "Standing Leg Curls"; //TODO
-"data.exercise.seatedLegCurls" = "Seated Leg Curls"; //TODO
-"data.exercise.cableAdductions" = "Cable Adductions"; //TODO
-"data.exercise.machineAdductions" = "Сведение ног в тренажёре";
-"data.exercise.standingBarbellCalfRaises" = "Standing Barbell Calf Raises"; //TODO replaced data.exercise.standingCalfRaises
-"data.exercise.standingMachineCalfRaises" = "Standing Machine Calf Raises"; //TODO
-//exercises - плечи
-"data.exercise.barbellBackPresses" = "Жим сидя из-за головы в смите";
-"data.exercise.barbellFrontPresses" = "Жим штанги сидя";
-"data.exercise.dumbbellPresses" = "Жим гантелей сидя";
-"data.exercise.machinePresses" = "Machine Presses"; //TODO
-"data.exercise.arnoldPresses" = "Arnold Presses"; //TODO
-"data.exercise.dumbbellLateralRaises" = "Махи гантелями в сторону";
-"data.exercise.dumbbellFrontRaises" = "Махи гантелями перед собой";
-"data.exercise.barbellFrontRaises" = "Подъём штанги перед собой";
-"data.exercise.barbellUprightRows" = "Тяга штанги к подбородку";
-"data.exercise.dumbbellUprightRows" = "Тяга гантелей к подбородку";
-"data.exercise.cableUprightRows" = "Тяга кабель к подбородку"; //own translation
-//exercises - cardio
-"data.exercise.jogging" = "бег";
-"data.exercise.cycling" = "езда на велосипеде";
-"data.exercise.rowing" = "гребля";
 //workouts
 "data.workout.simple" = "Simple Example";
+"data.workout.simple.notes" = "Sample workout to illustrate how a simple workout might look like.";
 "data.workout.groups" = "Groups Example";
+"data.workout.groups.notes" = "Sample workout to illustrate how a workout with grouped exercises might look like.";
 "data.workout.supersets" = "Supersets Example";
+"data.workout.supersets.notes" = "Sample workout to illustrate how a workout with supersets might look like.";
 "data.workout.dropsets" = "Dropsets Example";
+"data.workout.dropsets.notes" = "Sample workout to illustrate how a workout with dropsets might look like.";
+"data.workout.*.notes" = "\n\nFeel free to use it for illustrative purposes and simply delete it whenever you want.";

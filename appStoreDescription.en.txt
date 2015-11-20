@@ -5,6 +5,7 @@ MANAGE YOUR WORKOUTS
 ● Group and sort your exercises within a workout
 ● Define the sets, weight and reps you want to perform for each exercise.
 ● Define different settings for your sets of an exercise (e.g. for warm up sets or pyramid training)
+● Archive workouts you don't actively use and keep them for statistics or for later use
 
 MANAGE YOUR EXERCISES
 ● Edit the preloaded exercises
@@ -13,6 +14,7 @@ MANAGE YOUR EXERCISES
 
 WORK OUT!
 ● Fast logging and tracking of your workout
+● Extend your logs with notes to add additional information
 ● Immediately see how you did last time
 ● Use the pre-filled picker views for fast logging and Quick-Log for super fast logging
 ● Quickly access logs from within a workout, including the graphical statistics
@@ -22,21 +24,23 @@ WORK OUT!
 ● The workout screen immediately shows a detailed overview about today's workout
 ● The innovative "Workout Matrix" gives you always a detailed overview about your current workout
 ● A progress bar lets you always know your overall workout progress
+● After completing a workout, a summary shows your performance and lets you analyze your progress compared to last time
+● Completed workouts are saved to the Health app (with date, start time, end time, duration and name)
 
 MORE...
 ● Time your rests with the adjustable timer which also works when you set your iPhone to sleep or close your app: you can configure your preferred timer duration, have a primary and a secondary timer as well as an exercise specific timer, choose between a classic or a graphical timer, have different timer sounds and more.
 ● Receive a detailed analysis of your performance thanks to the interactive line graphs and/or pie charts
-● Export your logs as XML and CSV file
+● Export your logs as XML and CSV file and export a backup as a database file
 ● Track your body weight, calculate your BMI and analyze them in an interactive line graph
-● Change the appearance of GymBook and choose from one of 4 great designs
+● Change the appearance of GymBook and choose from one of 7 great designs
 
 *Some special functions can be purchased via in-app purchases.
 
-SUPPORT: GymBook supports iPhone 4+ and is optimized for iPhone 5. Supports metric (kilograms, meters) and imperial (pounds, feet) system of units.
+SUPPORT: GymBook supports metric (kilograms, meters) and imperial (pounds, feet) system of units.
 
 LOCALIZATION: Multiple language support is currently added for English, German, Italian and partially Russian. 
 ?!? You want the app in your own language? We have created the open source project https://github.com/sallvi/localize-gymbook. If your language is not supported (or you see errors and/or missing translations in one of the supported languages), you can make your contribution and we will integrate it as soon as possible. ?!?
 
-NOTE: GymBook is developed by gym experts, for gym experts. Therefore it focuses on YOUR exercises and YOUR workouts and provides only simple exercises and example workouts for better orientation.
+NOTE: GymBook is developed by gym experts, for gym experts. Therefore it focuses on YOUR workouts and provides only example workouts for better orientation.
 
 ACKNOWLEDGMENTS: Many thanks go to Everkinetic (http://everkinetic.com) from where we have some of the exercise images and inspiration for the others (the enrichment of the images by the affected muscle group is not part of the material provided by Everkinetic).

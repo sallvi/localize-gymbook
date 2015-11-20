@@ -5,6 +5,7 @@ GESTISCI I TUOI ALLENAMENTI
 ● Raggruppa e ordina i tuoi esercizi all’interno di un allenamento
 ● Definisci i set, il peso e le ripetizioni che desideri eseguire per ogni esercizio
 ● Definisci impostazioni differenti per ogni set di un esercizio (per esempio per set di riscaldamento o per allenamenti a piramide)
+● Archivia programmi d'allenamento che al momento non stai utilizzando e conservali per le statistiche o per un uso futuro
 
 GESTISCI I TUOI ESERCIZI
 ● Modifica gli esercizi precaricati
@@ -13,6 +14,7 @@ GESTISCI I TUOI ESERCIZI
 
 ALLENATI!
 ● Veloce registrazione e monitoraggio del tuo allenamento
+● Estendi le tue registrazioni con degli appunti per aggiungere ulteriori informazioni
 ● Vedi immediatamente come ti sei allenato l’ultima volta
 ● Usa i picker già riempiti per una registrazione veloce e Quick-Log per una registrazione super veloce
 ● Passa rapidamente a tutti i dati registrati dell’attuale esercizio, dell'attuale allenamento e dell’ultimo allenamento, compresi le statistiche grafiche
@@ -22,20 +24,22 @@ ALLENATI!
 ● La schermata di allenamento mostra immediatamente una panoramica dettagliata sull'allenamento di oggi
 ● L’innovativa "Workout Matrix" ti da sempre una panoramica dettagliata del tuo programma attuale
 ● Una barra di progresso ti permette sempre di vedere il progresso generale del tuo programma 
+● Dopo aver completato un'allenamento, una sintesi ti mostra la tua prestazione e ti consente di analizzare i tuoi progressi rispetto all'ultima volta
+● Allenamenti completati vengono salvati nell'App Salute (con la data, l'ora di inizio, l’ora della fine, la durata e il nome)
 
 ALTRO...
 ● Cronometra le tue pause con il timer configurabile che funziona anche se metti il tuo iPhone in stand-by o se chiudi l'App: puoi configurare la durata del timer, hai un timer primario e secondario così come un timer specifico per esercizio, puoi scegliere tra un timer classico o grafico, scegliere tra vari suoni del timer e di più.
 ● Ricevi un analisi dettagliata della tua prestazione grazie ai grafici a linee interattivi e/o grafici a torta
-● Esporta i tuoi dati registrati nel formato XML e CSV
+● Esporta i tuoi dati registrati nel formato XML e CSV e esporta un backup in file database
 ● Traccia il tuo peso corporeo, calcola il tuo BMI e analizza tutto in un grafico a linee interattivo
-● Modifica l'aspetto di GymBook e scegli tra quattro fantastici temi
+● Modifica l'aspetto di GymBook e scegli tra sette fantastici temi
 
 *Certe funzioni speciali possono essere acquistate tramite acquisti in-app.
 
-SUPPORTO: GymBook supporta iPhone 4+ ed è ottimizzato per iPhone 5. Supporta il sistema di unità metrico (kg, metri) e imperiale (libbre, piedi).
+SUPPORTO: GymBook supporta il sistema di unità metrico (kg, metri) e imperiale (libbre, piedi).
 
 LOCALIZZAZIONE: Oltre all’italiano sono supportate le lingue inglese, tedesco e parzialmente russo (di più su https://github.com/sallvi/localize-gymbook).
 
-NOTA: GymBook è stato sviluppato da esperti di palestra, per esperti di palestra. Pertanto si concentra sui TUOI esercizi e i TUOI programmi e fornisce soltanto alcuni esercizi semplici ed esempi di programmi d'allenamento per un migliore orientamento.
+NOTA: GymBook è stato sviluppato da esperti di palestra, per esperti di palestra. Pertanto si concentra sui TUOI programmi e fornisce soltanto esempi di programmi d'allenamento per un migliore orientamento.
 
 RINGRAZIAMENTI: Molti ringraziamenti vanno a Everkinetic (http://everkinetic.com) da dove abbiamo alcune delle immagini degli esercizi e ispirazione per altre immagini (l'arricchimento delle immagini con il gruppo muscolare allenato non fa parte del materiale fornito da Everkinetic).

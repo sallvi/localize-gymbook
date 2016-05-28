@@ -1,0 +1,43 @@
+Voici GymBook, ton application de fitness pour créer, enregistrer et analyser tes séances d'entraînement à la salle de gym - le tout dans une interface utilisateur intuitive, innovante et efficace.
+
+GÈRE TES ENTRAÎNEMENTS
+• Crée tes programmes d'entraînement avec tes propres exercices ou choisis parmi les 50 exercices simples avec des images et visualisations animées du groupe musculaire primaire et secondaire affecté
+• Groupe et trie tes exercices dans un programme d'entraînement
+• Définis les séries, le poids et les répétitions que tu veux effectuer pour chaque exercice
+• Définis les différents paramètres de tes séries pour un exercice (p. ex. pour les séries d'échauffement ou l’entraînement pyramidal)
+• Archive tes programmes d'entraînement que tu n’utilises pas activement et garde-les pour les statistiques ou pour une utilisation ultérieure
+
+GÈRE TES EXERCICES
+• Modifie les exercices préchargés
+• Crée tes propres exercices (exercices cardiovasculaires également pris en charge)
+• Affecte une région, un groupe musculaire primaire et secondaire et écris des notes pour tes exercices
+
+ENTRAÎNEMENT!
+• Enregistrement et suivi rapide de ton entraînement
+• Étends tes journaux avec des notes pour ajouter des informations supplémentaires
+• Consulte immédiatement ta dernière performance
+• Utilise les vues pré-remplies du sélecteur pour l'enregistrement rapide et Quick-Log pour un enregistrement super rapide
+• Accède rapidement aux journaux à partir d'une séance d'entraînement, y compris les statistiques graphiques
+• Change la date de la séance d'entraînement (si tu veux enregistrer d'anciennes séances d’entraînement)
+• Consulte tes statistiques d'exercice dans un  graphique linéaire interactif et configurable
+• Passe automatiquement à l'exercice suivant de ta séance d'entraînement après avoir enregistré un journal (configurable)
+• L'écran d'entraînement montre immédiatement un aperçu détaillé sur la séance d'entraînement d'aujourd'hui
+• Le "Workout Matrix" innovant te donne toujours un aperçu détaillé de ta séance d'entraînement actuel
+• Une barre de progression te permet de savoir toujours la progression globale de la séance d'entraînement
+• Après avoir terminé une séance d'entraînement, un résumé affiche tes performances et te permet d'analyser tes progrès par rapport à la dernière fois
+• Les séances d'entraînement terminées sont enregistrées dans l'application Santé (avec date, heure de début, heure de fin, durée et nom)
+
+PLUS...
+• Chronomètre tes pauses avec le chronomètre réglable qui fonctionne également lorsque tu mets ton iPhone en veille ou lorsque tu fermes ton application: tu peux configurer ta durée préférée du chronomètre, avoir un chronomètre primaire et secondaire ainsi qu'un chronomètre spécifique par exercice, choisir entre un chronomètre classique ou graphique, avoir des sons différents du chronomètre et plus
+• Reçois une analyse détaillée de tes performances grâce aux graphiques linéaires et/ou en camembert interactifs
+• Exporte tes journaux sous forme de fichiers XML et CSV et exporte une sauvegarde dans un fichier de base de données
+• Suis ton poids corporel, calcule ton IMC et analyse-les dans un graphique linéaire interactif 
+• Change l'apparence de GymBook et choisis parmi l'un des 7 fantastiques designs 
+
+*Certaines fonctions spéciales peuvent être achetées via des achats intégrés. 
+
+PRISE EN CHARGE: GymBook prend en charge les unités métriques (kilogrammes, mètres) et impériales (livres, pieds).
+
+NOTE: GymBook est développée par des experts de gym, pour des experts de gym. Par conséquent, elle se concentre sur TES programmes d'entraînement et fournit uniquement des exemples de programmes d'entraînement pour une meilleure orientation.
+
+REMERCIEMENTS: Un grand merci à Everkinetic (http://everkinetic.com) d'où nous avons eu certaines images d’exercices et l'inspiration pour les autres (l'enrichissement des images par le groupe musculaire affecté ne fait pas partie de la documentation fournie par Everkinetic).

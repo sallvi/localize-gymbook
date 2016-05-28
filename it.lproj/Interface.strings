@@ -18,29 +18,29 @@
 "title.exercises.all" = "Tutti";
 "title.exercise" = "Esercizio";
 "title.workouts" = "Programmi";
-"title.archivedWorkouts" = "Programmi Archiviati";
+"title.archivedWorkouts" = "Programmi archiviati";
 "title.workout" = "Programma";
-"title.newWorkout" = "Crea Programma";
-"title.editWorkout" = "Modifica Programma";
-"title.newExercise" = "Crea Esercizio";
-"title.editExercise" = "Modifica Esercizio";
-"title.addExercise" = "Aggiungi Esercizio";
-"title.newLog" = "Aggiungi Registrazione";
-"title.editLog" = "Modifica Registrazione";
-"title.newNotes" = "Aggiungi Appunti";
-"title.editNotes" = "Modifica Appunti";
-"title.changeDate" = "Cambia Data";
+"title.newWorkout" = "Crea programma";
+"title.editWorkout" = "Modifica programma";
+"title.newExercise" = "Crea esercizio";
+"title.editExercise" = "Modifica esercizio";
+"title.addExercise" = "Aggiungi esercizio";
+"title.newLog" = "Aggiungi registrazione";
+"title.editLog" = "Modifica registrazione";
+"title.newNotes" = "Aggiungi appunti";
+"title.editNotes" = "Modifica appunti";
+"title.changeDate" = "Cambia data";
 "title.logs" = "Dati";
 "title.settings" = "Impostazioni";
 "title.store" = "Store";
 "title.bodyweight" = "Peso";
 "title.bodyweights" = "Pesi";
-"title.addToWorkout" = "Aggiungi A Programma";
-"title.inWorkouts" = "Utilizzato In %i Programmi";
-"title.inWorkouts.singular" = "Utilizzato In %i Programma";
+"title.addToWorkout" = "Aggiungi a programma";
+"title.inWorkouts" = "Utilizzato in %i programmi";
+"title.inWorkouts.singular" = "Utilizzato in %i programma";
 "title.more" = "Altro";
-"title.completedWorkout" = "Allenamento Completato";
-"title.completedWorkout.today" = "Allenamento Completato!";
+"title.completedWorkout" = "Allenamento completato";
+"title.completedWorkout.today" = "Allenamento completato!";
 //
 "title.alert.notifications" = "Notifiche disattivate";
 "title.alert.settings.general.theme" = "Attiva tema";
@@ -51,8 +51,7 @@
 "title.alert.backupImport.unableToImportBackup" = "L'importazione del tuo backup non è riuscita";
 //
 "title.confirmation.acceptDisclaimer" = "Accetta termini";
-"title.confirmation.inactiveFeature.standard" = "Puoi attivare questa funzione nello Store %@";
-"title.confirmation.inactiveFeature.extended" = "Puoi attivare questa funzione nello Store %@ acquistando %@";
+"title.confirmation.inactiveFeature" = "Hai scoperto una funzione speciale";
 "title.confirmation.importBackup" = "Importa backup";
 //
 "title.subject.export.logs" = "Dati registrati di %@";
@@ -196,6 +195,7 @@
 "label.showLogs.today" = "Oggi";
 "label.showLogs.workout" = "Programma";
 //regions
+"label.regions.all" = "Tutte le zone";
 "label.region.010.shoulders" = "Spalle";
 "label.region.020.chest" = "Torace";
 "label.region.030.back" = "Schiena";
@@ -298,19 +298,23 @@
 "label.settings.exercises.showTargetMuscles.description.primary" = "Solo il gruppo muscolare primario che viene allenato";
 "label.settings.exercises.showTargetMuscles.none" = "No";
 "label.settings.exercises.showTargetMuscles.description.none" = "Nessun gruppo muscolare che viene allenato";
-"label.settings.export" = "Esportazione via e-mail";
-"label.settings.export.logs" = "Dati registrati";
-"label.settings.export.logs.subtitle" = "Esporta i tuoi dati registrati in file CSV e XML";
-"label.settings.export.backup" = "Backup";
-"label.settings.export.backup.subtitle" = "Esporta un backup in file database";
 "label.settings.basicInformation" = "Informazioni di base";
 "label.settings.basicInformation.height" = "Altezza";
 "label.settings.basicInformation.sex" = "Sesso";
 "label.settings.basicInformation.sex.male" = "Maschio";
 "label.settings.basicInformation.sex.female" = "Femmina";
 "label.settings.basicInformation.birthday" = "Compleanno";
+"label.settings.export" = "Esportazione via e-mail";
+"label.settings.export.logs" = "Dati registrati";
+"label.settings.export.logs.subtitle" = "Esporta i tuoi dati registrati in file CSV e XML";
+"label.settings.export.backup" = "Backup";
+"label.settings.export.backup.subtitle" = "Esporta un backup in file database";
 "label.settings.applicationInformation.store" = "Store";
 "label.settings.applicationInformation.rate" = "Valuta l'applicazione";
+"label.settings.applicationInformation.hints" = "Aiuto";
+"label.settings.applicationInformation.hints.subtitle" = "Attiva o disattiva suggerimenti";
+"label.settings.applicationInformation.hints.enable" = "Attiva tutti i suggerimenti";
+"label.settings.applicationInformation.hints.disable" = "Disattiva tutti i suggerimenti";
 "label.settings.applicationInformation.feedback" = "Lascia un commento";
 "label.settings.applicationInformation.feedback.subtitle" = "Fornisci suggerimenti o segnala errori";
 "label.settings.applicationInformation.recommend" = "Raccomanda l'applicazione";
@@ -320,7 +324,8 @@
 "label.settings.applicationInformation.version" = "Versione";
 
 /* Texts */
-"text.placeholder.textInput" = "Inserisci il %@ qui.";
+"text.placeholder.textInput.workout.name" = "Petto & Bicipiti, Corpo Completo, 5x5 A...";
+"text.placeholder.textInput.exercise.name" = "Flessioni, Distensioni delle Gambe, Sit-Ups...";
 "text.placeholder.addBodyweightLog.today" = "Il tuo peso oggi...";
 "text.placeholder.addBodyweightLog.date" = "Il tuo peso il %@...";
 //"text.description.workoutExercisesCount" = "%li esercizi";
@@ -353,14 +358,15 @@
 "text.description.settings.workout.graphType" = "Il grafico a linee durante il tuo programma mostra %@.";
 "text.description.settings.exercises" = "I nomi degli esercizi verranno mostrati in %@. %@ è visualizzato nelle immagini degli esercizi.";
 "text.description.settings.applicationInformation.recommend" = "Dai un'occhiata a questa nuova applicazione: %@";
-"text.confirmation.acceptDisclaimer" = "Gli esercizi ed esempi di programmi d'allenamento forniti da [{APP_NAME}] sono stati creati con la massima cura e il massimo sforzo. Tuttavia essi sono intesi solo come guida di orientamento e vengono forniti senza garanzia. [{APP_NAME}] non si assume alcuna responsabilità per eventuali inconvenienti o danni derivanti dall’uso di [{APP_NAME}] e/o dalle informazioni fornite da [{APP_NAME}].";
+"text.confirmation.acceptDisclaimer" = "Gli esercizi ed esempi di programmi d'allenamento forniti da {{appName}} sono stati creati con la massima cura e il massimo sforzo. Tuttavia essi sono intesi solo come guida di orientamento e vengono forniti senza garanzia. {{appName}} non si assume alcuna responsabilità per eventuali inconvenienti o danni derivanti dall’uso di {{appName}} e/o dalle informazioni fornite da {{appName}}.";
 "text.confirmation.deleteExercise" = "Sei sicuro di voler eliminare l'esercizio \n\"%@\"?";
 "text.confirmation.deleteWorkout" = "Sei sicuro di voler eliminare il programma \n\"%@\"?";
-"text.confirmation.deleteWorkoutExercise" = "Sei sicuro di voler rimuovere l'esercizio \n\"%@\" con %@?";
 "text.confirmation.deleteExercises.all" = "Sei sicuro di voler eliminare TUTTI gli esercizi?";
 "text.confirmation.deleteExercises.unused" = "Esercizi non utilizzati sono esercizi che attualmente non sono in alcun programma d'allenamento e non hanno alcuni dati. Sei sicuro di voler eliminarli?";
+"text.confirmation.removeWorkoutExercise" = "Sei sicuro di voler rimuovere l'esercizio \n\"%@\" con %@?";
 "text.confirmation.settings.exercises.language" = "Se imposti la lingua %@ come lingua degli esercizi, verranno sovrascritti i nomi di tutti gli esercizi non-personali. I tuoi esercizi personali (quelli che hai creato tu stesso) non vengono influenzati.";
-"text.confirmation.inactiveFeature.extended" = "Suggerimento: è anche possibile sbloccare TUTTE le funzioni acquistando il pacchetto %@.";
+"text.confirmation.inactiveFeature" = "Puoi attivarla nello Store {{appName}} acquistando %@.\n\nSuggerimento: è anche possibile sbloccare TUTTE le funzioni speciali acquistando il pacchetto %@.";
+"text.confirmation.inactiveFeature.simple" = "Puoi attivarla nello Store {{appName}}.";
 "text.confirmation.importBackup" = "Stai cercando di importare il  backup \'%@\'. Tutti i tuoi dati verranno sostituiti con i dati del backup. Le tue impostazioni e i tuoi acquisti in-app non vengono influenzati.";
 "text.information.noNotes" = "Nessun appunto";
 "text.information.completedWorkout.counter" = "%@ hai completato %@ per la %@ volta.";
@@ -383,26 +389,28 @@
 "text.information.completedWorkout.statistics.total.distance" = "Hai eseguito esercizi cardio per una distanza totale di %@.";
 "text.information.completedWorkout.statistics.total.distance.progress" = "Rispetto all'ultima volta hai eseguito esercizi cardio per %@.";
 "text.information.completedWorkout.statistics.total.distance.progress.same" = "la stessa distanza";
-"text.alert.notifications" = "Il timer non funzionerà correttamente se le notifiche sono disattivate per %@.";
-"text.alert.backupImport.unableToImportBackup" = "Assicurati che stai utilizzando un file di database con backup di %@ valido che hai esportato con %@.";
+"text.alert.notifications" = "Il timer non funzionerà correttamente se le notifiche sono disattivate per {{appName}}.";
+"text.alert.backupImport.unableToImportBackup" = "Assicurati che stai utilizzando un file di database con backup di {{appName}} valido che hai esportato con {{appName}}.";
 //products
 //
-"text.inAppPurchase.product.package.platinum.description" = "Questo pacchetto ti darà per sempre accesso illimitato a tutte le funzioni di [{APP_NAME}]. Per soli [{PRODUCT_PRICE}] sblocca tutte le funzioni speciali esistenti e anche le funzioni che verranno sviluppate in futuro. Ogni nuova funzione verrà immediatamente attivata - per sempre!";
-"text.inAppPurchase.product.package.gold.description" = "Con questo pacchetto attvi immediatamente diverse funzioni di [{APP_NAME}] e puoi beneficiare di un prezzo più attraente.";
+"text.inAppPurchase.product.package.platinum.description" = "Questo pacchetto ti darà per sempre accesso illimitato a tutte le funzioni di {{appName}}. Per soli [{PRODUCT_PRICE}] sblocca tutte le funzioni speciali esistenti e anche le funzioni che verranno sviluppate in futuro. Ogni nuova funzione verrà immediatamente attivata - per sempre!";
+"text.inAppPurchase.product.package.gold.description" = "Con questo pacchetto attvi immediatamente diverse funzioni di {{appName}} e puoi beneficiare di un prezzo più attraente.";
 //
 "text.inAppPurchase.product.feature.allExercises.description" = "Carica %li ulteriori esercizi come ad esempio '%@', '%@' o '%@'.\n\nInoltre, con [{PRODUCT_NAME}] attivi anche tutti gli esercizi che saranno aggiunti in futuro.";
 "text.inAppPurchase.product.feature.timerPlus.description" = "[{PRODUCT_NAME}] ti consente di ottenere il massimo dal tuo timer. Il timer secondario ti offre una preziosa flessibilità, con l'avvio automatico del timer puoi risparmiare tempo ed energia e il timer grafico può rivelarsi molto utile.\n\nE infine: puoi anche modificare il suono del timer.";
-"text.inAppPurchase.product.feature.themes.description" = "Con questo acquisto è possibile modificare l'aspetto di [{APP_NAME}]. Scegli il tema che in allenamento tira fuori il meglio di te. O quello che si adatta al meglio al tuo abbigliamento.\n\nAl momento sono disponibili %li fantastici temi e altri sono in fase di sviluppo.";
-"text.inAppPurchase.product.feature.export.description" = "[{PRODUCT_NAME}] ti permette di esportare i tuoi dati registrati e un backup di tutti i dati esistenti via e-mail.\n\nI tuoi dati registrati vengono esportati come file CSV e XML e possono essere usati al di fuori di [{APP_NAME}]. Il tuo backup viene esportato come file di database e può essere facilmente reimportato in [{APP_NAME}].";
+"text.inAppPurchase.product.feature.themes.description" = "Con questo acquisto è possibile modificare l'aspetto di {{appName}}. Scegli il tema che in allenamento tira fuori il meglio di te. O quello che si adatta al meglio al tuo abbigliamento.\n\nAl momento sono disponibili %li fantastici temi e altri sono in fase di sviluppo.";
+"text.inAppPurchase.product.feature.export.description" = "[{PRODUCT_NAME}] ti permette di esportare i tuoi dati registrati e un backup di tutti i dati esistenti via e-mail.\n\nI tuoi dati registrati vengono esportati come file CSV e XML e possono essere usati al di fuori di {{appName}}. Il tuo backup viene esportato come file di database e può essere facilmente reimportato in {{appName}}.";
 //hints
 //
-"text.hint.introduction.1" = "Benvenuto su [{APP_NAME}]. Questi suggerimenti ti daranno alcune informazioni utili su come usare [{APP_NAME}].";
-"text.hint.introduction.2" = "Per consentirti di orientarti meglio, [{APP_NAME}] viene fornito con %li esempi di programmi d'allenamento. Selezionane uno per vedere che aspetto potrebbe avere un programma.";
+"text.hint.introduction.1" = "Benvenuto su {{appName}}. Questi suggerimenti ti daranno alcune informazioni utili su come usare {{appName}}.";
+"text.hint.introduction.2" = "Per consentirti di orientarti meglio, {{appName}} viene fornito con %li esempi di programmi d'allenamento. Selezionane uno per vedere che aspetto potrebbe avere un programma.";
+"text.hint.startedWorkouts" = "Se sei nel mezzo di uno dei tuoi allenamenti di oggi, qui ne puoi vedere il progresso.";
 "text.hint.archiveWorkout.1" = "Puoi archiviare i tuoi programmi d'allenamento passando il dito verso sinistra e selezionando '%@'.";
 "text.hint.archiveWorkout.2" = "Tocca qui per accedere ai tuoi programmi d'allenamento archiviati.";
 //
 "text.hint.startWorkout" = "Puoi iniziare il programma selezionando un'esercizio qualsiasi.";
-"text.hint.startedWorkout" = "Se sei nel mezzo del tuo allenamento di oggi, qui ne puoi anche vedere il progresso.";
+"text.hint.startedWorkout.1" = "Se sei nel mezzo del tuo allenamento di oggi, qui puoi vedere il progresso di ogni esercizio.";
+"text.hint.startedWorkout.2" = "Non appena l'allenamento è completato, qui puoi accedere alla sintesi del tuo allenamento.";
 "text.hint.editWorkout" = "Con 'Modifica' puoi aggiungere nuovi esercizi al tuo programma d'allenamento, nonché modificare e rimuovere gli esercizi esistenti.";
 "text.hint.performWorkout.1" = "Qui c'è una riga per ogni set che devi eseguire. In questo caso, l'obiettivo è %@.\n\nTocca un set per aggiungere una registrazione.";
 "text.hint.performWorkout.2" = "Tocca qui per rivelare ulteriori informazioni riguardo l'esercizio e il programma attuale.";

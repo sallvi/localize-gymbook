@@ -21,26 +21,26 @@
 "title.archivedWorkouts" = "Archivierte Trainings";
 "title.workout" = "Training";
 "title.newWorkout" = "Neues Training";
-"title.editWorkout" = "Training Editieren";
+"title.editWorkout" = "Training editieren";
 "title.newExercise" = "Neue Übung";
-"title.editExercise" = "Übung Editieren";
-"title.addExercise" = "Übung Hinzufügen";
-"title.newLog" = "Log Hinzufügen";
-"title.editLog" = "Log Editieren";
-"title.newNotes" = "Notizen Hinzufügen";
-"title.editNotes" = "Notizen Editieren";
-"title.changeDate" = "Datum Ändern";
+"title.editExercise" = "Übung editieren";
+"title.addExercise" = "Übung hinzufügen";
+"title.newLog" = "Log hinzufügen";
+"title.editLog" = "Log editieren";
+"title.newNotes" = "Notizen hinzufügen";
+"title.editNotes" = "Notizen editieren";
+"title.changeDate" = "Datum ändern";
 "title.logs" = "Logs";
 "title.settings" = "Einstellungen";
 "title.store" = "Store";
 "title.bodyweight" = "Gewicht";
 "title.bodyweights" = "Gewichte";
-"title.addToWorkout" = "Zu Training Hinzufügen";
-"title.inWorkouts" = "In %i Trainings Benutzt";
-"title.inWorkouts.singular" = "In %i Training Benutzt";
+"title.addToWorkout" = "Zu Training hinzufügen";
+"title.inWorkouts" = "In %i Trainings benutzt";
+"title.inWorkouts.singular" = "In %i Training benutzt";
 "title.more" = "Mehr";
 "title.completedWorkout" = "Abgeschlossenes Training";
-"title.completedWorkout.today" = "Training Abgeschlossen!";
+"title.completedWorkout.today" = "Training abgeschlossen!";
 //
 "title.alert.notifications" = "Deaktivierte Mitteilungen";
 "title.alert.settings.general.theme" = "Design übernehmen";
@@ -51,8 +51,7 @@
 "title.alert.backupImport.unableToImportBackup" = "Dein Backup konnte nicht importiert werden";
 //
 "title.confirmation.acceptDisclaimer" = "Bedingungen akzeptieren";
-"title.confirmation.inactiveFeature.standard" = "Du kannst diese Funktion im %@ Store aktivieren";
-"title.confirmation.inactiveFeature.extended" = "Du kannst diese Funktion im %@ Store durch den Kauf von %@ aktivieren";
+"title.confirmation.inactiveFeature" = "Du hast eine Spezial-Funktion entdeckt";
 "title.confirmation.importBackup" = "Backup importieren";
 //
 "title.subject.export.logs" = "%@ Logs";
@@ -196,6 +195,7 @@
 "label.showLogs.today" = "Heute";
 "label.showLogs.workout" = "Training";
 //regions
+"label.regions.all" = "Alle Bereiche";
 "label.region.010.shoulders" = "Schultern";
 "label.region.020.chest" = "Brust";
 "label.region.030.back" = "Rücken";
@@ -311,6 +311,10 @@
 "label.settings.export.backup.subtitle" = "Exportiere ein Backup als Datenbank-Datei";
 "label.settings.applicationInformation.store" = "Store";
 "label.settings.applicationInformation.rate" = "App bewerten";
+"label.settings.applicationInformation.hints" = "Hilfe";
+"label.settings.applicationInformation.hints.subtitle" = "Hinweise aktivieren oder deaktivieren";
+"label.settings.applicationInformation.hints.enable" = "Alle Hinweise aktivieren";
+"label.settings.applicationInformation.hints.disable" = "Alle Hinweise deaktivieren";
 "label.settings.applicationInformation.feedback" = "Feedback geben";
 "label.settings.applicationInformation.feedback.subtitle" = "Gebe Anregungen oder melde Fehler";
 "label.settings.applicationInformation.recommend" = "App empfehlen";
@@ -320,7 +324,8 @@
 "label.settings.applicationInformation.version" = "Version";
 
 /* Texts */
-"text.placeholder.textInput" = "%@ hier eingeben.";
+"text.placeholder.textInput.workout.name" = "Brust & Bizeps, Ganzkörper, 5x5 A...";
+"text.placeholder.textInput.exercise.name" = "Liegestützen, Beinpressen, Sit-Ups...";
 "text.placeholder.addBodyweightLog.today" = "Dein Gewicht heute...";
 "text.placeholder.addBodyweightLog.date" = "Dein Gewicht am %@...";
 //"text.description.workoutExercisesCount" = "%li Übungen";
@@ -348,19 +353,20 @@
 "text.description.bodyweightLog" = "%.1lf%@";
 "text.description.settings.general.theme" = "Starte die App neu (entferne sie aus dem Task-Manager und starte sie anschliessend) um das neue Design zu übernehmen.";
 "text.description.settings.timer.durationSecondary" = "Halte deinen Finger auf die Timer-Taste um den Timer mit der sekundären Dauer zu starten. Mit einem normalen Tippen startest du den Timer wie gewohnt mit der primären Dauer.";
-"text.description.settings.workout.moveToNextExercise" = "Wähle '%@' falls du du nach dem Speichern eines Logs automatisch zur nächsten auszuführenden Übung wechseln willst.";
+"text.description.settings.workout.moveToNextExercise" = "Wähle '%@' falls du nach dem Speichern eines Logs automatisch zur nächsten auszuführenden Übung wechseln willst.";
 "text.description.settings.workout.defaultLog" = "Wähle wie der Picker vorgefüllt werden soll wenn du ein Log hinzufügst und wenn du Quick-Log verwendest. '%@' verwendet den Log des letzten Trainings und '%@' verwendet die Einstellungen des Satzes.";
 "text.description.settings.workout.graphType" = "Das Liniendiagramm während deinem Training zeigt %@.";
 "text.description.settings.exercises" = "Die Namen der Übungen werden in %@ angezeigt. %@ wird in den Übungsbildern dargestellt.";
 "text.description.settings.applicationInformation.recommend" = "Schau dir diese neue App an: %@";
-"text.confirmation.acceptDisclaimer" = "Die Übungen und Beispiel-Trainingsprogramme, welche durch [{APP_NAME}] bereitgestellt werden, wurden mit höchster Sorgfalt und bester Anstrengung erstellt. Dennoch sind sie ausschliesslich als Orientierungshilfe gedacht und erfolgen ohne Gewähr. [{APP_NAME}] übernimmt keine Haftung für Nachteile oder Schäden, die aus der Verwendung von [{APP_NAME}] und/oder aus den in [{APP_NAME}] enthaltenen Informationen entstehen.";
+"text.confirmation.acceptDisclaimer" = "Die Übungen und Beispiel-Trainingsprogramme, welche durch {{appName}} bereitgestellt werden, wurden mit höchster Sorgfalt und bester Anstrengung erstellt. Dennoch sind sie ausschliesslich als Orientierungshilfe gedacht und erfolgen ohne Gewähr. {{appName}} übernimmt keine Haftung für Nachteile oder Schäden, die aus der Verwendung von {{appName}} und/oder aus den in {{appName}} enthaltenen Informationen entstehen.";
 "text.confirmation.deleteExercise" = "Willst du die Übung \n\"%@\" wirklich löschen?";
 "text.confirmation.deleteWorkout" = "Willst du das Training \n\"%@\" wirklich löschen?";
-"text.confirmation.deleteWorkoutExercise" = "Willst du die Übung \n\"%@\" mit %@ wirklich entfernen?";
 "text.confirmation.deleteExercises.all" = "Bist du sicher, dass du ALLE Übungen löschen willst?";
 "text.confirmation.deleteExercises.unused" = "Unbenutzte Übungen sind Übungen, welche zur Zeit nicht in einem Training benutzt werden und keine Logs haben. Bist du sicher, dass du diese löschen willst?";
+"text.confirmation.removeWorkoutExercise" = "Willst du die Übung \n\"%@\" mit %@ wirklich entfernen?";
 "text.confirmation.settings.exercises.language" = "Wenn du die Sprache der Übungen auf %@ setzt, werden dabei die Namen aller nicht-benutzerdefinierten Übungen überschrieben. Deine benutzerdefinierten Übungen (diejenigen die du selber erstellt hast) sind davon nicht betroffen.";
-"text.confirmation.inactiveFeature.extended" = "Tipp: Durch den Erwerb vom %@ Paket kannst du auch gleich ALLE Funktionen auf einmal aktivieren.";
+"text.confirmation.inactiveFeature" = "Du kannst sie im {{appName}} Store durch den Kauf von %@ freischalten.\n\nTipp: Durch den Kauf vom %@ Paket kannst du auch gleich ALLE Spezial-Funktionen auf einmal freischalten.";
+"text.confirmation.inactiveFeature.simple" = "Du kannst sie im {{appName}} Store freischalten.";
 "text.confirmation.importBackup" = "Du möchtest das Backup \'%@\' importieren. Dabei werden alle deine Daten mit denjenigen des Backups ersetzt. Deine Einstellungen und In-App-Käufe sind davon nicht betroffen.";
 "text.information.noNotes" = "Keine Notizen";
 "text.information.completedWorkout.counter" = "%@ hast du %@ zum %@ Mal abgeschlossen.";
@@ -383,26 +389,28 @@
 "text.information.completedWorkout.statistics.total.distance" = "Du hast Kardio über eine Strecke von insgesamt %@ durchgeführt.";
 "text.information.completedWorkout.statistics.total.distance.progress" = "Gegenüber letztes Mal hast du %@ Kardio durchgeführt.";
 "text.information.completedWorkout.statistics.total.distance.progress.same" = "über die gleiche Strecke";
-"text.alert.notifications" = "Der Timer wird nicht richtig funktionieren, wenn Mitteilungen für %@ deaktiviert sind.";
-"text.alert.backupImport.unableToImportBackup" = "Bitte stelle sicher, dass du eine gültige %@ Backup Datenbank-Datei verwendest, welche du mit %@ exportiert hast.";
+"text.alert.notifications" = "Der Timer wird nicht richtig funktionieren, wenn Mitteilungen für {{appName}} deaktiviert sind.";
+"text.alert.backupImport.unableToImportBackup" = "Bitte stelle sicher, dass du eine gültige {{appName}} Backup Datenbank-Datei verwendest, welche du mit {{appName}} exportiert hast.";
 //products
 //
-"text.inAppPurchase.product.package.platinum.description" = "Dieses Paket bietet dir für immer unlimitierten Zugriff auf alle [{APP_NAME}] Funktionen. Für nur [{PRODUCT_PRICE}] aktiviert es alle existierenden Spezialfunktionen sowie auch diejenigen Funktionen, die zukünftig entwickelt werden. Jede neu entwickelte Funktion wird für dich jeweils automatisch sofort freigeschaltet - für immer!";
-"text.inAppPurchase.product.package.gold.description" = "Mit diesem Paket aktivierst du sofort gleich mehrere [{APP_NAME}] Funktionen auf einmal und profitierst somit von einem attraktiveren Preis.";
+"text.inAppPurchase.product.package.platinum.description" = "Dieses Paket bietet dir für immer unlimitierten Zugriff auf alle {{appName}} Funktionen. Für nur [{PRODUCT_PRICE}] aktiviert es alle existierenden Spezialfunktionen sowie auch diejenigen Funktionen, die zukünftig entwickelt werden. Jede neu entwickelte Funktion wird für dich jeweils automatisch sofort freigeschaltet - für immer!";
+"text.inAppPurchase.product.package.gold.description" = "Mit diesem Paket aktivierst du sofort gleich mehrere {{appName}} Funktionen auf einmal und profitierst somit von einem attraktiveren Preis.";
 //
 "text.inAppPurchase.product.feature.allExercises.description" = "Lade %li zusätzliche Übungen wie beispielsweise '%@', '%@' oder '%@'.\n\nMit [{PRODUCT_NAME}] schaltest du ausserdem auch alle Übungen frei, welche in Zukunft hinzugefügt werden.";
 "text.inAppPurchase.product.feature.timerPlus.description" = "Mit [{PRODUCT_NAME}] holst du das Beste aus deinem Timer heraus. Der sekundäre Timer bietet dir wertvolle Flexibilität, mit dem automatischen Timerstart sparst du Zeit und Energie und der grafische Timer kann sehr nützlich sein.\n\nLast but not least: Du kannst auch den Ton des Timers ändern.";
-"text.inAppPurchase.product.feature.themes.description" = "Mit diesem Kauf kannst du das Aussehen von [{APP_NAME}] verändern. Wähle das Design, das im Training aus dir das Beste herausholt. Oder dasjenige, welches am Besten zu deinem Outfit passt.\n\nZur Zeit stehen %li tolle Designs zur Verfügung und weitere sind in Entwicklung.";
-"text.inAppPurchase.product.feature.export.description" = "[{PRODUCT_NAME}] ermöglicht es dir, deine Logs und ein Backup all deiner Daten via E-Mail zu exportieren.\n\nDeine Logs werden als CSV- und XML-Dateien exportiert und können ausserhalb von [{APP_NAME}] verwendet werden. Dein Backup wird als Datenbank-Datei exportiert und kann leicht wieder zurück in [{APP_NAME}] importiert werden.";
+"text.inAppPurchase.product.feature.themes.description" = "Mit diesem Kauf kannst du das Aussehen von {{appName}} verändern. Wähle das Design, das im Training aus dir das Beste herausholt. Oder dasjenige, welches am Besten zu deinem Outfit passt.\n\nZur Zeit stehen %li tolle Designs zur Verfügung und weitere sind in Entwicklung.";
+"text.inAppPurchase.product.feature.export.description" = "[{PRODUCT_NAME}] ermöglicht es dir, deine Logs und ein Backup all deiner Daten via E-Mail zu exportieren.\n\nDeine Logs werden als CSV- und XML-Dateien exportiert und können ausserhalb von {{appName}} verwendet werden. Dein Backup wird als Datenbank-Datei exportiert und kann leicht wieder zurück in {{appName}} importiert werden.";
 //hints
 //
-"text.hint.introduction.1" = "Willkommen bei [{APP_NAME}]. Diese Hinweise werden dir nützliche Infos zur Benutzung von [{APP_NAME}] geben.";
-"text.hint.introduction.2" = "Zur besseren Orientierung wird [{APP_NAME}] mit %li Beispielen für Trainingsprogramme geliefert. Wähle eines aus um zu sehen, wie ein Trainingsprogramm aussehen könnte.";
+"text.hint.introduction.1" = "Willkommen bei {{appName}}. Diese Hinweise werden dir nützliche Infos zur Benutzung von {{appName}} geben.";
+"text.hint.introduction.2" = "Zur besseren Orientierung wird {{appName}} mit %li Beispielen für Trainingsprogramme geliefert. Wähle eines aus um zu sehen, wie ein Trainingsprogramm aussehen könnte.";
+"text.hint.startedWorkouts" = "Wenn du mitten in einem der heutigen Trainings bist, siehst du hier den Trainingsfortschritt.";
 "text.hint.archiveWorkout.1" = "Du kannst deine Trainingsprogramme archivieren indem du nach links streichst und '%@' auswählst.";
 "text.hint.archiveWorkout.2" = "Tippe hier um auf deine archivierten Trainingsprogramme zuzugreifen.";
 //
 "text.hint.startWorkout" = "Du kannst dein Training durch Tippen auf eine beliebige Übung starten.";
-"text.hint.startedWorkout" = "Wenn du mitten im heutigen Training bist, siehst du hier deinen Trainingsfortschritt.";
+"text.hint.startedWorkout.1" = "Wenn du mitten im heutigen Training bist, siehst du hier den Trainingsfortschritt jeder Übung.";
+"text.hint.startedWorkout.2" = "Sobald du dein Training abgeschlossen hast, kannst du hier auf die Zusammenfassung deines Trainings zugreifen.";
 "text.hint.editWorkout" = "Mit 'Bearbeiten' kannst du deinem Trainingsprogramm neue Übungen hinzufügen sowie bestehende Übungen ändern und entfernen.";
 "text.hint.performWorkout.1" = "Hier gibt es einen Eintrag für jeden Satz den es auszuführen gibt. In diesem Fall ist das Ziel %@.\n\nTippe einfach auf einen Satz, um ihn zu loggen.";
 "text.hint.performWorkout.2" = "Tippe hier um auf weitere Informationen zur aktuellen Übung oder das aktuelle Training zuzugreifen.";

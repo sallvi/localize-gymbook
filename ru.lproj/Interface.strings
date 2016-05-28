@@ -51,8 +51,7 @@
 "title.alert.backupImport.unableToImportBackup" = "Your backup could not be imported"; //TODO
 //
 "title.confirmation.acceptDisclaimer" = "Accept terms"; //TODO
-"title.confirmation.inactiveFeature.standard" = "Эту функцию можно разблокировать в %@ магазине";
-"title.confirmation.inactiveFeature.extended" = "Вы можете разблокировать эту функцию в магазине %@ купив %@";
+"title.confirmation.inactiveFeature" = "You discovered a special function"; //TODO
 "title.confirmation.importBackup" = "Import backup"; //TODO
 //
 "title.subject.export.logs" = "%@ Журнал";
@@ -196,6 +195,7 @@
 "label.showLogs.today" = "Сегодня";
 "label.showLogs.workout" = "Тренировка";
 //regions
+"label.regions.all" = "All regions"; //TODO
 "label.region.010.shoulders" = "Плечи";
 "label.region.020.chest" = "Грудь";
 "label.region.030.back" = "Спина";
@@ -310,6 +310,10 @@
 "label.settings.export.backup" = "Backup"; //TODO
 "label.settings.export.backup.subtitle" = "Export backup as database file"; //TODO
 "label.settings.applicationInformation.store" = "Магазин";
+"label.settings.applicationInformation.hints" = "Help"; //TODO
+"label.settings.applicationInformation.hints.subtitle" = "Enable or disable hints"; //TODO
+"label.settings.applicationInformation.hints.enable" = "Enable all hints"; //TODO
+"label.settings.applicationInformation.hints.disable" = "Disable all hints"; //TODO
 "label.settings.applicationInformation.rate" = "Оценить приложение";
 "label.settings.applicationInformation.feedback" = "Оставить отзыв";
 "label.settings.applicationInformation.feedback.subtitle" = "Написать пожелание или сообщить об ошибке";
@@ -320,7 +324,8 @@
 "label.settings.applicationInformation.version" = "Версия";
 
 /* Texts */
-"text.placeholder.textInput" = "Введите %@ сюда.";
+"text.placeholder.textInput.workout.name" = "Chest & Biceps, Full Body, 5x5 A..."; //TODO
+"text.placeholder.textInput.exercise.name" = "Push-Ups, Leg Presses, Sit-Ups..."; //TODO
 "text.placeholder.addBodyweightLog.today" = "Ваш вес сегодня...";
 "text.placeholder.addBodyweightLog.date" = "Ваш вес на %@...";
 //"text.description.workoutExercisesCount" = "%li упражнения";
@@ -338,7 +343,7 @@
 "text.description.footer.workout.completion" = "A workout is considered complete if there is a log for each set of each exercise. The training duration is estimated based on the duration of the first log and the time difference between the first and the last log."; //TODO
 "text.description.footer.workout.logsCount" = "There are %li logs for the exercises that are present in this workout."; //TODO
 "text.description.footer.workout.logsCount.singular" = "There is %li log for the exercises that are present in this workout."; //TODO
-"text.description.mail.export.logs" = "Автоматически сгенерированное письмо содержит файл в формате CSV и XML.";
+"text.description.mail.export.logs" = "This email contains your %@ logs as CSV and XML files."; //TODO
 "text.description.mail.export.backup" = "This e-mail contains a %@ backup as a database file.\n\nTo import the backup, simply open it in %@ from within this e-mail."; //TODO
 "text.description.timerDismissAndStop" = "Свайп вниз чтобы закрыть таймер и остановить его";
 "text.description.timerDismissAndContinue" = "Свайп вверх чтобы закрыть таймер, но не останавливать его";
@@ -353,14 +358,15 @@
 "text.description.settings.workout.graphType" = "Линия графика во время тренировки показывает %@.";
 "text.description.settings.exercises" = "The exercise names will be shown in %@. %@ is visualized in the exercise images.";
 "text.description.settings.applicationInformation.recommend" = "Посмотрите новое приложение: %@";
-"text.confirmation.acceptDisclaimer" = "The exercises and example workouts provided by [{APP_NAME}] have been created with highest care and best effort. Nevertheless they are intended as orientation help only and are supplied without guarantee. [{APP_NAME}] assumes no liability for any disadvantages or damages resulting from the use of [{APP_NAME}] and/or the information provided by [{APP_NAME}]."; //TODO
+"text.confirmation.acceptDisclaimer" = "The exercises and example workouts provided by {{appName}} have been created with highest care and best effort. Nevertheless they are intended as orientation help only and are supplied without guarantee. {{appName}} assumes no liability for any disadvantages or damages resulting from the use of {{appName}} and/or the information provided by {{appName}}."; //TODO
 "text.confirmation.deleteExercise" = "Вы уверены что хотите удалить упражнение \n\"%@\"?";
 "text.confirmation.deleteWorkout" = "Вы уверены что хотите удалить тренировку \n\"%@\"?";
-"text.confirmation.deleteWorkoutExercise" = "Вы уверены что хотите удалить упражнение\n\"%@\" with %@?";
 "text.confirmation.deleteExercises.all" = "Вы уверены что хотите удалить все упражнения?";
 "text.confirmation.deleteExercises.unused" = "Неиспользованные упражнения, которые не находятся ни в оной тренировке и не находятся ни в одном журнале. Вы уверены, что хотите их удалить?";
+"text.confirmation.removeWorkoutExercise" = "Вы уверены что хотите удалить упражнение\n\"%@\" with %@?";
 "text.confirmation.settings.exercises.language" = "If you set the language of the exercises to %@, the names of all non-custom exercises will be overwritten. Your custom exercises (the ones you have created yourself) are not affected."; //TODO
-"text.confirmation.inactiveFeature.extended" = "Подсказки: вы также можете разблокировать все функции, купив весь %@ пакет.";
+"text.confirmation.inactiveFeature" = "Вы можете разблокировать эту функцию в магазине {{appName}} купив %@.\n\nПодсказки: вы также можете разблокировать все функции, купив весь %@ пакет.";
+"text.confirmation.inactiveFeature.simple" = "Эту функцию можно разблокировать в {{appName}} магазине.";
 "text.confirmation.importBackup" = "You are trying to import the backup \'%@\'. All your data will be replaced with the one from the backup. Your settings and in-app purchases are not affected."; //TODO
 "text.information.noNotes" = "Нет заметок";
 "text.information.completedWorkout.counter" = "%@ you completed %@ for the %@ time."; //TODO
@@ -383,26 +389,28 @@
 "text.information.completedWorkout.statistics.total.distance" = "You performed cardio for a total distance of %@."; //TODO
 "text.information.completedWorkout.statistics.total.distance.progress" = "Compared to last time you performed cardio for %@."; //TODO
 "text.information.completedWorkout.statistics.total.distance.progress.same" = "the same total distance"; //TODO
-"text.alert.notifications" = "The timer will not work properly if notifications are turned off for %@."; //TODO
-"text.alert.backupImport.unableToImportBackup" = "Please make sure that you are using a valid %@ backup database file which you exported with %@."; //TODO
+"text.alert.notifications" = "The timer will not work properly if notifications are turned off for {{appName}}."; //TODO
+"text.alert.backupImport.unableToImportBackup" = "Please make sure that you are using a valid {{appName}} backup database file which you exported with {{appName}}."; //TODO
 //products
 //
-"text.inAppPurchase.product.package.platinum.description" = "Этот пакет даст вам возможность безлимитного использования всех фукнции [{APP_NAME}]. Всего за [{PRODUCT_PRICE}] он разблокирует все нынешние специальные функции а также все будущие функции, которые будут разработаны. Каждая новая функция автоматически будет доступна для Вас. И это навсегда!";
-"text.inAppPurchase.product.package.gold.description" = "С этим пакетом вы сразу откроете все функции [{APP_NAME}] за более привлекательную сумму.";
+"text.inAppPurchase.product.package.platinum.description" = "Этот пакет даст вам возможность безлимитного использования всех фукнции {{appName}}. Всего за [{PRODUCT_PRICE}] он разблокирует все нынешние специальные функции а также все будущие функции, которые будут разработаны. Каждая новая функция автоматически будет доступна для Вас. И это навсегда!";
+"text.inAppPurchase.product.package.gold.description" = "С этим пакетом вы сразу откроете все функции {{appName}} за более привлекательную сумму.";
 //
 "text.inAppPurchase.product.feature.allExercises.description" = "Load %li additional exercises like for example '%@', '%@' or '%@'.\n\nAdditionally, with [{PRODUCT_NAME}] you also activate all exercises which will be added in the future.";
 "text.inAppPurchase.product.feature.timerPlus.description" = "С [{PRODUCT_NAME}] вы откроете расширенные функции таймера. Вторичный секундомер позволяет вам быть более динамичным, с автоматическим стартом таймера вы сохраняете свое время и энергию, также есть удобный графический таймер.\n\nПоследнее, но не лишнее: вы также сможете изменять звук окончания таймера.";
-"text.inAppPurchase.product.feature.themes.description" = "С этой покупкой вы сможете менять темы оформления [{APP_NAME}]. Выбирете наилучший дизайн для вашей тренировки.\n\nНа данный момент доступны %li темы. В будущем тем будет больше.";
-"text.inAppPurchase.product.feature.export.description" = "[{PRODUCT_NAME}] позволяет экспортировать журнал тренировок в стандартные форматы CSV и XML для использования их вне [{APP_NAME}]. Они пригодятся для ведения статистики, для будущих тренировок, для резервной копии, для передачи вашему тренеру... или для чего-нибудь еще."; //TODO
+"text.inAppPurchase.product.feature.themes.description" = "С этой покупкой вы сможете менять темы оформления {{appName}}. Выбирете наилучший дизайн для вашей тренировки.\n\nНа данный момент доступны %li темы. В будущем тем будет больше.";
+"text.inAppPurchase.product.feature.export.description" = "[{PRODUCT_NAME}] enables you to export your logs and a backup of all your data via email.\n\nYour logs are exported as CSV and XML files and can be used outside of {{appName}}. Your backup is exported as a database file and can easily be imported back into {{appName}}."; //TODO
 //hints
 //
-"text.hint.introduction.1" = "Welcome to [{APP_NAME}]. These hints will give you some useful information on how to use [{APP_NAME}].";
-"text.hint.introduction.2" = "For better orientation, [{APP_NAME}] ships with %li example workouts. Select one to see how a workout might look like.";
+"text.hint.introduction.1" = "Welcome to {{appName}}. These hints will give you some useful information on how to use {{appName}}.";
+"text.hint.introduction.2" = "For better orientation, {{appName}} ships with %li example workouts. Select one to see how a workout might look like.";
+"text.hint.startedWorkouts" = "If you are in the middle of one of today's workouts, here you will see its progress."; //TODO
 "text.hint.archiveWorkout.1" = "You can archive your workouts by swiping left and selecting '%@'."; //TODO
 "text.hint.archiveWorkout.2" = "Tap here to access your archived workouts."; //TODO
 //
 "text.hint.startWorkout" = "You can start a workout by selecting any exercise.";
-"text.hint.startedWorkout" = "If you are in the middle of today's workout, here you will also see your workout's progress.";
+"text.hint.startedWorkout.1" = "If you are in the middle of today's workout, here you will see the progress of each exercise."; //TODO
+"text.hint.startedWorkout.2" = "Once your workout is complete, here you can access the summary of your workout."; //TODO
 "text.hint.editWorkout" = "Use 'Edit' to add new exercises to your workout program or to modify or remove existing ones."; //TODO
 "text.hint.performWorkout.1" = "Here there is an entry for each set you have to perform. In this case, the goal is %@.\n\nSimply tap a set to add a log.";
 "text.hint.performWorkout.2" = "Tap here to reveal additional information about the current exercise and workout.";

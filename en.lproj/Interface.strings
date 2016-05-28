@@ -18,29 +18,29 @@
 "title.exercises.all" = "All";
 "title.exercise" = "Exercise";
 "title.workouts" = "Workouts";
-"title.archivedWorkouts" = "Archived Workouts";
+"title.archivedWorkouts" = "Archived workouts";
 "title.workout" = "Workout";
-"title.newWorkout" = "New Workout";
-"title.editWorkout" = "Edit Workout";
-"title.newExercise" = "New Exercise";
-"title.editExercise" = "Edit Exercise";
-"title.addExercise" = "Add Exercise";
-"title.newLog" = "Add Log";
-"title.editLog" = "Edit Log";
-"title.newNotes" = "Add Notes";
-"title.editNotes" = "Edit Notes";
-"title.changeDate" = "Change Date";
+"title.newWorkout" = "New workout";
+"title.editWorkout" = "Edit workout";
+"title.newExercise" = "New exercise";
+"title.editExercise" = "Edit exercise";
+"title.addExercise" = "Add exercise";
+"title.newLog" = "Add log";
+"title.editLog" = "Edit log";
+"title.newNotes" = "Add notes";
+"title.editNotes" = "Edit notes";
+"title.changeDate" = "Change date";
 "title.logs" = "Logs";
 "title.settings" = "Settings";
 "title.store" = "Store";
 "title.bodyweight" = "Weight";
 "title.bodyweights" = "Weights";
-"title.addToWorkout" = "Add To Workout";
-"title.inWorkouts" = "Used In %i Workouts";
-"title.inWorkouts.singular" = "Used In %i Workout";
+"title.addToWorkout" = "Add to workout";
+"title.inWorkouts" = "Used in %i workouts";
+"title.inWorkouts.singular" = "Used in %i workout";
 "title.more" = "More";
-"title.completedWorkout" = "Completed Workout";
-"title.completedWorkout.today" = "Workout Completed!";
+"title.completedWorkout" = "Completed workout";
+"title.completedWorkout.today" = "Workout completed!";
 //
 "title.alert.notifications" = "Turned off notifications";
 "title.alert.settings.general.theme" = "Activate theme";
@@ -51,8 +51,7 @@
 "title.alert.backupImport.unableToImportBackup" = "Your backup could not be imported";
 //
 "title.confirmation.acceptDisclaimer" = "Accept terms";
-"title.confirmation.inactiveFeature.standard" = "You can unlock this feature in the %@ Store";
-"title.confirmation.inactiveFeature.extended" = "You can unlock this feature in the %@ Store by buying %@";
+"title.confirmation.inactiveFeature" = "You discovered a special function";
 "title.confirmation.importBackup" = "Import backup";
 //
 "title.subject.export.logs" = "%@ Logs";
@@ -196,6 +195,7 @@
 "label.showLogs.today" = "Today";
 "label.showLogs.workout" = "Workout";
 //regions
+"label.regions.all" = "All regions";
 "label.region.010.shoulders" = "Shoulders";
 "label.region.020.chest" = "Chest";
 "label.region.030.back" = "Back";
@@ -310,6 +310,10 @@
 "label.settings.export.backup" = "Backup";
 "label.settings.export.backup.subtitle" = "Export backup as database file";
 "label.settings.applicationInformation.store" = "Store";
+"label.settings.applicationInformation.hints" = "Help";
+"label.settings.applicationInformation.hints.subtitle" = "Enable or disable hints";
+"label.settings.applicationInformation.hints.enable" = "Enable all hints";
+"label.settings.applicationInformation.hints.disable" = "Disable all hints";
 "label.settings.applicationInformation.rate" = "Rate the app";
 "label.settings.applicationInformation.feedback" = "Give feedback";
 "label.settings.applicationInformation.feedback.subtitle" = "Provide suggestions or report errors";
@@ -320,7 +324,8 @@
 "label.settings.applicationInformation.version" = "Version";
 
 /* Texts */
-"text.placeholder.textInput" = "Enter the %@ here.";
+"text.placeholder.textInput.workout.name" = "Chest & Biceps, Full Body, 5x5 A...";
+"text.placeholder.textInput.exercise.name" = "Push-Ups, Leg Presses, Sit-Ups...";
 "text.placeholder.addBodyweightLog.today" = "Your weight today...";
 "text.placeholder.addBodyweightLog.date" = "Your weight on %@...";
 //"text.description.workoutExercisesCount" = "%li exercises";
@@ -353,14 +358,15 @@
 "text.description.settings.workout.graphType" = "The line graph during your workout shows %@.";
 "text.description.settings.exercises" = "The exercise names will be shown in %@. %@ is visualized in the exercise images.";
 "text.description.settings.applicationInformation.recommend" = "Check out this new app: %@";
-"text.confirmation.acceptDisclaimer" = "The exercises and example workouts provided by [{APP_NAME}] have been created with highest care and best effort. Nevertheless they are intended as orientation help only and are supplied without guarantee. [{APP_NAME}] assumes no liability for any disadvantages or damages resulting from the use of [{APP_NAME}] and/or the information provided by [{APP_NAME}].";
+"text.confirmation.acceptDisclaimer" = "The exercises and example workouts provided by {{appName}} have been created with highest care and best effort. Nevertheless they are intended as orientation help only and are supplied without guarantee. {{appName}} assumes no liability for any disadvantages or damages resulting from the use of {{appName}} and/or the information provided by {{appName}}.";
 "text.confirmation.deleteExercise" = "Are you sure you want to delete the exercise \n\"%@\"?";
 "text.confirmation.deleteWorkout" = "Are you sure you want to delete the workout \n\"%@\"?";
-"text.confirmation.deleteWorkoutExercise" = "Are you sure you want to remove the exercise \n\"%@\" with %@?";
 "text.confirmation.deleteExercises.all" = "Are you sure you want to delete ALL exercises?";
 "text.confirmation.deleteExercises.unused" = "Unused exercises are exercises which are currently not in any workout and do not have any logs. Are you sure you want to delete them?";
+"text.confirmation.removeWorkoutExercise" = "Are you sure you want to remove the exercise \n\"%@\" with %@?";
 "text.confirmation.settings.exercises.language" = "If you set the language of the exercises to %@, the names of all non-custom exercises will be overwritten. Your custom exercises (the ones you have created yourself) are not affected.";
-"text.confirmation.inactiveFeature.extended" = "Hint: you can also unlock ALL functions at once by buying the %@ package.";
+"text.confirmation.inactiveFeature" = "You can unlock it in the {{appName}} Store by buying %@.\n\nHint: you can also unlock ALL special functions at once by buying the %@ package.";
+"text.confirmation.inactiveFeature.simple" = "You can unlock it in the {{appName}} Store.";
 "text.confirmation.importBackup" = "You are trying to import the backup \'%@\'. All your data will be replaced with the one from the backup. Your settings and in-app purchases are not affected.";
 "text.information.noNotes" = "No notes";
 "text.information.completedWorkout.counter" = "%@ you completed %@ for the %@ time.";
@@ -383,27 +389,29 @@
 "text.information.completedWorkout.statistics.total.distance" = "You performed cardio for a total distance of %@.";
 "text.information.completedWorkout.statistics.total.distance.progress" = "Compared to last time you performed cardio for %@.";
 "text.information.completedWorkout.statistics.total.distance.progress.same" = "the same total distance";
-"text.alert.notifications" = "The timer will not work properly if notifications are turned off for %@.";
-"text.alert.backupImport.unableToImportBackup" = "Please make sure that you are using a valid %@ backup database file which you exported with %@.";
+"text.alert.notifications" = "The timer will not work properly if notifications are turned off for {{appName}}.";
+"text.alert.backupImport.unableToImportBackup" = "Please make sure that you are using a valid {{appName}} backup database file which you exported with {{appName}}.";
 //products
 //
-"text.inAppPurchase.product.package.platinum.description" = "This package will give you forever unlimited access to all [{APP_NAME}] functions. For only [{PRODUCT_PRICE}] it unlocks all the existing special functions and also all the functions that will be developed in the future. Each newly developed function will automatically be enabled for you right away - forever!";
-"text.inAppPurchase.product.package.gold.description" = "With this package you can immediately unlock several [{APP_NAME}] functions at once and thus benefit from a more attractive price.";
+"text.inAppPurchase.product.package.platinum.description" = "This package will give you forever unlimited access to all {{appName}} functions. For only [{PRODUCT_PRICE}] it unlocks all the existing special functions and also all the functions that will be developed in the future. Each newly developed function will automatically be enabled for you right away - forever!";
+"text.inAppPurchase.product.package.gold.description" = "With this package you can immediately unlock several {{appName}} functions at once and thus benefit from a more attractive price.";
 //
 "text.inAppPurchase.product.feature.allExercises.description" = "Load %li additional exercises like for example '%@', '%@' or '%@'.\n\nAdditionally, with [{PRODUCT_NAME}] you also activate all exercises which will be added in the future.";
 "text.inAppPurchase.product.feature.timerPlus.description" = "With [{PRODUCT_NAME}] you get the most out of your timer. The secondary timer offers you valuable flexibility, with the automatic timer start you save time and energy and the graphical timer can be very useful.\n\nLast but not least: you can also change the sound of your timer.";
-"text.inAppPurchase.product.feature.themes.description" = "With this purchase you can change the appearance of [{APP_NAME}]. Choose the design that brings out the best in you during your training. Or the one that fits your outfit best.\n\nCurrently there are %li great designs available and more are in development.";
-"text.inAppPurchase.product.feature.export.description" = "[{PRODUCT_NAME}] enables you to export your logs and a backup of all your data via email.\n\nYour logs are exported as CSV and XML files and can be used outside of [{APP_NAME}]. Your backup is exported as a database file and can easily be imported back into [{APP_NAME}].";
+"text.inAppPurchase.product.feature.themes.description" = "With this purchase you can change the appearance of {{appName}}. Choose the design that brings out the best in you during your training. Or the one that fits your outfit best.\n\nCurrently there are %li great designs available and more are in development.";
+"text.inAppPurchase.product.feature.export.description" = "[{PRODUCT_NAME}] enables you to export your logs and a backup of all your data via email.\n\nYour logs are exported as CSV and XML files and can be used outside of {{appName}}. Your backup is exported as a database file and can easily be imported back into {{appName}}.";
 //hints
 //
-"text.hint.introduction.1" = "Welcome to [{APP_NAME}]. These hints will give you some useful information on how to use [{APP_NAME}].";
-"text.hint.introduction.2" = "For better orientation, [{APP_NAME}] ships with %li example workouts. Select one to see how a workout might look like.";
+"text.hint.introduction.1" = "Welcome to {{appName}}. These hints will give you some useful information on how to use {{appName}}.";
+"text.hint.introduction.2" = "For better orientation, {{appName}} ships with %li example workouts. Select one to see how a workout might look like.";
+"text.hint.startedWorkouts" = "If you are in the middle of one of today's workouts, here you will see its progress.";
 "text.hint.archiveWorkout.1" = "You can archive your workouts by swiping left and selecting '%@'.";
 "text.hint.archiveWorkout.2" = "Tap here to access your archived workouts.";
 //
 "text.hint.startWorkout" = "You can start a workout by selecting any exercise.";
-"text.hint.startedWorkout" = "If you are in the middle of today's workout, here you will also see your workout's progress.";
-"text.hint.editWorkout" = "Use 'Edit' to add new exercises to your workout program or to modify or remove existing ones.";
+"text.hint.startedWorkout.1" = "If you are in the middle of today's workout, here you will see the progress of each exercise.";
+"text.hint.startedWorkout.2" = "Once your workout is complete, here you can access the summary of your workout.";
+"text.hint.editWorkout" = "Use 'Edit' to add new exercises to your workout or to modify or remove existing ones.";
 "text.hint.performWorkout.1" = "Here there is an entry for each set you have to perform. In this case, the goal is %@.\n\nSimply tap a set to add a log.";
 "text.hint.performWorkout.2" = "Tap here to reveal additional information about the current exercise and workout.";
 "text.hint.performWorkout.3" = "Swipe left or right to move to the other exercises within a workout.";
@@ -414,11 +422,11 @@
 "text.hint.customizeStatistics" = "You can customize how the line graphs and pie charts display your data.";
 //
 "text.hint.createWorkoutExercise.1" = "Here you can select the exercise you want to add to your workout.";
-"text.hint.createWorkoutExercise.2" = "You can also edit the sets of your exercise, group your exercise inside your workout program and define a specific timer duration for this exercise.";
+"text.hint.createWorkoutExercise.2" = "You can also edit the sets of your exercise, group your exercise inside your workout and define a specific timer duration for this exercise.";
 "text.hint.createExerciseOnTheFly" = "If none of the existing exercises suits you, use '+' to create and add your own exercise on the fly.\n\nHint: you can also select an exercise and modify it later on.";
 //
 "text.hint.browseExercises" = "From here you have access to all your exercises. Select a specific target region or '%@' to start browsing through your exercises.";
-"text.hint.manageExercises.1" = "Select an exercise to open its detail view.\nFrom within the detail view you can for example access the exercise's logs or add the exercise to a workout program.";
+"text.hint.manageExercises.1" = "Select an exercise to open its detail view.\nFrom within the detail view you can for example access the exercise's logs or add the exercise to a workout.";
 "text.hint.manageExercises.2" = "Use 'Edit' to modify or delete your exercises or to create new ones.";
 "text.hint.usedExercises" = "Used exercises - these are exercises that are currently in a workout or for which there are some logs - are highlighted.";
 "text.hint.createExercise" = "An exercise needs only a name and a target region. All the other values are optional.";

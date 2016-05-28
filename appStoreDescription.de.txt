@@ -1,44 +1,43 @@
 Hier kommt GymBook, deine Fitness App um deine Trainings im Fitnessstudio auf effiziente Art und Weise zu erstellen, zu loggen und zu analysieren – alles in einer schönen und innovativen Benutzeroberfläche.
 
 VERWALTE DEINE TRAININGS
-● Erstelle deine Trainings mit deinen eigenen Übungen oder wähle aus den 50 simplen Übungen mit animierten Bildern und Visualisierungen der trainierten primären und sekundären Muskelgruppe
-● Gruppiere und sortiere die Übungen deines Trainings
-● Definiere für jede Übung Anzahl Sätze, Gewicht und Wiederholungen die du durchführen willst
-● Definiere unterschiedliche Einstellungen für jeden Satz einer Übung (z.B. für Aufwärmsätze oder für Pyramidentraining)
-● Archiviere Trainings die du zur Zeit nicht aktiv nutzt und behalte sie für Statistiken oder zur späteren Verwendung
+• Erstelle deine Trainings mit deinen eigenen Übungen oder wähle aus den 50 simplen Übungen mit animierten Bildern und Visualisierungen der trainierten primären und sekundären Muskelgruppe
+• Gruppiere und sortiere die Übungen deines Trainings
+• Definiere für jede Übung Anzahl Sätze, Gewicht und Wiederholungen die du durchführen willst
+• Definiere unterschiedliche Einstellungen für jeden Satz einer Übung (z.B. für Aufwärmsätze oder für Pyramidentraining)
+• Archiviere Trainings die du zur Zeit nicht aktiv nutzt und behalte sie für Statistiken oder zur späteren Verwendung
 
 VERWALTE DEINE ÜBUNGEN
-● Bearbeite die gelieferten Übungen
-● Erstelle deine eigenen Übungen (unterstützt auch Kardio-Übungen)
-● Ergänze deine Übungen mit dem Bereich, der primären und sekundären Muskelgruppe sowie zusätzlichen Notizen
+• Bearbeite die gelieferten Übungen
+• Erstelle deine eigenen Übungen (unterstützt auch Kardio-Übungen)
+• Ergänze deine Übungen mit dem Bereich, der primären und sekundären Muskelgruppe sowie zusätzlichen Notizen
 
 TRAINIERE!
-● Rasches Loggen und Analysieren deiner Trainings
-● Erweitere deine Logs mit Notizen um zusätzliche Informationen hinzufügen
-● Sehe sofort wie du das letzte Mal trainiert hast
-● Benutze die vorgefüllten Picker für rasches Loggen und Quick-Log für superschnelles Loggen
-● Wechsle rasch zu allen Logs der aktuellen Übung, des aktuellen Trainings und des vorherigen Trainings, inklusive aller grafischen Statistiken
-● Wechsle das Trainingsdatum (falls du ein vorheriges Training loggen willst)
-● Sehe deine Übungsstatistik in einem konfigurierbaren, übersichtlichen Liniendiagramm 
-● Wechsle nach dem Speichern eines Logs automatisch zur nächsten auszuführenden Übung (konfigurierbar)
-● Der Trainings-Screen zeigt immer einen detaillierten Überblick über dein heutiges Training
-● Die innovative "Workout Matrix" gibt dir jederzeit eine detaillierte Übersicht über dein aktuelles Training
-● Ein Fortschrittsbalken gibt dir jederzeit über deinen allgemeinen Trainingsfortschritt Auskunft 
-● Eine Zusammenfassung bei Trainingsabschluss zeigt dir deine Leistung und ermöglicht es dir, den Fortschritt im Vergleich zum letzten Mal zu analysieren
-● Abgeschlossene Trainings werden in deiner Health App gespeichert (mit dem Datum, Startzeit, Endzeit, Dauer sowie dem Namen)
+• Rasches Loggen und Analysieren deiner Trainings
+• Logge dein Training an deinem Handgelenk mit GymBook für Apple Watch
+• Erweitere deine Logs mit Notizen um zusätzliche Informationen hinzufügen
+• Sehe sofort wie du das letzte Mal trainiert hast
+• Benutze die vorgefüllten Picker für rasches Loggen und Quick-Log für superschnelles Loggen
+• Wechsle rasch zu allen Logs der aktuellen Übung, des aktuellen Trainings und des vorherigen Trainings, inklusive aller grafischen Statistiken
+• Wechsle das Trainingsdatum (falls du ein vorheriges Training loggen willst)
+• Sehe deine Übungsstatistik in einem konfigurierbaren, übersichtlichen Liniendiagramm 
+• Wechsle nach dem Speichern eines Logs automatisch zur nächsten auszuführenden Übung (konfigurierbar)
+• Der Trainings-Screen zeigt immer einen detaillierten Überblick über dein heutiges Training
+• Die innovative "Workout Matrix" gibt dir jederzeit eine detaillierte Übersicht über dein aktuelles Training
+• Ein Fortschrittsbalken gibt dir jederzeit über deinen allgemeinen Trainingsfortschritt Auskunft 
+• Eine Zusammenfassung bei Trainingsabschluss zeigt dir deine Leistung und ermöglicht es dir, den Fortschritt im Vergleich zum letzten Mal zu analysieren
+• Abgeschlossene Trainings werden in deiner Health App gespeichert (mit dem Datum, Startzeit, Endzeit, Dauer sowie dem Namen)
 
 MEHR...
-● Stoppe deine Pausen mit dem anpassbaren Timer, welcher auch funktioniert wenn du dein iPhone sperrst oder die App schliesst: Du kannst die Timer-Zeit konfigurieren, hast einen primären und sekundären Timer sowie auch einen Übungs-Timer, kannst zwischen einem klassichen oder grafischen Timer wählen, hast verschiedene Timer Sounds und mehr.
-● Erhalte eine detaillierte Analyse deiner Performance mit Hilfe der interaktiven Liniendiagramme und/oder Kuchendiagramme
-● Exportieren deine Logs als XML- und CSV-Datei und ein Backup als Datenbank-Datei
-● Führe dein Körpergewicht nach, berechne deinen BMI und analysiere das in einem interaktiven Liniendiagramm
-● Ändere das Design von GymBook und wähle aus sieben tollen Designs
+• Stoppe deine Pausen mit dem anpassbaren Timer, welcher auch funktioniert wenn du dein iPhone sperrst oder die App schliesst: Du kannst die Timer-Zeit konfigurieren, hast einen primären und sekundären Timer sowie auch einen Übungs-Timer, kannst zwischen einem klassichen oder grafischen Timer wählen, hast verschiedene Timer Sounds und mehr
+• Erhalte eine detaillierte Analyse deiner Performance mit Hilfe der interaktiven Liniendiagramme und/oder Kuchendiagramme
+• Exportieren deine Logs als XML- und CSV-Datei und ein Backup als Datenbank-Datei
+• Führe dein Körpergewicht nach, berechne deinen BMI und analysiere das in einem interaktiven Liniendiagramm
+• Ändere das Design von GymBook und wähle aus sieben tollen Designs
 
 *Einige Spezialfunktionen können via In-App-Käufe erworben werden.
 
 SUPPORT: GymBook unterstützt das metrische (Kilogramm, Meter) und das imperiale (Pfund, Fuss) Masssystem.
-
-LOKALISIERUNGEN: Neben Deutsch werden zur Zeit die Sprachen Englisch, Italienisch und teilweise Russisch unterstützt (mehr auf https://github.com/sallvi/localize-gymbook).
  
 HINWEIS: GymBook wurde von Fitnessexperten, für Fitnessexperten entwickelt. Es konzentriert sich deshalb auf DEINE Trainings und beinhaltet lediglich Beispiel-Trainingsprogramme zur besseren Orientierung.
 

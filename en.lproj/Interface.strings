@@ -358,7 +358,7 @@
 "text.description.settings.workout.graphType" = "The line graph during your workout shows %@.";
 "text.description.settings.exercises" = "The exercise names will be shown in %@. %@ is visualized in the exercise images.";
 "text.description.settings.applicationInformation.recommend" = "Check out this new app: %@";
-"text.confirmation.acceptDisclaimer" = "The exercises and example workouts provided by {{appName}} have been created with highest care and best effort. Nevertheless they are intended as orientation help only and are supplied without guarantee. {{appName}} assumes no liability for any disadvantages or damages resulting from the use of {{appName}} and/or the information provided by {{appName}}.";
+"text.confirmation.acceptDisclaimer" = "The exercises and example workouts provided by {{appName}} have been created with the highest care and best effort. Nevertheless, they are intended for orientation only and are supplied without guarantees. {{appName}} assumes no liability for any disadvantages or damages resulting from the use of {{appName}} and/or the information provided by {{appName}}.";
 "text.confirmation.deleteExercise" = "Are you sure you want to delete the exercise \n\"%@\"?";
 "text.confirmation.deleteWorkout" = "Are you sure you want to delete the workout \n\"%@\"?";
 "text.confirmation.deleteExercises.all" = "Are you sure you want to delete ALL exercises?";
@@ -393,7 +393,7 @@
 "text.alert.backupImport.unableToImportBackup" = "Please make sure that you are using a valid {{appName}} backup database file which you exported with {{appName}}.";
 //products
 //
-"text.inAppPurchase.product.package.platinum.description" = "This package will give you forever unlimited access to all {{appName}} functions. For only [{PRODUCT_PRICE}] it unlocks all the existing special functions and also all the functions that will be developed in the future. Each newly developed function will automatically be enabled for you right away - forever!";
+"text.inAppPurchase.product.package.platinum.description" = "This package will forever give you unlimited access to all {{appName}} functions. For only [{PRODUCT_PRICE}] it unlocks all the existing special functions and also all the functions that will be developed in the future. Each newly developed function will automatically be enabled for you right away - forever!";
 "text.inAppPurchase.product.package.gold.description" = "With this package you can immediately unlock several {{appName}} functions at once and thus benefit from a more attractive price.";
 //
 "text.inAppPurchase.product.feature.allExercises.description" = "Load %li additional exercises like for example '%@', '%@' or '%@'.\n\nAdditionally, with [{PRODUCT_NAME}] you also activate all exercises which will be added in the future.";
@@ -403,7 +403,7 @@
 //hints
 //
 "text.hint.introduction.1" = "Welcome to {{appName}}. These hints will give you some useful information on how to use {{appName}}.";
-"text.hint.introduction.2" = "For better orientation, {{appName}} ships with %li example workouts. Select one to see how a workout might look like.";
+"text.hint.introduction.2" = "For better orientation, {{appName}} ships with %li example workouts. Select one to see what a workout might look like.";
 "text.hint.startedWorkouts" = "If you are in the middle of one of today's workouts, here you will see its progress.";
 "text.hint.archiveWorkout.1" = "You can archive your workouts by swiping left and selecting '%@'.";
 "text.hint.archiveWorkout.2" = "Tap here to access your archived workouts.";
@@ -417,7 +417,7 @@
 "text.hint.performWorkout.3" = "Swipe left or right to move to the other exercises within a workout.";
 "text.hint.logNotes" = "If you want to add notes to a log, you can do it by holding your finger on an existing log.";
 "text.hint.quickLog" = "Hold down your finger on a set to quickly log the same as the previous time.\n\nHint: this works for the selected set and all the previous ones.";
-"text.hint.lineGraphInfo" = "Hold down your finger on the line graph and move it left or right to see exactly how you did at a specific date.";
+"text.hint.lineGraphInfo" = "Hold down your finger on the line graph and move it left or right to see exactly how you did on a specific date.";
 "text.hint.pieChartInfo" = "Tap a value in the pie chart or in the legend to highlight it.";
 "text.hint.customizeStatistics" = "You can customize how the line graphs and pie charts display your data.";
 //
@@ -429,7 +429,7 @@
 "text.hint.manageExercises.1" = "Select an exercise to open its detail view.\nFrom within the detail view you can for example access the exercise's logs or add the exercise to a workout.";
 "text.hint.manageExercises.2" = "Use 'Edit' to modify or delete your exercises or to create new ones.";
 "text.hint.usedExercises" = "Used exercises - these are exercises that are currently in a workout or for which there are some logs - are highlighted.";
-"text.hint.createExercise" = "An exercise needs only a name and a target region. All the other values are optional.";
+"text.hint.createExercise" = "An exercise only requires a name and a target region. All the other values are optional.";
 "text.hint.usedInWorkouts" = "Workouts in which the current exercise is being used are highlighted.";
 "text.hint.addToWorkout.1" = "Here you can select the workout to which you want to add your exercise.";
 "text.hint.addToWorkout.2" = "If none of the existing workouts suits you, use '+' to immediately create a new workout and add your exercise to it.";

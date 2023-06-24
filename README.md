@@ -1,6 +1,8 @@
 localize-gymbook
 ================
 
+IMPORTANT: This project is not maintained anymore. If you are interested in providing a translation, please reach out to us at localize@gymbookapp.com.
+
 Open source project for community driven translations for the iPhone App GymBook.
 
 ### App Translations ###
